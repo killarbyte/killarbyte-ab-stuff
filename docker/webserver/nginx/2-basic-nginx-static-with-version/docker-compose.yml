@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  nginx:
+    image: nginx:1.21
+    restart: unless-stopped
+    ports:
+      - 39080:80
+    volumes:
+      - ./log:/var/nginx/log:ro
+      - ./data:/usr/share/nginx/html:ro
