@@ -1,0 +1,7 @@
+https://www.domain.com
+https://www.domain.com/p/about.html
+https://www.domain.com/p/information.html
+https://www.domain.com/p/order.html
+https://www.domain.com/p/delivery.html
+https://www.domain.com/p/contact.html
+https://www.domain.com/p/help.html
