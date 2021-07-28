@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XRumerProject>
+  <PrimarySection>
+    <ProjectName>CONTACTS_by_SwS-1251</ProjectName>
+    <ProjectFormat>ANSI</ProjectFormat>
+    <NickName>#file_links_a[projects\CONTACTS_by_SwS-1251\Project1\NickNames.txt,1,NP]</NickName>
+    <RealName>#file_links_a[projects\CONTACTS_by_SwS-1251\Project1\NickNames.txt,1,NP]SL</RealName>
+    <Password>PASsWORD123!</Password>
+    <EmailAddress>#file_links_b[projects\CONTACTS_by_SwS-1251\Project1\EmailAddress.txt,1,np]</EmailAddress>
+    <EmailPassword>#file_links_c[Projects\CONTACTS_by_SwS-1251\Project1\EmailPassword.txt,1,NP]</EmailPassword>
+    <EmailLogin>#file_links_d[Projects\CONTACTS_by_SwS-1251\Project1\EmailLogin.txt,1,NP]</EmailLogin>
+    <EmailPOP>pop.mail.ru</EmailPOP>
+    <Homepage>#file_links_e[Projects\CONTACTS_by_SwS-1251\Project1\UrlsList.txt,1,NP]</Homepage>
+    <ICQ>#file_links_f[Projects\CONTACTS_by_SwS-1251\Project1\Phones.txt,1,NP]</ICQ>
+    <City></City>
+    <Country></Country>
+    <Occupation></Occupation>
+    <Interests></Interests>
+    <Signature></Signature>
+    <Gender>0</Gender>
+    <UnknownFields></UnknownFields>
+    <PollTitle></PollTitle>
+    <PollOption1></PollOption1>
+    <PollOption2></PollOption2>
+    <PollOption3></PollOption3>
+    <PollOption4></PollOption4>
+    <PollOption5></PollOption5>
+  </PrimarySection>
+  <SecondarySection>
+    <Subject1>#file_links_g[Projects\CONTACTS_by_SwS-1251\Project1\Subject.txt,1,NP]</Subject1>
+    <Subject2></Subject2>
+    <PostText>#file_links_h["Projects\CONTACTS_by_SwS-1251\Project1\{m1|m2}.txt",1,NP]
+</PostText>
+    <Prior>услуги
+разное
+другое
+прочее
+--новая категория--
+послуги
+різний
+інше</Prior>
+    <OnlyPriors>false</OnlyPriors>
+  </SecondarySection>
+</XRumerProject>
