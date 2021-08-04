@@ -1,0 +1,7 @@
+Engine (site) name: Statistic-awstats
+Engine type (Optional): Statistic-awstats
+
+Must Have lines:
+advanced web statistics|created by awstats
+
+Url must have:

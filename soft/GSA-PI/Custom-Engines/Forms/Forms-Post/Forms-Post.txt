@@ -1,0 +1,7 @@
+Engine (site) name: Forms-Post
+Engine type (Optional): Forms-Post
+
+Must Have lines:
+method="post"
+
+Url must have:

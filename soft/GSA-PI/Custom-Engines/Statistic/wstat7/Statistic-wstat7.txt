@@ -1,0 +1,8 @@
+Engine (site) name: Statistic-wstat7
+Engine type (Optional): Statistic-wstat7
+
+Must Have lines:
+web server statistics|calendar of reports|cumulative summary
+
+Url must have:
+wstat7
