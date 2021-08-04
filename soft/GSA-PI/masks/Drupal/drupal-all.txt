@@ -1,0 +1,3 @@
+user/register
+user/login
+node/add/blog

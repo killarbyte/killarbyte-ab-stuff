@@ -1,0 +1,7 @@
+component/users?view=registration
+index.php/component/user/?view=register
+create-an-account.html
+users/registration.html
+registration
+register
+registration.html

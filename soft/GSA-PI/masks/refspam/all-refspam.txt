@@ -1,0 +1,10 @@
+awstats/awstats.pl
+statistics/awstats.pl
+stats/awstats.pl
+webstat/awstats.pl
+awstats/cgi-bin/awstats.pl
+statistics/cgi-bin/awstats.pl
+stats/cgi-bin/awstats.pl
+webstat/cgi-bin/awstats.pl
+awstats7/awstats.pl
+webalizer/
