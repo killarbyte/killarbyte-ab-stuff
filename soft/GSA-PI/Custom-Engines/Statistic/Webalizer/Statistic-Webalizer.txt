@@ -1,0 +1,8 @@
+Engine (site) name: Statistic-Webalizer
+Engine type (Optional): Statistic-Webalizer
+
+Must Have lines:
+usage statistics
+
+Url must have:
+webalizer|webalizer
