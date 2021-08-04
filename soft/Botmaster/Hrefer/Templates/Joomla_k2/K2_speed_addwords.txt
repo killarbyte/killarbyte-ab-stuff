@@ -1,0 +1,8 @@
+inurl:/component/users/?view=registration
+inurl:option=com_user&view=register
+inurl:users/?view=registration
+inurl:users/?view=login
+inurl:option=com_k2
+inurl:/component/k2/
+inurl:option=com_users&view=
+inurl:option=com_user&task=

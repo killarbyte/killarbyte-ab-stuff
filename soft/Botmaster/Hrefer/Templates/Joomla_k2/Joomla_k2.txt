@@ -1,0 +1,11 @@
+users/?view=registration
+user/?view=registration
+option=com_user&view=register
+option=com_user&view=registration
+users/?view=login
+user/?view=login
+view=reset
+option=com_k2
+&view=itemlist&task=user&id=
+/component/
+?option=com_
