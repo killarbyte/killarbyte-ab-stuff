@@ -1,0 +1,25 @@
+version: "2.1"
+services:
+  wireguard:
+    image: linuxserver/wireguard
+    container_name: wireguard
+    cap_add:
+      - NET_ADMIN
+      - SYS_MODULE
+    environment:
+      - PUID=1001
+      - PGID=1001
+      - TZ=Europe/Netherlands
+      - SERVERURL=auto #optional
+      - SERVERPORT=51820 #optional
+      - PEERS=10 #optional
+      - PEERDNS=auto #optional
+      - INTERNAL_SUBNET=10.13.13.0 #optional
+    volumes:
+      - /app/vpn/wireguard/config:/config
+      - /lib/modules:/lib/modules
+    ports:
+      - 51820:51820/udp
+    sysctls:
+      - net.ipv4.conf.all.src_valid_mark=1
+    restart: always
