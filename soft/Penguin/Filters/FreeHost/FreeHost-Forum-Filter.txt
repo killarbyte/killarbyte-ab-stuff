@@ -41,3 +41,12 @@
 .ahlamontada.com:=FreeHost.txt
 .clanfm.ru:=FreeHost.txt
 .forumotion.co.uk:=FreeHost.txt
+.webrpg.info:=FreeHost.txt
+.topbboard.com:=FreeHost.txt
+.bosnianforum.com:=FreeHost.txt
+.mastertopforum.com:=FreeHost.txt
+.xooit.biz:=FreeHost.txt
+.forumdesfans.com:=FreeHost.txt
+.leforum.cc:=FreeHost.txt
+.forumid.net:=FreeHost.txt
+.smileforum.info:=FreeHost.txt
