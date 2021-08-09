@@ -6,3 +6,8 @@
 .xooit.com:=FreeHost.txt
 .forum-box.com:=FreeHost.txt
 .forum2x2.ru:=FreeHost.txt
+.ipb2.ru:=FreeHost.txt
+.forumdizini.com:=FreeHost.txt
+.thai-forum.net:=FreeHost.txt
+.aktiv-forum.com:=FreeHost.txt
+.mirbb.com:=FreeHost.txt
