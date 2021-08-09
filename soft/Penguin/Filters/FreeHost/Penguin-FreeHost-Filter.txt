@@ -1,1 +1,8 @@
 .listbb.ru:=FreeHost.txt
+.bbforum.be:=FreeHost.txt
+.forumfree.org:=FreeHost.txt
+.vraiforum.com:=FreeHost.txt
+.clicforum.fr:=FreeHost.txt
+.xooit.com:=FreeHost.txt
+.forum-box.com:=FreeHost.txt
+.forum2x2.ru:=FreeHost.txt
