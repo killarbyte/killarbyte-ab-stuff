@@ -1,1 +1,1 @@
-/profile.php:=FreeHost.txt
+.listbb.ru
