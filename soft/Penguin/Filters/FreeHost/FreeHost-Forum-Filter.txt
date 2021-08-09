@@ -30,3 +30,14 @@
 .editboard.com:=FreeHost.txt
 .profiforum.ru:=FreeHost.txt
 .iboards.ru:=FreeHost.txt
+.coolforum.info:=FreeHost.txt
+.ebboard.com:=FreeHost.txt
+.forumieren.net:=FreeHost.txt
+.fmbb.ru:=FreeHost.txt
+.indonesianforum.net
+.phpbb6.de:=FreeHost.txt
+.wikiforum.ro:=FreeHost.txt
+.mybb3.ru:=FreeHost.txt
+.ahlamontada.com:=FreeHost.txt
+.clanfm.ru:=FreeHost.txt
+.forumotion.co.uk:=FreeHost.txt
