@@ -26,3 +26,7 @@
 .elencoforum.com:=FreeHost.txt
 .kanak.fr:=FreeHost.txt
 .phpbb9.com:=FreeHost.txt
+.forumgratuit.ch:=FreeHost.txt
+.editboard.com:=FreeHost.txt
+.profiforum.ru:=FreeHost.txt
+.iboards.ru:=FreeHost.txt
