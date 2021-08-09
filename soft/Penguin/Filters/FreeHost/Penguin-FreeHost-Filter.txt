@@ -11,3 +11,8 @@
 .thai-forum.net:=FreeHost.txt
 .aktiv-forum.com:=FreeHost.txt
 .mirbb.com:=FreeHost.txt
+.bigforum4you.com:=FreeHost.txt
+.moetodete.bg:=FreeHost.txt
+.forummotion.com:=FreeHost.txt
+.forumvi.com:=FreeHost.txt
+.newforumlive.com:=FreeHost.txt
