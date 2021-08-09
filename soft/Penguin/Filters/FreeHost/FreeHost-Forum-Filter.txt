@@ -68,3 +68,8 @@
 .level52.com:=FreeHost.txt
 .boardhost.com:=FreeHost.txt
 .xooit.eu:=FreeHost.txt
+.xooit.fr:=FreeHost.txt
+.tforums.ws:=FreeHost.txt
+.forumz.ro:=FreeHost.txt
+.forumotion.com:=FreeHost.txt
+.forumlv.com:=FreeHost.txt
