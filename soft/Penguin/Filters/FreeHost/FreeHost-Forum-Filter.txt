@@ -16,3 +16,8 @@
 .forummotion.com:=FreeHost.txt
 .forumvi.com:=FreeHost.txt
 .newforumlive.com:=FreeHost.txt
+.clicforum.com:=FreeHost.txt
+.forumex.ru:=FreeHost.txt
+.forumsc.net:=FreeHost.txt
+.getbb.ru:=FreeHost.txt
+.xooit.be:=FreeHost.txt
