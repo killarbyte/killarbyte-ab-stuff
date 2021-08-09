@@ -21,3 +21,8 @@
 .forumsc.net:=FreeHost.txt
 .getbb.ru:=FreeHost.txt
 .xooit.be:=FreeHost.txt
+.activoforo.com:=FreeHost.txt
+.souluntan.com:=FreeHost.txt
+.elencoforum.com:=FreeHost.txt
+.kanak.fr:=FreeHost.txt
+.phpbb9.com:=FreeHost.txt
