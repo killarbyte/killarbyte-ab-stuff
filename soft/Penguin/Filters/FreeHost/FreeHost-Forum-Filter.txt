@@ -114,3 +114,9 @@
 .mam9.com:=FreeForum.txt
 .yasenevo.ru:=FreeForum.txt
 .soforums.com:=FreeForum.txt
+.forumforever.com:=FreeForum.txt
+.free.fr:=FreeForum.txt
+.forumgratuit.org:=FreeForum.txt
+.forumpl.net:=FreeForum.txt
+.forum-canada.com:=FreeForum.txt
+.forosactivos.net:=FreeForum.txt
