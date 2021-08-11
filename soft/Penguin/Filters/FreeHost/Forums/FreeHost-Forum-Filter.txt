@@ -127,3 +127,14 @@
 .tforums.org:=FreeForum.txt
 .bestforums.org:=FreeForum.txt
 .phpbb.net:=FreeForum.txt
+.umforum.net:=FreeForum.txt
+.123.st:=FreeForum.txt
+.xooit.co.uk:=FreeForum.txt
+.666forum.com:=FreeForum.txt
+.mastertopforum.net:=FreeForum.txt
+.exprimetoi.net:=FreeForum.txt
+.forumms.net:=FreeForum.txt
+.forumth.com:=FreeForum.txt
+.keyforum.ru:=FreeForum.txt
+.boardforyou.com:=FreeForum.txt
+.superforo.net:=FreeForum.txt
