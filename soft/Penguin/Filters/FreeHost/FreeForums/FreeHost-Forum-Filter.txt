@@ -138,3 +138,4 @@
 .keyforum.ru:=FreeForum.txt
 .boardforyou.com:=FreeForum.txt
 .superforo.net:=FreeForum.txt
+.forumotion.net:=FreeForum.txt
