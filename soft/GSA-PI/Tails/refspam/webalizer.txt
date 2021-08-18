@@ -1,1 +1,2 @@
 webalizer/
+priv_stats/webalizer.current

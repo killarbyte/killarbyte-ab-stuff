@@ -139,3 +139,9 @@
 .boardforyou.com:=FreeForum.txt
 .superforo.net:=FreeForum.txt
 .forumotion.net:=FreeForum.txt
+.forumegypt.net:=FreeForum.txt
+.forum-pro.fr:=FreeForum.txt
+.swedishforum.net:=FreeForum.txt
+.hotforumonline.com:=FreeForum.txt
+.aforumfree.com:=FreeForum.txt
+.el-foro.net:=FreeForum.txt
