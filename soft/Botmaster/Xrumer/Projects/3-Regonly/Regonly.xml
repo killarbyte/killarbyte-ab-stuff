@@ -16,7 +16,7 @@
     <Country>#file_links_I[Projects\Regonly\legend\Country.txt,1,NP]</Country>
     <Occupation>#file_links_J[Projects\Regonly\legend\Occupation.txt,1,NP]</Occupation>
     <Interests>#file_links_K[Projects\Regonly\legend\Interests.txt,1,NP]</Interests>
-    <Signature>#file_links_L[Projects\Regonly\Signature.txt,1,NP]</Signature>
+    <Signature></Signature>
     <Gender>1</Gender>
     <UnknownFields></UnknownFields>
     <PollTitle></PollTitle>
@@ -27,10 +27,9 @@
     <PollOption5></PollOption5>
   </PrimarySection>
   <SecondarySection>
-    <Subject1>#file_links_M[Projects\Regonly\post\Subject.txt,1,NP]</Subject1>
-    <Subject2>#file_links_N[Projects\Regonly\post\Subject2.txt,1,NP]</Subject2>
-    <PostText>#file_links_O["Projects\Regonly\posttext\{t1|t2}.txt",1,NP]
-</PostText>
+    <Subject1>$$$^^^$$$</Subject1>
+    <Subject2>%%%^^^%%%</Subject2>
+    <PostText></PostText>
     <Prior>бизнес
 досуг
 объяв
