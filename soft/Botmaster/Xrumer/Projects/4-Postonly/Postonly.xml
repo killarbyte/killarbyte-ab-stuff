@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XRumerProject>
+  <PrimarySection>
+    <ProjectName>Postonly</ProjectName>
+    <ProjectFormat>ANSI</ProjectFormat>
+    <NickName>#file_links_A[Projects\Postonly\legend\Nicknames.txt,1,NP]</NickName>
+    <RealName>#file_links_A[Projects\Postonly\legend\Nicknames.txt,1,NP]MB</RealName>
+    <Password>#file_links_B[Projects\Postonly\legend\Password.txt,1,NP]</Password>
+    <EmailAddress>#file_links_c[projects\Postonly\email\emailaddress.txt,1,np]</EmailAddress>
+    <EmailPassword>#file_links_D[Projects\Postonly\email\EmailPassword.txt,1,NP]</EmailPassword>
+    <EmailLogin>#file_links_E[Projects\Postonly\email\EmailLogin.txt,1,NP]</EmailLogin>
+    <EmailPOP>#file_links_F[Projects\Postonly\email\EmailPOP.txt,1,NP]</EmailPOP>
+    <Homepage>#file_links_G[Projects\Postonly\Homepage.txt,1,NP]</Homepage>
+    <ICQ>#random[0..9]#random[0..9]#random[0..9]#random[0..9]#random[0..9]#random[0..9]#random[0..9]</ICQ>
+    <City>#file_links_H[Projects\Postonly\legend\City.txt,1,NP]</City>
+    <Country>#file_links_I[Projects\Postonly\legend\Country.txt,1,NP]</Country>
+    <Occupation>#file_links_J[Projects\Postonly\legend\Occupation.txt,1,NP]</Occupation>
+    <Interests>#file_links_K[Projects\Postonly\legend\Interests.txt,1,NP]</Interests>
+    <Signature>#file_links_L[Projects\Postonly\Signature.txt,1,NP]</Signature>
+    <Gender>1</Gender>
+    <UnknownFields></UnknownFields>
+    <PollTitle></PollTitle>
+    <PollOption1></PollOption1>
+    <PollOption2></PollOption2>
+    <PollOption3></PollOption3>
+    <PollOption4></PollOption4>
+    <PollOption5></PollOption5>
+  </PrimarySection>
+  <SecondarySection>
+    <Subject1>#file_links_M[Projects\Postonly\post\Subject.txt,1,NP]</Subject1>
+    <Subject2>#file_links_N[Projects\Postonly\post\Subject2.txt,1,NP]</Subject2>
+    <PostText>#file_links_O["Projects\Postonly\posttext\{t1|t2}.txt",1,NP]
+</PostText>
+    <Prior>бизнес
+досуг
+объяв
+курилка
+флейм
+флэйм
+основн
+развлеч
+оффтопик
+офтопик
+офф-топик
+прочее
+разное
+обо всём
+flood
+flame
+stuff
+blah
+off-topic
+off topic
+offtopic
+oftopic
+general
+common
+business
+обща
+общий
+общее
+общие
+реклам
+adver</Prior>
+    <OnlyPriors>false</OnlyPriors>
+  </SecondarySection>
+</XRumerProject>
