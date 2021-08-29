@@ -1,1 +1,1 @@
-away.php?url=
+away.php?url=https://ya.ru
