@@ -3,6 +3,7 @@ version: "3"
 services:
   nginx:
     image: nginx:1.21
+    container_name: Nginx-Static-Host1
     restart: unless-stopped
     ports:
       - 39080:80
