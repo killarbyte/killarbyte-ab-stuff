@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  file-browser:
+    image: filebrowser/filebrowser:v2-arm64
+    container_name: file-browser
+    user: 1000:1000
+    restart: unless-stopped
+    ports:
+      - 11000:80
+    volumes:
+      - ./data:/srv
+      - ./filebrowser.db:/database.db
+    security_opt:
+      - no-new-privileges:true
