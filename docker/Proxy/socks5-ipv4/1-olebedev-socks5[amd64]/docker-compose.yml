@@ -1,15 +1,15 @@
 version: "3"
 
 services:
-  file-browser:
-    image: filebrowser/filebrowser:v2-arm64
-    container_name: file-browser
+  socks5_ipv4:
+    image: olebedev/socks5
+    container_name: socks5_ipv4
     user: 1000:1000
     restart: unless-stopped
     ports:
-      - 11000:80
-    volumes:
-      - ./data:/srv
-      - ./filebrowser.db:/database.db
+      - 28131:1080
+    environment:
+      - PROXY_USER=YOURUSER
+      - PROXY_PASSWORD=YOURPASSWORD
     security_opt:
       - no-new-privileges:true
