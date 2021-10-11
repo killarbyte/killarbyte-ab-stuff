@@ -4,7 +4,6 @@ services:
   socks5_ipv4:
     image: olebedev/socks5
     container_name: socks5_ipv4
-    user: 1000:1000
     restart: unless-stopped
     ports:
       - 28131:1080
