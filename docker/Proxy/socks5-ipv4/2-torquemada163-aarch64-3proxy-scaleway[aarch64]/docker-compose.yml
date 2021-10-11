@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  socks5_ipv4:
+    image: torquemada163/aarch64-3proxy-scaleway
+    container_name: socks5_aarch64
+    restart: unless-stopped
+    ports:
+      - 28130:3128
+      - 28131:1080
+    environment:
+      - CRED=YOURPROXYLOGIN:CL:YOURPROXYPASSWORD
+    security_opt:
+      - no-new-privileges:true
