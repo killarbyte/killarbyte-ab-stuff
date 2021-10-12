@@ -29,7 +29,7 @@
   <SecondarySection>
     <Subject1>#file_links_g[Projects\CONTACTS_by_SwS-1251\Project1\Subject.txt,1,NP]</Subject1>
     <Subject2></Subject2>
-    <PostText>#file_links_h["Projects\CONTACTS_by_SwS-1251\Project1\{m1|m2}.txt",1,NP]
+    <PostText>#file="Projects\CONTACTS_by_SwS-1251\Project1\{m1|m2}.txt"
 </PostText>
     <Prior>услуги
 разное
