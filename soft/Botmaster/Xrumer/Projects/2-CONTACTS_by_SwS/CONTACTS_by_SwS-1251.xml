@@ -9,7 +9,7 @@
     <EmailAddress>#file_links_b[projects\CONTACTS_by_SwS-1251\Project1\EmailAddress.txt,1,np]</EmailAddress>
     <EmailPassword>#file_links_c[Projects\CONTACTS_by_SwS-1251\Project1\EmailPassword.txt,1,NP]</EmailPassword>
     <EmailLogin>#file_links_d[Projects\CONTACTS_by_SwS-1251\Project1\EmailLogin.txt,1,NP]</EmailLogin>
-    <EmailPOP>pop.mail.ru</EmailPOP>
+    <EmailPOP>#file_links_h[Projects\CONTACTS_by_SwS-1251\Project1\EmailPOP.txt,1,NP]</EmailPOP>
     <Homepage>#file_links_e[Projects\CONTACTS_by_SwS-1251\Project1\UrlsList.txt,1,NP]</Homepage>
     <ICQ>#file_links_f[Projects\CONTACTS_by_SwS-1251\Project1\Phones.txt,1,NP]</ICQ>
     <City></City>
