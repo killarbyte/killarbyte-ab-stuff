@@ -2,6 +2,7 @@
 .wordpress.com
 .tumblr.com
 .weebly.com
+.wix.com
 .pinterest.com
 .blog.com
 .reddit.com
