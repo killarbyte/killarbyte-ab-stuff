@@ -5,3 +5,4 @@
 .pinterest.com
 .blog.com
 .reddit.com
+.blogspot.com
