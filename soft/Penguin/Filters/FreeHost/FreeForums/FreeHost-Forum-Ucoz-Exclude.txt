@@ -11,6 +11,7 @@
 .ucoz.pl
 .ucoz.ae
 .ucoz.co.uk
+.ucoz.co.il
 .ucoz.ro
 .3dn.ru
 .at.ua

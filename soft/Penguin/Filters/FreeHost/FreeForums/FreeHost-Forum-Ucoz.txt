@@ -11,6 +11,7 @@
 .ucoz.pl:=FreeForumUcoz.txt
 .ucoz.ae:=FreeForumUcoz.txt
 .ucoz.co.uk:=FreeForumUcoz.txt
+.ucoz.co.il:=FreeForumUcoz.txt
 .ucoz.ro:=FreeForumUcoz.txt
 .3dn.ru:=FreeForumUcoz.txt
 .at.ua:=FreeForumUcoz.txt
