@@ -1,0 +1,1 @@
+.livejournal.com:=FreeWeb2.0.txt
