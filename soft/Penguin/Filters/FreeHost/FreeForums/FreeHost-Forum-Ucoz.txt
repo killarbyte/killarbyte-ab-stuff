@@ -19,3 +19,4 @@
 .clan.su:=FreeForumUcoz.txt
 .moy.su:=FreeForumUcoz.txt
 .do.am:=FreeForumUcoz.txt
+.narod.ru:=FreeForumUcoz.txt

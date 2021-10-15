@@ -19,3 +19,4 @@
 .clan.su
 .moy.su
 .do.am
+.narod.ru
