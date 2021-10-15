@@ -1,1 +1,7 @@
 .livejournal.com
+.wordpress.com
+.tumblr.com
+.weebly.com
+.pinterest.com
+.blog.com
+.reddit.com

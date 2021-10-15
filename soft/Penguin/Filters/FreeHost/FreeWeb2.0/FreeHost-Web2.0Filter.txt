@@ -1,1 +1,7 @@
 .livejournal.com:=FreeWeb2.0.txt
+.wordpress.com:=FreeWeb2.0.txt
+.tumblr.com:=FreeWeb2.0.txt
+.weebly.com:=FreeWeb2.0.txt
+.pinterest.com:=FreeWeb2.0.txt
+.blog.com:=FreeWeb2.0.txt
+.reddit.com:=FreeWeb2.0.txt
