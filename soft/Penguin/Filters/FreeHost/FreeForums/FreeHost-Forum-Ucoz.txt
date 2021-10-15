@@ -1,2 +1,4 @@
 .ucoz.ru:=FreeForumUcoz.txt
+.ucoz.com:=FreeForumUcoz.txt
 .ucoz.ua:=FreeForumUcoz.txt
+.ucoz.org:=FreeForumUcoz.txt

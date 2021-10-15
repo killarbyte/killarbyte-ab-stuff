@@ -1,2 +1,4 @@
 .ucoz.ru
+.ucoz.com
 .ucoz.ua
+.ucoz.org
