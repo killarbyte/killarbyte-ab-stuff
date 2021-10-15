@@ -1,1 +1,2 @@
 .1gb.ru:=FreeHosting.txt
+.16mb.com:=FreeHosting.txt
