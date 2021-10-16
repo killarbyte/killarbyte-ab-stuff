@@ -1,2 +1,3 @@
 index.php?do=register
 index.php?do=feedback&user=1
+index.php?do=lastcomments&userid=1
