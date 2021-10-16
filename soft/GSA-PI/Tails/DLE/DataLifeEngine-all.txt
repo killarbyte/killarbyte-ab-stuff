@@ -1,1 +1,2 @@
 index.php?do=register
+index.php?do=feedback&user=1
