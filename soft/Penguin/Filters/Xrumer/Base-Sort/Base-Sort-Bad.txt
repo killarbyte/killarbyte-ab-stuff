@@ -1,2 +1,3 @@
 (либо отсутствует подключение к интернету):=Base-Sort-Bad.txt
 либо защищён CloudFlare:=CloudFlare.txt
+unknown problem:=unknown-problem.txt
