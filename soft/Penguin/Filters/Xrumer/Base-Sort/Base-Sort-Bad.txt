@@ -1,1 +1,2 @@
-не нашлось формы для отправки;:=Base-Sort-Bad.txt
+(либо отсутствует подключение к интернету):=Base-Sort-Bad.txt
+либо защищён CloudFlare:=CloudFlare.txt
