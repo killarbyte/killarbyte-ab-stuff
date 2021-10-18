@@ -9,3 +9,4 @@
 /mail.html:=Contacts.txt
 /single-contact:=Contacts.txt
 /sendmail.php:=Contacts.txt
+/mailus:=Contacts.txt
