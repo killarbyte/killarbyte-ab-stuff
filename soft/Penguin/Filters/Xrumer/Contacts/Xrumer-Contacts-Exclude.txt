@@ -6,3 +6,4 @@
 /napishite-nam
 /zadat-vopros
 /mail.php
+/mail.html
