@@ -13,3 +13,4 @@
 /email.html
 /ostavit-zayavku
 /svyazatsya-s-nami
+/zayavka.html

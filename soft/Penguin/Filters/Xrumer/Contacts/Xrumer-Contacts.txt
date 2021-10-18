@@ -13,3 +13,4 @@
 /email.html:=Contacts.txt
 /ostavit-zayavku:=Contacts.txt
 /svyazatsya-s-nami:=Contacts.txt
+/zayavka.html:=Contacts.txt
