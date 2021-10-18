@@ -1,1 +1,2 @@
-/kontakty:=Contacts.txt
+/contact:=Contacts.txt
+/kontakt:=Contacts.txt
