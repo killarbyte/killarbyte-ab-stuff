@@ -7,3 +7,4 @@
 /zadat-vopros:=Contacts.txt
 /mail.php:=Contacts.txt
 /mail.html:=Contacts.txt
+/single-contact:=Contacts.txt

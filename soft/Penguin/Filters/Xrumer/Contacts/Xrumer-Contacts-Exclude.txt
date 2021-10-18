@@ -7,3 +7,4 @@
 /zadat-vopros
 /mail.php
 /mail.html
+/single-contact
