@@ -11,3 +11,4 @@
 /sendmail.php
 /mailus
 /email.html
+/ostavit-zayavku
