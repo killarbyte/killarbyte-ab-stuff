@@ -12,3 +12,4 @@
 /mailus:=Contacts.txt
 /email.html:=Contacts.txt
 /ostavit-zayavku:=Contacts.txt
+/svyazatsya-s-nami:=Contacts.txt
