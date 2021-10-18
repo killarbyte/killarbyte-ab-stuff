@@ -5,3 +5,4 @@
 /obratnaya-svyaz:=Contacts.txt
 /napishite-nam:=Contacts.txt
 /zadat-vopros:=Contacts.txt
+/mail.php:=Contacts.txt

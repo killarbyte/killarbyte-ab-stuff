@@ -5,3 +5,4 @@
 /obratnaya-svyaz
 /napishite-nam
 /zadat-vopros
+/mail.php
