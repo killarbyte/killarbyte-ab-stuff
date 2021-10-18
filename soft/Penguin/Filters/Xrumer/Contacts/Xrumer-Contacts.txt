@@ -1,3 +1,4 @@
 /contact:=Contacts.txt
 /kontakt:=Contacts.txt
 /feedback:=Contacts.txt
+/contakt:=Contacts.txt
