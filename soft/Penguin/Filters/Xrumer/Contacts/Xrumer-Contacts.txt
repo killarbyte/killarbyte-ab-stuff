@@ -10,3 +10,4 @@
 /single-contact:=Contacts.txt
 /sendmail.php:=Contacts.txt
 /mailus:=Contacts.txt
+/email.html:=Contacts.txt

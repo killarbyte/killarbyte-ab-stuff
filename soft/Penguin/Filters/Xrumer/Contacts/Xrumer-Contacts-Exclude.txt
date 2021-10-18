@@ -10,3 +10,4 @@
 /single-contact
 /sendmail.php
 /mailus
+/email.html
