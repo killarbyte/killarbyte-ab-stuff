@@ -3,3 +3,4 @@
 /feedback:=Contacts.txt
 /contakt:=Contacts.txt
 /obratnaya-svyaz:=Contacts.txt
+/napishite-nam:=Contacts.txt
