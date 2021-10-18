@@ -8,3 +8,4 @@
 /mail.php
 /mail.html
 /single-contact
+/sendmail.php
