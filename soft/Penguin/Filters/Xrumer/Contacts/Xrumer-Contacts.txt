@@ -17,3 +17,4 @@
 /svyaz.html:=Contacts.txt
 /email.php:=Contacts.txt
 /napisat-nam:=Contacts.txt
+/form_email:=Contacts.txt
