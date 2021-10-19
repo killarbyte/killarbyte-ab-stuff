@@ -23,3 +23,4 @@
 /sendmessage.php:=Contacts.txt
 /form.php:=Contacts.txt
 /zakaz.html:=Contacts.txt
+/order.html:=Contacts.txt
