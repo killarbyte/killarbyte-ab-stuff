@@ -14,3 +14,4 @@
 /ostavit-zayavku:=Contacts.txt
 /svyazatsya-s-nami:=Contacts.txt
 /zayavka.html:=Contacts.txt
+/svyaz.html:=Contacts.txt

@@ -14,3 +14,4 @@
 /ostavit-zayavku
 /svyazatsya-s-nami
 /zayavka.html
+/svyaz.html
