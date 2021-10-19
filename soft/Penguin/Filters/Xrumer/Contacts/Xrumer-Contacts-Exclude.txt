@@ -23,4 +23,5 @@
 /sendmessage.php
 /form.php
 /zakaz.html
+/zakaz.php
 /order.html
