@@ -21,3 +21,4 @@
 /form_email
 /request
 /sendmessage.php
+/form.php
