@@ -26,3 +26,4 @@
 /zakaz.php
 /order.html
 /obratnaja-svjaz
+/napisat-pismo
