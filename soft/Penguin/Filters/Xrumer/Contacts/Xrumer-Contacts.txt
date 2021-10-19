@@ -25,3 +25,4 @@
 /zakaz.html:=Contacts.txt
 /zakaz.php:=Contacts.txt
 /order.html:=Contacts.txt
+/obratnaja-svjaz:=Contacts.txt
