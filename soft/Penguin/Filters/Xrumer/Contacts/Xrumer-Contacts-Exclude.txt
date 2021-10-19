@@ -20,3 +20,4 @@
 /form_email
 /request
 /otzyvy
+/callback
