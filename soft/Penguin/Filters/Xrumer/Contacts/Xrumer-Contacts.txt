@@ -16,3 +16,4 @@
 /zayavka.html:=Contacts.txt
 /svyaz.html:=Contacts.txt
 /email.php:=Contacts.txt
+/napisat-nam:=Contacts.txt

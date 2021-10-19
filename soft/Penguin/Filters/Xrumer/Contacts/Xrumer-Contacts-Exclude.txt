@@ -16,3 +16,4 @@
 /zayavka.html
 /svyaz.html
 /email.php
+/napisat-nam
