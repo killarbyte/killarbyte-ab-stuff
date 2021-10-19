@@ -11,6 +11,7 @@
 /sendmail.php
 /mailus
 /email.html
+/email.htm
 /ostavit-zayavku
 /svyazatsya-s-nami
 /zayavka.html

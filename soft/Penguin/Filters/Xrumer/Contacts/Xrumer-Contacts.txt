@@ -11,6 +11,7 @@
 /sendmail.php:=Contacts.txt
 /mailus:=Contacts.txt
 /email.html:=Contacts.txt
+/email.htm:=Contacts.txt
 /ostavit-zayavku:=Contacts.txt
 /svyazatsya-s-nami:=Contacts.txt
 /zayavka.html:=Contacts.txt
