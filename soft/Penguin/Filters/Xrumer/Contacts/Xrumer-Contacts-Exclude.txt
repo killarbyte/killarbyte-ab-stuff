@@ -19,5 +19,3 @@
 /napisat-nam
 /form_email
 /request
-/otzyvy
-/callback

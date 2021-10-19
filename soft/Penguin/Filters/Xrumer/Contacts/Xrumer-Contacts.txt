@@ -19,5 +19,3 @@
 /napisat-nam:=Contacts.txt
 /form_email:=Contacts.txt
 /request:=Contacts.txt
-/otzyvy:=ContactsHZ.txt
-/callback:=ContactsHZ.txt
