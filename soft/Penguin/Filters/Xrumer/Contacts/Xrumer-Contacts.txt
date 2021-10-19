@@ -19,3 +19,4 @@
 /napisat-nam:=Contacts.txt
 /form_email:=Contacts.txt
 /request:=Contacts.txt
+/sendmessage.php:=Contacts.txt

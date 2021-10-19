@@ -19,3 +19,4 @@
 /napisat-nam
 /form_email
 /request
+/sendmessage.php
