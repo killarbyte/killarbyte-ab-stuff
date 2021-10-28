@@ -28,3 +28,4 @@
 /order.html:=Contacts.txt
 /obratnaja-svjaz:=Contacts.txt
 /napisat-pismo:=Contacts.txt
+/nashi-kontakty:=Contacts.txt

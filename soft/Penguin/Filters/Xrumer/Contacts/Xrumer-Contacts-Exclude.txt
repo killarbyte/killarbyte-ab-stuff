@@ -28,3 +28,4 @@
 /order.html
 /obratnaja-svjaz
 /napisat-pismo
+/nashi-kontakty
