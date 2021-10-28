@@ -1,3 +1,4 @@
 /otzyvy:=Contacts-HZ.txt
 /callback:=Contacts-HZ.txt
 /vopros-otvet:=Contacts-HZ.txt
+/zayavka:=Contacts-HZ.txt
