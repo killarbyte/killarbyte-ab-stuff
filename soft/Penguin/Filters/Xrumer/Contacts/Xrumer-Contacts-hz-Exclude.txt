@@ -3,3 +3,4 @@
 /vopros-otvet
 /zayavka
 /zakaz
+/order.php
