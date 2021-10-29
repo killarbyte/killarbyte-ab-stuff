@@ -4,3 +4,4 @@
 /zayavka:=Contacts-HZ.txt
 /zakaz:=Contacts-HZ.txt
 /order.php:=Contacts-HZ.txt
+/question.html:=Contacts-HZ.txt
