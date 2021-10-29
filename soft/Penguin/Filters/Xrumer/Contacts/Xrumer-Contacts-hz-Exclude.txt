@@ -5,3 +5,4 @@
 /zakaz
 /order.php
 /question.html
+/question
