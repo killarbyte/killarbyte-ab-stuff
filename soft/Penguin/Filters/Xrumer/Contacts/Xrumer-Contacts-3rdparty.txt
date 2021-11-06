@@ -1,2 +1,3 @@
 /06-18/js/callback/feedback.php:=Contacts-3rdparty.txt
 /company/contacts/moscow:=Contacts-3rdparty.txt
+/support/feedback:=Contacts-3rdparty.txt
