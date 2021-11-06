@@ -1,4 +1,5 @@
 .gov
+.gov.ru
 admhmao.ru
 adm-nao.ru
 admtyumen.ru
