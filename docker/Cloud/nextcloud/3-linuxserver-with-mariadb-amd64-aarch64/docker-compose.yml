@@ -14,6 +14,8 @@ services:
     ports:
       - 13370:443
     restart: unless-stopped
+    depends_on:
+      - MariaDB-nextcloud
 
   MariaDB-nextcloud:
     image: mariadb:10.5.12-focal
@@ -24,7 +26,7 @@ services:
       - "MYSQL_PASSWORD=YOURPASSWORD"
       - "MYSQL_DATABASE=nextcloud"
       - "MYSQL_USER=nextcloud"
-    ports:
-      - 13371:3306
+    # ports:
+    #   - 13371:3306
     volumes:
       - ./DB:/var/lib/mysql
