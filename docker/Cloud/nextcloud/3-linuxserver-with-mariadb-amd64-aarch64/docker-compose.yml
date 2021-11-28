@@ -26,7 +26,5 @@ services:
       - "MYSQL_PASSWORD=YOURPASSWORD"
       - "MYSQL_DATABASE=nextcloud"
       - "MYSQL_USER=nextcloud"
-    # ports:
-    #   - 13371:3306
     volumes:
       - ./DB:/var/lib/mysql
