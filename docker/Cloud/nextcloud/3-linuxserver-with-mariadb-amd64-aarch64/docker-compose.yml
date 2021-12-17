@@ -5,8 +5,8 @@ services:
     image: ghcr.io/linuxserver/nextcloud:22.2.3
     container_name: nextcloud
     environment:
-      - PUID=1000
-      - PGID=1000
+      # - PUID=1000
+      # - PGID=1000
       - TZ=Europe/Netherlands
     volumes:
       - ./appdata:/config
