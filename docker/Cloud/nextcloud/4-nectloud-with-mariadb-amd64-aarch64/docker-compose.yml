@@ -4,10 +4,10 @@ services:
   nextcloud:
     image: nextcloud:23-apache
     container_name: nextcloud-23
-    # environment:
-    #   - PUID=1000
-    #   - PGID=1000
-    #   - TZ=Europe/Netherlands
+    environment:
+      # - PUID=1000
+      # - PGID=1000
+      - TZ=Europe/Netherlands
     volumes:
       - ./nextcloud/apps:/var/www/html/apps
       - ./nextcloud/config:/var/www/html/config
