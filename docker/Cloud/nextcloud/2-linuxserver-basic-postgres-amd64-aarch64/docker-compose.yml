@@ -1,0 +1,30 @@
+version: "2.1"
+
+services:
+  nextcloud:
+    image: ghcr.io/linuxserver/nextcloud:php8-version-23.0.0
+    container_name: nextcloud
+    environment:
+      # - PUID=1000
+      # - PGID=1000
+      - TZ=Europe/Netherlands
+    volumes:
+      - ./appdata:/config
+      - ./data:/data
+      - ./nextcloud.ini:/etc/php8/conf.d/nextcloud.ini
+    ports:
+      - 13370:443
+    restart: unless-stopped
+    depends_on:
+      - postgres-nextcloud
+
+  postgres-nextcloud:
+    image: postgres:9.6-bullseye
+    container_name: postgres-nextcloud
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=nextcloud
+      - POSTGRES_USER=nextcloud
+      - POSTGRES_PASSWORD=YOURPASSWORD
+    volumes:
+      - ./DB:/var/lib/postgresql/data
