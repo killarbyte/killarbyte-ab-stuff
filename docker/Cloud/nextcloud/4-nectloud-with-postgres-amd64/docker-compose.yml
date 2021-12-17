@@ -13,7 +13,7 @@ services:
       - ./nextcloud/config:/var/www/html/config
       - ./nextcloud/data:/var/www/html/data
     ports:
-      - 13370:80
+      - 13372:80
     restart: unless-stopped
     depends_on:
       - postgres-nextcloud
