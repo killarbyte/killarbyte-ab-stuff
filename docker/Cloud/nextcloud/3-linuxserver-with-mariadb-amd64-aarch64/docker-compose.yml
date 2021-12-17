@@ -11,6 +11,7 @@ services:
     volumes:
       - ./appdata:/config
       - ./data:/data
+      # - ./nextcloud.ini:/etc/php8/conf.d/nextcloud.ini
     ports:
       - 13370:443
     restart: unless-stopped
