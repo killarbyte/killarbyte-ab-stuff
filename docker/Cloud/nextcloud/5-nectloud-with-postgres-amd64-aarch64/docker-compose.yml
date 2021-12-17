@@ -25,6 +25,6 @@ services:
     environment:
       - POSTGRES_DB=nextcloud
       - POSTGRES_USER=nextcloud
-      - POSTGRES_PASSWORD=nextcloud
+      - POSTGRES_PASSWORD=YOURPASSWORD
     volumes:
       - ./DB:/var/lib/postgresql/data
