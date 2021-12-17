@@ -12,6 +12,7 @@ services:
       - ./nextcloud/apps:/var/www/html/apps
       - ./nextcloud/config:/var/www/html/config
       - ./nextcloud/data:/var/www/html/data
+      # - ./nextcloud/nextcloud.ini:/usr/local/etc/php/conf.d/nextcloud.ini
     ports:
       - 13372:80
     restart: unless-stopped
