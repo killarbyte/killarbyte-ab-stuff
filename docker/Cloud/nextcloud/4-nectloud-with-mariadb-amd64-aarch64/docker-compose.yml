@@ -1,0 +1,31 @@
+version: "2.1"
+
+services:
+  nextcloud:
+    image: nextcloud:23-apache
+    container_name: nextcloud-23
+    # environment:
+    #   - PUID=1000
+    #   - PGID=1000
+    #   - TZ=Europe/Netherlands
+    volumes:
+      - ./nextcloud/apps:/var/www/html/apps
+      - ./nextcloud/config:/var/www/html/config
+      - ./nextcloud/data:/var/www/html/data
+    ports:
+      - 13372:80
+    restart: unless-stopped
+    depends_on:
+      - MariaDB-nextcloud
+
+  MariaDB-nextcloud:
+    image: mariadb:10.5.12-focal
+    container_name: MariaDB-nextcloud
+    restart: unless-stopped
+    environment:
+      - "MYSQL_ROOT_PASSWORD=YOURPASSWORD"
+      - "MYSQL_PASSWORD=YOURPASSWORD"
+      - "MYSQL_DATABASE=nextcloud"
+      - "MYSQL_USER=nextcloud"
+    volumes:
+      - ./DB:/var/lib/mysql
