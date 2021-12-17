@@ -1,0 +1,30 @@
+version: "2.1"
+
+services:
+  nextcloud:
+    image: nextcloud:23-apache
+    container_name: nextcloud-23
+    # environment:
+    #   - PUID=1000
+    #   - PGID=1000
+    #   - TZ=Europe/Netherlands
+    volumes:
+      - ./nextcloud/apps:/var/www/html/apps
+      - ./nextcloud/config:/var/www/html/config
+      - ./nextcloud/data:/var/www/html/data
+    ports:
+      - 13370:80
+    restart: unless-stopped
+    depends_on:
+      - postgres-nextcloud
+
+  postgres-nextcloud:
+    image: postgres:9.6-bullseye
+    container_name: postgres-nextcloud
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=nextcloud
+      - POSTGRES_USER=nextcloud
+      - POSTGRES_PASSWORD=nextcloud
+    volumes:
+      - ./DB:/var/lib/postgresql/data
