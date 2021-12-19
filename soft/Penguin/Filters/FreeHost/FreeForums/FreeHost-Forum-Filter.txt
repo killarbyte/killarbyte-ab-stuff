@@ -145,3 +145,4 @@
 .hotforumonline.com:=FreeForum.txt
 .aforumfree.com:=FreeForum.txt
 .el-foro.net:=FreeForum.txt
+.flybb.ru:=FreeForum.txt

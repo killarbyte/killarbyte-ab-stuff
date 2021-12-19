@@ -145,3 +145,4 @@
 .hotforumonline.com
 .aforumfree.com
 .el-foro.net
+.flybb.ru
