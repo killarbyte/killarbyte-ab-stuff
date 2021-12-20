@@ -1,10 +1,17 @@
 ### Good
++ google mobile
++ bing.com
++ ask.com
 + so.com
 + seznam.cz
 
-
+### Unknown
+? yandex.com.tr
++ google classic [banned]
 
 ### Not Good
-- baidu.com
-- uk.ask.com
-- startpage.com
+- yahoo.com [not working]
++ rambler.ru [serp garbage]
+- baidu.com [not working]
+- uk.ask.com [not working]
+- startpage.com [not working]
