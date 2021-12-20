@@ -1,3 +1,9 @@
+### Good
++ so.com
 + seznam.cz
+
+
+
+### Not Good
 - uk.ask.com
 - startpage.com
