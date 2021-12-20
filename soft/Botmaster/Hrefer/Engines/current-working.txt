@@ -5,11 +5,14 @@
 + so.com
 + seznam.cz
 
+
+
 ### Unknown
-? yandex.com.tr
 + google classic [banned]
 
 ### Not Good
+- yandex.ru [not working]
+- yandex.com.tr [not working]
 - yahoo.com [not working]
 + rambler.ru [serp garbage]
 - baidu.com [not working]
