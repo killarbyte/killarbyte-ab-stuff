@@ -5,5 +5,6 @@
 
 
 ### Not Good
+- baidu.com
 - uk.ask.com
 - startpage.com
