@@ -14,7 +14,7 @@ services:
       - ./nextcloud/data:/var/www/html/data
       # - ./nextcloud.ini:/usr/local/etc/php/conf.d/nextcloud.ini
     ports:
-      - 13372:80
+      - 13370:80
     restart: unless-stopped
     depends_on:
       - postgres-nextcloud
