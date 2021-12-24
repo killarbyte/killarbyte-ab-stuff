@@ -8,12 +8,12 @@ sudo docker-compose up -d
 
 sudo apt install redis-tools
 sudo docker ps
+sudo docker inspect redis-nextcloud
 
+"IPAddress": "172.26.0.2",
 
-172.24.0.2
+redis-cli -h 172.26.0.2 ping
+redis-cli -h 172.26.0.2 monitor
 
-redis-cli -h 172.24.0.2 ping
-redis-cli -h 172.24.0.2 monitor
-
-redis-cli -a YOURREDISPASSWORD -h 172.24.0.2 ping
-redis-cli -a YOURREDISPASSWORD -h 172.24.0.2 monitor
+redis-cli -a YOURREDISPASSWORD -h 172.26.0.2 ping
+redis-cli -a YOURREDISPASSWORD -h 172.26.0.2 monitor
