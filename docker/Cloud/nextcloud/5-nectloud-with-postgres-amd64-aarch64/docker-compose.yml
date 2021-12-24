@@ -2,7 +2,7 @@ version: "2.1"
 
 services:
   nextcloud:
-    image: nextcloud:23-apache
+    image: nextcloud:23.0-apache
     container_name: nextcloud-23
     environment:
       # - PUID=1000
@@ -29,3 +29,7 @@ services:
       - POSTGRES_PASSWORD=YOURPASSWORD
     volumes:
       - ./DB:/var/lib/postgresql/data
+
+  redis-nextcloud:
+    image: redis:alpine
+    restart: always
