@@ -2,12 +2,14 @@ version: "2.1"
 
 services:
   nextcloud:
-    image: ghcr.io/linuxserver/nextcloud:22.2.3
+    image: linuxserver/nextcloud:23.0.0-php8
     container_name: nextcloud
     environment:
-      - PUID=1000
-      - PGID=1000
+      # - PUID=1000
+      # - PGID=1000
       - TZ=Europe/Netherlands
+      # - REDIS_HOST=redis-nextcloud
+      # - REDIS_HOST_PASSWORD=YOURREDISPASSWORD
     volumes:
       - ./appdata:/config
       - ./data:/data
@@ -16,16 +18,21 @@ services:
       - 13370:443
     restart: unless-stopped
     depends_on:
-      - MariaDB-nextcloud
+      - postgres-nextcloud
+      # - redis-nextcloud
 
-  MariaDB-nextcloud:
-    image: mariadb:10.5.12-focal
-    container_name: MariaDB-nextcloud
+  postgres-nextcloud:
+    image: postgres:14.1-alpine
+    container_name: postgres-nextcloud
     restart: unless-stopped
     environment:
-      - "MYSQL_ROOT_PASSWORD=YOURPASSWORD"
-      - "MYSQL_PASSWORD=YOURPASSWORD"
-      - "MYSQL_DATABASE=nextcloud"
-      - "MYSQL_USER=nextcloud"
+      - POSTGRES_DB=nextcloud
+      - POSTGRES_USER=nextcloud
+      - POSTGRES_PASSWORD=YOURPASSWORD
     volumes:
-      - ./DB:/var/lib/mysql
+      - ./DB:/var/lib/postgresql/data
+
+  # redis-nextcloud:
+  #   image: redis:alpine
+  #   command: redis-server --requirepass YOURREDISPASSWORD
+  #   restart: unless-stopped
