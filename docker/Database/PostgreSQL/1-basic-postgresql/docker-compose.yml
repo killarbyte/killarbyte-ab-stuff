@@ -1,0 +1,15 @@
+version: "3.1"
+
+services:
+  db:
+    image: postgres:14.1-alpine
+    container_name: postgres-nextcloud
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=nextcloud
+      - POSTGRES_USER=nextcloud
+      - POSTGRES_PASSWORD=YOURPASSWORD
+    ports:
+      - 10000:3306
+    volumes:
+      - ./DB:/var/lib/postgresql/data
