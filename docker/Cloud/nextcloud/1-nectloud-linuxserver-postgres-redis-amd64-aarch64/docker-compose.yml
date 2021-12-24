@@ -8,7 +8,8 @@ services:
       # - PUID=1000
       # - PGID=1000
       - TZ=Europe/Netherlands
-      # - REDIS_HOST=redis-nextcloud
+      - REDIS_HOST=redis-nextcloud
+      - REDIS_HOST_PASSWORD=YOURREDISPASSWORD
     volumes:
       - ./nextcloud/apps:/var/www/html/apps
       - ./nextcloud/config:/var/www/html/config
@@ -31,8 +32,7 @@ services:
     volumes:
       - ./DB:/var/lib/postgresql/data
 
-  # redis-nextcloud:
-  #   image: redis:alpine
-  #   ports:
-  #     - 6379:6379
-  #   restart: unless-stopped
+  redis-nextcloud:
+    image: redis:alpine
+    command: redis-server --requirepass YOURREDISPASSWORD
+    restart: unless-stopped
