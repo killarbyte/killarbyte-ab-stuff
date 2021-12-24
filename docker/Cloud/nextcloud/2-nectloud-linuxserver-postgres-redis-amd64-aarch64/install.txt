@@ -1,0 +1,10 @@
+sudo mkdir -p /app/nextcloud/{appdata,data,DB}
+sudo chown -R $USER:$USER /app/nextcloud/
+cd /app/nextcloud
+nano docker-compose.yml
+sudo docker-compose up -d
+
+
+
+sudo apt install redis-tools
+sudo docker ps

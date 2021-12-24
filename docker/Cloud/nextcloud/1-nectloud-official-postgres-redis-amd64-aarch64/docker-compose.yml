@@ -35,5 +35,6 @@ services:
 
   # redis-nextcloud:
   #   image: redis:alpine
+  #   container_name: redis-nextcloud
   #   command: redis-server --requirepass YOURREDISPASSWORD
   #   restart: unless-stopped
