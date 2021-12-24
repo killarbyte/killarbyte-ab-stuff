@@ -1,0 +1,31 @@
+version: "2.1"
+
+services:
+  nextcloud:
+    image: ghcr.io/linuxserver/nextcloud:22.2.3
+    container_name: nextcloud
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Netherlands
+    volumes:
+      - ./appdata:/config
+      - ./data:/data
+      # - ./nextcloud.ini:/etc/php8/conf.d/nextcloud.ini
+    ports:
+      - 13370:443
+    restart: unless-stopped
+    depends_on:
+      - MariaDB-nextcloud
+
+  MariaDB-nextcloud:
+    image: mariadb:10.5.12-focal
+    container_name: MariaDB-nextcloud
+    restart: unless-stopped
+    environment:
+      - "MYSQL_ROOT_PASSWORD=YOURPASSWORD"
+      - "MYSQL_PASSWORD=YOURPASSWORD"
+      - "MYSQL_DATABASE=nextcloud"
+      - "MYSQL_USER=nextcloud"
+    volumes:
+      - ./DB:/var/lib/mysql
