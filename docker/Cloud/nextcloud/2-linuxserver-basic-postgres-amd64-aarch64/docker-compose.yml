@@ -2,7 +2,7 @@ version: "2.1"
 
 services:
   nextcloud:
-    image: ghcr.io/linuxserver/nextcloud:php8-version-23.0.0
+    image: linuxserver/nextcloud:23.0.0-php8
     container_name: nextcloud
     environment:
       # - PUID=1000
@@ -19,7 +19,7 @@ services:
       - postgres-nextcloud
 
   postgres-nextcloud:
-    image: postgres:9.6-bullseye
+    image: postgres:14.1-alpine
     container_name: postgres-nextcloud
     restart: unless-stopped
     environment:
