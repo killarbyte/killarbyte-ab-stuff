@@ -20,6 +20,7 @@ services:
     restart: unless-stopped
     depends_on:
       - postgres-nextcloud
+      # - redis-nextcloud
 
   postgres-nextcloud:
     image: postgres:14.1-alpine
