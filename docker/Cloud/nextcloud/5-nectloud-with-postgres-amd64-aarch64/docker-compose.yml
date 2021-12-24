@@ -8,6 +8,7 @@ services:
       # - PUID=1000
       # - PGID=1000
       - TZ=Europe/Netherlands
+      # - REDIS_HOST=redis-nextcloud
     volumes:
       - ./nextcloud/apps:/var/www/html/apps
       - ./nextcloud/config:/var/www/html/config
@@ -30,6 +31,8 @@ services:
     volumes:
       - ./DB:/var/lib/postgresql/data
 
-  redis-nextcloud:
-    image: redis:alpine
-    restart: always
+  # redis-nextcloud:
+  #   image: redis:alpine
+  #   ports:
+  #     - 6379:6379
+  #   restart: unless-stopped
