@@ -1,1 +1,1 @@
-<span>КУПИТЬ ДОМЕН В МАГАЗИНЕ RU-CENTER (nic.ru)</span>
+<link href="https://www.reg.ru/domain/shop/lot/[...]" rel="canonical" />
