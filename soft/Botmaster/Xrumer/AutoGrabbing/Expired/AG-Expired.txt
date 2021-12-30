@@ -1,3 +1,4 @@
-<link href="https://www.reg.ru/domain/shop/lot/[...]" rel="canonical" />
 <h1 class="b-parking__header-title">[...]</h1>
+
+<link href="https://www.reg.ru/domain/shop/lot/[...]" rel="canonical" />
 <h1 class="king__title">[...]</h1>
