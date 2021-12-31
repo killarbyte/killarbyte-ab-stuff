@@ -1,5 +1,5 @@
 https://parking.reg.ru/script/get_domain_data?domain_name=[...]&rand=
-<title>срок регистрации доменного имени [...] истек</title>
+https://www.reg.ru/domain/shop/lot/[...]"
 
-<link href="https://www.reg.ru/domain/shop/lot/[...]" rel="canonical" />
+<title>срок регистрации доменного имени [...] истек</title>
 <h1 class="king__title">[...]</h1>
