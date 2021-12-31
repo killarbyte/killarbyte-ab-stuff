@@ -1,4 +1,4 @@
-<h1 class="b-parking__header-title">[...]</h1>
+https://parking.reg.ru/script/get_domain_data?domain_name=[...]&rand=
 <title>срок регистрации доменного имени [...] истек</title>
 
 <link href="https://www.reg.ru/domain/shop/lot/[...]" rel="canonical" />
