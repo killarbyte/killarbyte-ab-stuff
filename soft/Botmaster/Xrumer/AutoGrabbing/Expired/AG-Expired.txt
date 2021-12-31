@@ -1,4 +1,5 @@
 <h1 class="b-parking__header-title">[...]</h1>
+<title>срок регистрации доменного имени [...] истек</title>
 
 <link href="https://www.reg.ru/domain/shop/lot/[...]" rel="canonical" />
 <h1 class="king__title">[...]</h1>
