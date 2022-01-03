@@ -4,8 +4,8 @@ services:
     image: lscr.io/linuxserver/freshrss
     container_name: freshrss
     environment:
-      - PUID=1337
-      - PGID=1337
+      # - PUID=1337
+      # - PGID=1337
       - TZ=Europe/London
     volumes:
       - ./data:/config
