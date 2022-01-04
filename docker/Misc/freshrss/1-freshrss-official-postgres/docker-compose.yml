@@ -8,7 +8,8 @@ services:
       # - PGID=1337
       - TZ=Europe/London
     volumes:
-      - ./data:/config
+      - ./data:/var/www/FreshRSS/data
+      - ./extensions:/var/www/FreshRSS/extensions
     ports:
       - 13380:80
     restart: unless-stopped
