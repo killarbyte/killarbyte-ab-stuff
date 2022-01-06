@@ -3,7 +3,7 @@ https://parking.reg.ru/script/get_domain_data?domain_name=[...]&rand=
 <title>срок регистрации доменного имени [...] истек</title>
 <a href="https://www.nic.ru/hcp2/sites/[...]/
 <a href="https://whois-center.ru/domain/?search=[...]">
-
-
 <title>Сайт [...] размещён на технической площадке Интернет Хостинг Центра</title>
+
+
 <h1 class="king__title">[...]</h1>
