@@ -3,3 +3,4 @@
 .web66.com.tw:=FreeGarbage.txt
 .webry.info:=FreeGarbage.txt
 .boxmail.biz:=FreeGarbage.txt
+.waarbenjij.nu:=FreeGarbage.txt
