@@ -47,3 +47,4 @@
 .blogspot.al
 .blogspot.es
 .blogspot.pe
+.skyrock.com

@@ -47,3 +47,4 @@
 .blogspot.al:=FreeWeb2.0.txt
 .blogspot.es:=FreeWeb2.0.txt
 .blogspot.pe:=FreeWeb2.0.txt
+.skyrock.com:=FreeWeb2.0.txt
