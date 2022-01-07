@@ -49,4 +49,3 @@
 .blogspot.pe:=FreeWeb2.0.txt
 .skyrock.com:=FreeWeb2.0.txt
 .photoshelter.com:=FreeWeb2.0.txt
-.rusmarket.com:=FreeWeb2.0.txt
