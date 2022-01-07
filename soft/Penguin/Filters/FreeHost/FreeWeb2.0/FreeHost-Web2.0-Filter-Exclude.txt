@@ -52,3 +52,4 @@
 .ss-blog.jp
 .webnode.com.br
 .estranky.sk
+.typepad.com

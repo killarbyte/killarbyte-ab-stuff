@@ -52,3 +52,4 @@
 .ss-blog.jp:=FreeWeb2.0.txt
 .webnode.com.br:=FreeWeb2.0.txt
 .estranky.sk:=FreeWeb2.0.txt
+.typepad.com:=FreeWeb2.0.txt
