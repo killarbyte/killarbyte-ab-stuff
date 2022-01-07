@@ -48,3 +48,4 @@
 .blogspot.es
 .blogspot.pe
 .skyrock.com
+.photoshelter.com
