@@ -4,3 +4,4 @@
 .webry.info:=FreeGarbage.txt
 .boxmail.biz:=FreeGarbage.txt
 .waarbenjij.nu:=FreeGarbage.txt
+.updatestar.com:=FreeGarbage.txt

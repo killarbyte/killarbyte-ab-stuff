@@ -4,3 +4,4 @@
 .webry.info
 .boxmail.biz
 .waarbenjij.nu
+.updatestar.com
