@@ -1,3 +1,4 @@
 .rusmarket.com:=FreeGarbage.txt
 .tw66.com.tw:=FreeGarbage.txt
+.web66.com.tw:=FreeGarbage.txt
 .webry.info:=FreeGarbage.txt
