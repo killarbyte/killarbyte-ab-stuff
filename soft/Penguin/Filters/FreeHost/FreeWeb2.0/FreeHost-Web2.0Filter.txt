@@ -49,3 +49,4 @@
 .blogspot.pe:=FreeWeb2.0.txt
 .skyrock.com:=FreeWeb2.0.txt
 .photoshelter.com:=FreeWeb2.0.txt
+.ss-blog.jp:=FreeWeb2.0.txt

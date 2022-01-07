@@ -49,3 +49,4 @@
 .blogspot.pe
 .skyrock.com
 .photoshelter.com
+.ss-blog.jp
