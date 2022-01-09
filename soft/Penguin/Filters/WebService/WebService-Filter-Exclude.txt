@@ -2,3 +2,4 @@
 .facebook.com
 .twitter.com
 .reddit.com
+.tumblr.com
