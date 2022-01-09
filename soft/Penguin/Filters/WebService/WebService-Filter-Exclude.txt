@@ -15,6 +15,3 @@
 .yandex.net
 /steamcommunity.com
 .etsy.com
-.baidu.com
-.sohu.com
-.360.cn
