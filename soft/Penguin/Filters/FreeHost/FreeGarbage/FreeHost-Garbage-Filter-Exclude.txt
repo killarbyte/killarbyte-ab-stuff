@@ -8,3 +8,4 @@
 .informer.com
 .blog.cz
 .mihanblog.com
+.catlink.eu

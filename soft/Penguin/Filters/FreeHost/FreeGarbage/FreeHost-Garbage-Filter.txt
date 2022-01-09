@@ -8,3 +8,4 @@
 .informer.com:=FreeGarbage.txt
 .blog.cz:=FreeGarbage.txt
 .mihanblog.com:=FreeGarbage.txt
+.catlink.eu:=FreeGarbage.txt
