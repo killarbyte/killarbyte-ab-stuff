@@ -17,3 +17,4 @@
 .etsy.com:=WebService.txt
 .mail.ru:=WebService.txt
 .steampowered.com:=WebService.txt
+.bing.com:=WebService.txt
