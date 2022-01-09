@@ -57,3 +57,4 @@
 .gamespot.com:=FreeWeb2.0.txt
 .fc2.com:=FreeWeb2.0.txt
 .cocolog-nifty.com:=FreeWeb2.0.txt
+.all.biz:=FreeWeb2.0.txt
