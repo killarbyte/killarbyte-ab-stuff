@@ -59,3 +59,4 @@
 .cocolog-nifty.com
 .all.biz
 .jugem.jp
+.altervista.org
