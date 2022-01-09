@@ -146,4 +146,3 @@
 .aforumfree.com
 .el-foro.net
 .flybb.ru
-.fc2.com

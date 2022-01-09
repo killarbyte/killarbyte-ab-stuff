@@ -55,3 +55,5 @@
 .typepad.com:=FreeWeb2.0.txt
 .fandom.com:=FreeWeb2.0.txt
 .gamespot.com:=FreeWeb2.0.txt
+.fc2.com:=FreeWeb2.0.txt
+.cocolog-nifty.com:=FreeWeb2.0.txt

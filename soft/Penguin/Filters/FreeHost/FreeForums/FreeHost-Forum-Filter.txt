@@ -146,4 +146,3 @@
 .aforumfree.com:=FreeForum.txt
 .el-foro.net:=FreeForum.txt
 .flybb.ru:=FreeForum.txt
-.fc2.com:=FreeForum.txt
