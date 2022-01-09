@@ -1,5 +1,6 @@
 .vk.com
 .facebook.com
+.youtube.com
 .twitter.com
 .reddit.com
 .tumblr.com
