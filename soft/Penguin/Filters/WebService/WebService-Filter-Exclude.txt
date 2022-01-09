@@ -1,3 +1,4 @@
 .vk.com
 .facebook.com
 .twitter.com
+.reddit.com
