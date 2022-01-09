@@ -5,3 +5,4 @@
 .tumblr.com:=WebService.txt
 .wikipedia.org:=WebService.txt
 .yandex.ru:=WebService.txt
+.yandex.net:=WebService.txt

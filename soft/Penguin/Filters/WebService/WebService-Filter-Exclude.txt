@@ -5,3 +5,4 @@
 .tumblr.com
 .wikipedia.org
 .yandex.ru
+.yandex.net
