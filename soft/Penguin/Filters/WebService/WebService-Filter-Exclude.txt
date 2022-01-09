@@ -3,3 +3,4 @@
 .twitter.com
 .reddit.com
 .tumblr.com
+.wikipedia.org
