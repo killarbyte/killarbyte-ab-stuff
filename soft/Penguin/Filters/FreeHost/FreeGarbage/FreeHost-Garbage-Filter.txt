@@ -7,3 +7,4 @@
 .updatestar.com:=FreeGarbage.txt
 .informer.com:=FreeGarbage.txt
 .blog.cz:=FreeGarbage.txt
+.mihanblog.com:=FreeGarbage.txt

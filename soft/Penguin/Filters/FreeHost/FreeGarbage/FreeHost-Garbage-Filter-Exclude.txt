@@ -7,3 +7,4 @@
 .updatestar.com
 .informer.com
 .blog.cz
+.mihanblog.com
