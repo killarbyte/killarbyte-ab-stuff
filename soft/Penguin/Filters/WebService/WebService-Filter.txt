@@ -2,6 +2,7 @@
 /vk.com:=WebService.txt
 .facebook.com:=WebService.txt
 .youtube.com:=WebService.txt
+/youtu.be:=WebService.txt
 .instagram.com:=WebService.txt
 .twitter.com:=WebService.txt
 .reddit.com:=WebService.txt

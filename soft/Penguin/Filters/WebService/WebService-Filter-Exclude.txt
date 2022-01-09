@@ -2,6 +2,7 @@
 /vk.com
 .facebook.com
 .youtube.com
+/youtu.be
 .instagram.com
 .twitter.com
 .reddit.com
