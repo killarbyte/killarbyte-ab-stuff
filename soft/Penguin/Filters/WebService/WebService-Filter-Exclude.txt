@@ -16,3 +16,4 @@
 /steamcommunity.com
 .etsy.com
 .baidu.com
+.sohu.com
