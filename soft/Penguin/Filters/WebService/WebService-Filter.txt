@@ -1,1 +1,2 @@
 .vk.com:=WebService.txt
+.facebook.com:=WebService.txt
