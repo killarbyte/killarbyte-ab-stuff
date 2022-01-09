@@ -1,1 +1,1 @@
-www:=WebService.txt
+.vk.com:=WebService.txt
