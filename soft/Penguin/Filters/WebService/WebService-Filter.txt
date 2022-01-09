@@ -13,3 +13,4 @@
 /yandex.ru:=WebService.txt
 .yandex.net:=WebService.txt
 /steamcommunity.com:=WebService.txt
+.etsy.com:=WebService.txt

@@ -13,3 +13,4 @@
 /yandex.ru
 .yandex.net
 /steamcommunity.com
+.etsy.com
