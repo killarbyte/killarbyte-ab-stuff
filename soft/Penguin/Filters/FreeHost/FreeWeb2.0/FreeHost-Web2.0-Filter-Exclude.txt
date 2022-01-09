@@ -60,3 +60,4 @@
 .all.biz
 .jugem.jp
 .altervista.org
+.over-blog.com
