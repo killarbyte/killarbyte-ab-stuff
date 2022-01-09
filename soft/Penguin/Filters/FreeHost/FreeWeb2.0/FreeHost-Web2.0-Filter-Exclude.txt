@@ -54,3 +54,4 @@
 .estranky.sk
 .typepad.com
 .fandom.com
+.gamespot.com

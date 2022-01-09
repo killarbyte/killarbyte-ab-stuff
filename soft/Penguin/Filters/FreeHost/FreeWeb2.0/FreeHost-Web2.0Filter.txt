@@ -54,3 +54,4 @@
 .estranky.sk:=FreeWeb2.0.txt
 .typepad.com:=FreeWeb2.0.txt
 .fandom.com:=FreeWeb2.0.txt
+.gamespot.com:=FreeWeb2.0.txt
