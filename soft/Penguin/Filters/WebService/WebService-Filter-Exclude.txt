@@ -10,5 +10,6 @@
 .tumblr.com
 .wikipedia.org
 .yandex.ru
+/yandex.ru
 .yandex.net
 /steamcommunity.com
