@@ -6,3 +6,4 @@
 .waarbenjij.nu
 .updatestar.com
 .informer.com
+.blog.cz
