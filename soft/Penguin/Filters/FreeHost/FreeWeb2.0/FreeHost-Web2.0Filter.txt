@@ -58,3 +58,4 @@
 .fc2.com:=FreeWeb2.0.txt
 .cocolog-nifty.com:=FreeWeb2.0.txt
 .all.biz:=FreeWeb2.0.txt
+.jugem.jp:=FreeWeb2.0.txt

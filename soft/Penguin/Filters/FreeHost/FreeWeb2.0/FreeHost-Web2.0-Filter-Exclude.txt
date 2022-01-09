@@ -58,3 +58,4 @@
 .fc2.com
 .cocolog-nifty.com
 .all.biz
+.jugem.jp
