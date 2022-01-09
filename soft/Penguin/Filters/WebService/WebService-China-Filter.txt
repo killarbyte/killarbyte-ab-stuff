@@ -7,3 +7,4 @@
 .17173.com:=WebService-China.txt
 .zol.com.cn:=WebService-China.txt
 .sina.com.cn:=WebService-China.txt
+.pcgames.com.cn:=WebService-China.txt
