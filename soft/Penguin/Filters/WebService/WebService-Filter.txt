@@ -17,3 +17,4 @@
 .etsy.com:=WebService.txt
 .baidu.com:=WebService.txt
 .sohu.com:=WebService.txt
+.360.cn:=WebService.txt
