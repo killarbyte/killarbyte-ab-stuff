@@ -1,4 +1,5 @@
 .vk.com
+/vk.com
 .facebook.com
 .youtube.com
 .instagram.com
