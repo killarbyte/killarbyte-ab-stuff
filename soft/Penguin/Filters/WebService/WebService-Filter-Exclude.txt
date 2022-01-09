@@ -4,3 +4,4 @@
 .reddit.com
 .tumblr.com
 .wikipedia.org
+.yandex.ru
