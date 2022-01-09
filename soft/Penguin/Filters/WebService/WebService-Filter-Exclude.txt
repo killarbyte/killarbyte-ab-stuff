@@ -10,3 +10,4 @@
 .wikipedia.org
 .yandex.ru
 .yandex.net
+/steamcommunity.com
