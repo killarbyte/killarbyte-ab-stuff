@@ -3,6 +3,7 @@
 .facebook.com:=WebService.txt
 .youtube.com:=WebService.txt
 /youtu.be:=WebService.txt
+.youtubeid.com:=WebService.txt
 .instagram.com:=WebService.txt
 .twitter.com:=WebService.txt
 /twitter.com:=WebService.txt
