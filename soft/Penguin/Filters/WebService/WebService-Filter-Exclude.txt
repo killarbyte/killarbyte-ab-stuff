@@ -16,3 +16,4 @@
 /steamcommunity.com
 .etsy.com
 .mail.ru
+.steampowered.com

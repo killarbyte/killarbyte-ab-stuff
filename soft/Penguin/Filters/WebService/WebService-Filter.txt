@@ -16,3 +16,4 @@
 /steamcommunity.com:=WebService.txt
 .etsy.com:=WebService.txt
 .mail.ru:=WebService.txt
+.steampowered.com:=WebService.txt
