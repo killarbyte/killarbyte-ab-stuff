@@ -9,3 +9,4 @@
 .blog.cz
 .mihanblog.com
 .catlink.eu
+.buzznet.com
