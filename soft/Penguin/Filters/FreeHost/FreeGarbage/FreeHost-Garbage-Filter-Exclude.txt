@@ -5,3 +5,4 @@
 .boxmail.biz
 .waarbenjij.nu
 .updatestar.com
+.informer.com

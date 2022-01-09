@@ -5,3 +5,4 @@
 .boxmail.biz:=FreeGarbage.txt
 .waarbenjij.nu:=FreeGarbage.txt
 .updatestar.com:=FreeGarbage.txt
+.informer.com:=FreeGarbage.txt
