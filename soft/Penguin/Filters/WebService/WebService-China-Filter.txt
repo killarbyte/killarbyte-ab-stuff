@@ -1,3 +1,4 @@
 .baidu.com:=WebService-China.txt
 .sohu.com:=WebService-China.txt
 .360.cn:=WebService-China.txt
+.youku.com:=WebService-China.txt
