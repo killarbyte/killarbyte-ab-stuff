@@ -18,3 +18,4 @@
 .xaa.pl
 .czo.pl
 .rsspump.com
+.yoyo.pl

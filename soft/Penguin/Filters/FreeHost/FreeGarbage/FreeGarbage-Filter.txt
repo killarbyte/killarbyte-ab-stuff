@@ -18,3 +18,4 @@
 .xaa.pl:=FreeGarbage.txt
 .czo.pl:=FreeGarbage.txt
 .rsspump.com:=FreeGarbage.txt
+.yoyo.pl:=FreeGarbage.txt
