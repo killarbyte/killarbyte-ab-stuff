@@ -14,3 +14,4 @@
 .pen.io:=FreeGarbage.txt
 .metroblog.com:=FreeGarbage.txt
 .blogcu.com:=FreeGarbage.txt
+.e-monsite.com:=FreeGarbage.txt

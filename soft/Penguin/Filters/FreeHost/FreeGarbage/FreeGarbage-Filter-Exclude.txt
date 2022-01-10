@@ -14,3 +14,4 @@
 .pen.io
 .metroblog.com
 .blogcu.com
+.e-monsite.com
