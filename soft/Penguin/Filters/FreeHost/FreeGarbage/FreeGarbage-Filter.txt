@@ -16,3 +16,4 @@
 .blogcu.com:=FreeGarbage.txt
 .e-monsite.com:=FreeGarbage.txt
 .xaa.pl:=FreeGarbage.txt
+.czo.pl:=FreeGarbage.txt
