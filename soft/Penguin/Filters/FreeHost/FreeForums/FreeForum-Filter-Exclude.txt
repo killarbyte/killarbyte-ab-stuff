@@ -148,3 +148,4 @@
 .flybb.ru
 .forumactif.com
 .forumprofi.de
+.forumfree.it

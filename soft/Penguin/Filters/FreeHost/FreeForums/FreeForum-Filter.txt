@@ -148,3 +148,4 @@
 .flybb.ru:=FreeForum.txt
 .forumactif.com:=FreeForum.txt
 .forumprofi.de:=FreeForum.txt
+.forumfree.it:=FreeForum.txt
