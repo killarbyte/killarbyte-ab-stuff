@@ -147,3 +147,4 @@
 .el-foro.net:=FreeForum.txt
 .flybb.ru:=FreeForum.txt
 .forumactif.com:=FreeForum.txt
+.forumprofi.de:=FreeForum.txt

@@ -147,3 +147,4 @@
 .el-foro.net
 .flybb.ru
 .forumactif.com
+.forumprofi.de
