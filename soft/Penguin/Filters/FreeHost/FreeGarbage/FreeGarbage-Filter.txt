@@ -10,3 +10,4 @@
 .mihanblog.com:=FreeGarbage.txt
 .catlink.eu:=FreeGarbage.txt
 .buzznet.com:=FreeGarbage.txt
+.oeeee.com:=FreeGarbage.txt
