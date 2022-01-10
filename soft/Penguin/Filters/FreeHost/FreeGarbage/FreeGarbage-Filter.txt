@@ -21,3 +21,4 @@
 .yoyo.pl:=FreeGarbage.txt
 .xup.pl:=FreeGarbage.txt
 .5d6d.com:=FreeGarbage.txt
+.nuipogoda.:=FreeGarbage.txt

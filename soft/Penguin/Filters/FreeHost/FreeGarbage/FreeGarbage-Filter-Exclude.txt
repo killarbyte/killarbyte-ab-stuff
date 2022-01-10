@@ -21,3 +21,4 @@
 .yoyo.pl
 .xup.pl
 .5d6d.com
+.nuipogoda.ru
