@@ -9,3 +9,4 @@ https://parking.reg.ru/script/get_domain_data?domain_name=[...]&rand=
 <h1 class="king__title">[...]</h1>
 
 <a href="http://PremiumDomains.ru/domain/[...]"
+content="Доменное имя [...] в магазине доменов RU-CENTER"/>
