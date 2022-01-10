@@ -1,1 +1,2 @@
 .all.biz:=MarketPlace.txt
+.bigcartel.com:=MarketPlace.txt
