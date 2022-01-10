@@ -61,3 +61,4 @@
 .jugem.jp:=FreeWeb2.0.txt
 .altervista.org:=FreeWeb2.0.txt
 .over-blog.com:=FreeWeb2.0.txt
+.diary.ru:=FreeWeb2.0.txt

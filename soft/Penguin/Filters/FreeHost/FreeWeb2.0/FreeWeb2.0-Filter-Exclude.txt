@@ -61,3 +61,4 @@
 .jugem.jp
 .altervista.org
 .over-blog.com
+.diary.ru
