@@ -19,3 +19,4 @@
 .czo.pl
 .rsspump.com
 .yoyo.pl
+.xup.pl

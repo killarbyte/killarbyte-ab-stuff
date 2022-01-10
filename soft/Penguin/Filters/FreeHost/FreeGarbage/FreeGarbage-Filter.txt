@@ -19,3 +19,4 @@
 .czo.pl:=FreeGarbage.txt
 .rsspump.com:=FreeGarbage.txt
 .yoyo.pl:=FreeGarbage.txt
+.xup.pl:=FreeGarbage.txt
