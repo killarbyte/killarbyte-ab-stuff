@@ -15,3 +15,4 @@
 .metroblog.com:=FreeGarbage.txt
 .blogcu.com:=FreeGarbage.txt
 .e-monsite.com:=FreeGarbage.txt
+.xaa.pl:=FreeGarbage.txt

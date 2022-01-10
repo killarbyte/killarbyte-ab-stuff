@@ -15,3 +15,4 @@
 .metroblog.com
 .blogcu.com
 .e-monsite.com
+.xaa.pl
