@@ -13,3 +13,4 @@
 .oeeee.com:=FreeGarbage.txt
 .pen.io:=FreeGarbage.txt
 .metroblog.com:=FreeGarbage.txt
+.blogcu.com:=FreeGarbage.txt
