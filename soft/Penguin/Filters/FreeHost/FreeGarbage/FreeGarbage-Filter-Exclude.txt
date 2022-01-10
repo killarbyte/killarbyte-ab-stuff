@@ -17,3 +17,4 @@
 .e-monsite.com
 .xaa.pl
 .czo.pl
+.rsspump.com
