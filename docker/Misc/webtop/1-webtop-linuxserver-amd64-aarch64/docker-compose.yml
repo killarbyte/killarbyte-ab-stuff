@@ -2,7 +2,7 @@ services:
   webtop:
     image: lscr.io/linuxserver/webtop:arch-xfce
     container_name: webtop-arch-xfce
-    # privileged: true #optional for KDE or i3
+    privileged: true #optional for KDE or i3
     security_opt:
       - seccomp:unconfined #optional
     environment:
