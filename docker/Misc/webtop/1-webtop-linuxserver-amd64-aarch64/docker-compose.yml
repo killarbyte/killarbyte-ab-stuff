@@ -9,11 +9,14 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/Netherlands
-      - SUBFOLDER=/ #optional
+      - PASSWORD=YOURPASSWORD
+      # - SUBFOLDER=/ #optional
     volumes:
       - ./data:/config
       # - /var/run/docker.sock:/var/run/docker.sock #optional for docker inside docker
     ports:
       - 13390:3000
     shm_size: "1gb" #optional
+    # env_file:
+    #   - .env
     restart: unless-stopped
