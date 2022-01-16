@@ -23,3 +23,4 @@
 .5d6d.com:=FreeGarbage.txt
 .nuipogoda.ru:=FreeGarbage.txt
 .crearforo.com:=FreeGarbage.txt
+.wxv.pl:=FreeGarbage.txt
