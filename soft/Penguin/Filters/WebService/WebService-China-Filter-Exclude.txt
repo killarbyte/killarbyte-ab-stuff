@@ -9,3 +9,4 @@
 .zol.com.cn
 .sina.com.cn
 .pcgames.com.cn
+.sblo.jp
