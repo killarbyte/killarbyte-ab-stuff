@@ -149,3 +149,4 @@
 .forumactif.com:=FreeForum.txt
 .forumprofi.de:=FreeForum.txt
 .forumfree.it:=FreeForum.txt
+.forumcommunity.net:=FreeForum.txt

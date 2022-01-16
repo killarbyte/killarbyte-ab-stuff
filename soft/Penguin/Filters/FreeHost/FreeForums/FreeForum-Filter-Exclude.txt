@@ -149,3 +149,4 @@
 .forumactif.com
 .forumprofi.de
 .forumfree.it
+.forumcommunity.net
