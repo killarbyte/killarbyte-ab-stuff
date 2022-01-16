@@ -25,3 +25,4 @@
 .crearforo.com:=FreeGarbage.txt
 .wxv.pl:=FreeGarbage.txt
 .pisze-wiersze.pl:=FreeGarbage.txt
+.blogbugs.org:=FreeGarbage.txt

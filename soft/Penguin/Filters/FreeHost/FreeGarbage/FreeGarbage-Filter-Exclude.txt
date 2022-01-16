@@ -25,3 +25,4 @@
 .crearforo.com
 .wxv.pl
 .pisze-wiersze.pl
+.blogbugs.org
