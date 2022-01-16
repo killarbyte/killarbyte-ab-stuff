@@ -26,3 +26,4 @@
 .wxv.pl
 .pisze-wiersze.pl
 .blogbugs.org
+.myforum.ro

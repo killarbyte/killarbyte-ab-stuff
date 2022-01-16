@@ -26,3 +26,4 @@
 .wxv.pl:=FreeGarbage.txt
 .pisze-wiersze.pl:=FreeGarbage.txt
 .blogbugs.org:=FreeGarbage.txt
+.myforum.ro:=FreeGarbage.txt
