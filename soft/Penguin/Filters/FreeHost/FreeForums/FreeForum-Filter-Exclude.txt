@@ -150,3 +150,5 @@
 .forumprofi.de
 .forumfree.it
 .forumcommunity.net
+.0pk.ru
+.0pk.me

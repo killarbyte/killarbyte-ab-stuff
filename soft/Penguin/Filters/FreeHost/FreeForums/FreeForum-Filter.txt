@@ -150,3 +150,5 @@
 .forumprofi.de:=FreeForum.txt
 .forumfree.it:=FreeForum.txt
 .forumcommunity.net:=FreeForum.txt
+.0pk.ru:=FreeForum.txt
+.0pk.me:=FreeForum.txt
