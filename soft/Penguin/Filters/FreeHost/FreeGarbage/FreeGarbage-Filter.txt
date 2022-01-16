@@ -28,3 +28,4 @@
 .blogbugs.org:=FreeGarbage.txt
 .myforum.ro:=FreeGarbage.txt
 .postbit.com:=FreeGarbage.txt
+.rusff.ru:=FreeGarbage.txt
