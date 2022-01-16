@@ -64,3 +64,4 @@
 .diary.ru:=FreeWeb2.0.txt
 .webnode.com:=FreeWeb2.0.txt
 .estranky.cz:=FreeWeb2.0.txt
+.canalblog.com:=FreeWeb2.0.txt

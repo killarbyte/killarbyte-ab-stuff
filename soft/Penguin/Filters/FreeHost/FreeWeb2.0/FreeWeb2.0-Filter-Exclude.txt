@@ -64,3 +64,4 @@
 .diary.ru
 .webnode.com
 .estranky.cz
+.canalblog.com
