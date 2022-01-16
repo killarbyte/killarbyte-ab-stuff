@@ -63,5 +63,6 @@
 .over-blog.com
 .diary.ru
 .webnode.com
+.webnode.cz
 .estranky.cz
 .canalblog.com
