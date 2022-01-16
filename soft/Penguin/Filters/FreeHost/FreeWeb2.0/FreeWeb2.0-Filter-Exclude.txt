@@ -63,3 +63,4 @@
 .over-blog.com
 .diary.ru
 .webnode.com
+.estranky.cz
