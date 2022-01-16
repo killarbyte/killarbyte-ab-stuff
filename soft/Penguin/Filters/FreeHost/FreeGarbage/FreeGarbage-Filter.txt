@@ -24,3 +24,4 @@
 .nuipogoda.ru:=FreeGarbage.txt
 .crearforo.com:=FreeGarbage.txt
 .wxv.pl:=FreeGarbage.txt
+.pisze-wiersze.pl:=FreeGarbage.txt

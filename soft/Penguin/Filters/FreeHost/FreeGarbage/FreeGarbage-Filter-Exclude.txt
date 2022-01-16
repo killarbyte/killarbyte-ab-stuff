@@ -24,3 +24,4 @@
 .nuipogoda.ru
 .crearforo.com
 .wxv.pl
+.pisze-wiersze.pl
