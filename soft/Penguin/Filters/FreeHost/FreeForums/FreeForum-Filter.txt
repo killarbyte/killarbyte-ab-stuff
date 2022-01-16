@@ -34,7 +34,7 @@
 .ebboard.com:=FreeForum.txt
 .forumieren.net:=FreeForum.txt
 .fmbb.ru:=FreeForum.txt
-.indonesianforum.net
+.indonesianforum.net:=FreeForum.txt
 .phpbb6.de:=FreeForum.txt
 .wikiforum.ro:=FreeForum.txt
 .mybb3.ru:=FreeForum.txt
