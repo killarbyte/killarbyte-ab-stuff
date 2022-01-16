@@ -29,3 +29,4 @@
 .myforum.ro:=FreeGarbage.txt
 .postbit.com:=FreeGarbage.txt
 .rusff.ru:=FreeGarbage.txt
+.66wz.com:=FreeGarbage.txt
