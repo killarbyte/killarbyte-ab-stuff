@@ -27,3 +27,4 @@
 .pisze-wiersze.pl
 .blogbugs.org
 .myforum.ro
+.postbit.com
