@@ -157,3 +157,4 @@
 .rolka.me
 .spybb.ru
 .bbplay.ru
+.forumactif.org
