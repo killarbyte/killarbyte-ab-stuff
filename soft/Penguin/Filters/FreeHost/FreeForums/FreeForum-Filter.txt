@@ -152,3 +152,4 @@
 .forumcommunity.net:=FreeForum.txt
 .0pk.ru:=FreeForum.txt
 .0pk.me:=FreeForum.txt
+.foroactivo.com:=FreeForum.txt
