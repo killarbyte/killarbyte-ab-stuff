@@ -156,3 +156,4 @@
 .rolka.su:=FreeForum.txt
 .rolka.me:=FreeForum.txt
 .spybb.ru:=FreeForum.txt
+.bbplay.ru:=FreeForum.txt
