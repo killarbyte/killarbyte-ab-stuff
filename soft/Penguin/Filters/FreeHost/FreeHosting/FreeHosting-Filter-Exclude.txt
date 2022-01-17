@@ -4,3 +4,4 @@
 .000webhost.com
 .110mb.com
 .webs.com
+.cba.pl

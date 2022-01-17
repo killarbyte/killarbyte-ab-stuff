@@ -4,3 +4,4 @@
 .000webhost.com:=FreeHosting.txt
 .110mb.com:=FreeHosting.txt
 .webs.com:=FreeHosting.txt
+.cba.pl:=FreeHosting.txt
