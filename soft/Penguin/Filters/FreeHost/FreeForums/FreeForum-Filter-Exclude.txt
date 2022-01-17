@@ -153,3 +153,5 @@
 .0pk.ru
 .0pk.me
 .foroactivo.com
+.rolka.su
+.rolka.me
