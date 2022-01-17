@@ -34,3 +34,4 @@
 .esy.es
 .tibetcul.com
 .creatuforo.com
+.yuku.com

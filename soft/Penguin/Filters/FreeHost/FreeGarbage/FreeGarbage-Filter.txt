@@ -34,3 +34,4 @@
 .esy.es:=FreeGarbage.txt
 .tibetcul.com:=FreeGarbage.txt
 .creatuforo.com:=FreeGarbage.txt
+.yuku.com:=FreeGarbage.txt
