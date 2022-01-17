@@ -36,3 +36,4 @@
 .creatuforo.com:=FreeGarbage.txt
 .yuku.com:=FreeGarbage.txt
 .eforum.lt:=FreeGarbage.txt
+.forumbuild.com:=FreeGarbage.txt
