@@ -33,3 +33,4 @@
 .docfond.ru:=FreeGarbage.txt
 .esy.es:=FreeGarbage.txt
 .tibetcul.com:=FreeGarbage.txt
+.creatuforo.com:=FreeGarbage.txt
