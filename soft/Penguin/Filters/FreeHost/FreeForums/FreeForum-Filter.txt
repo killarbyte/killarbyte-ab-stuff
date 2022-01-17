@@ -155,3 +155,4 @@
 .foroactivo.com:=FreeForum.txt
 .rolka.su:=FreeForum.txt
 .rolka.me:=FreeForum.txt
+.spybb.ru:=FreeForum.txt
