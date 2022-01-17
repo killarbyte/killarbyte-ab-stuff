@@ -31,3 +31,4 @@
 .rusff.ru:=FreeGarbage.txt
 .66wz.com:=FreeGarbage.txt
 .docfond.ru:=FreeGarbage.txt
+.esy.es:=FreeGarbage.txt
