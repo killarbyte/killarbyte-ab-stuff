@@ -1,0 +1,3 @@
+https://domain.com/index.html
+https://domain.ru/index.html
+https://domain.org/index.html
