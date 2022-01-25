@@ -1,0 +1,1 @@
+{https://url1.com|https://url2.com|https://url3.com}
