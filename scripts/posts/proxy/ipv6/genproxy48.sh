@@ -5,14 +5,14 @@ ipv4=ip
 portproxy=20000
 user=login
 pass=passw
-config="/etc/3proxy/3proxy.cfg"
+config="/etc/3proxy/conf/3proxy.cfg"
 
 ### clean cfg ###
-echo -ne > /etc/3proxy/3proxy.cfg
-echo -ne > /root/proxylist.txt
-echo -ne > /root/proxylist_key_collector.txt
-echo -ne > /root/xproxy.txt
-echo -ne > /root/xevil.txt
+echo -ne > $config
+echo -ne > /app/proxy/ipv6-socks5-proxy/proxylist.txt
+echo -ne > /app/proxy/ipv6-socks5-proxy/proxylist_key_collector.txt
+echo -ne > /app/proxy/ipv6-socks5-proxy/xproxy.txt
+echo -ne > /app/proxy/ipv6-socks5-proxy/xevil.txt
 
 ### cfg start ###
 echo "daemon" >> $config
