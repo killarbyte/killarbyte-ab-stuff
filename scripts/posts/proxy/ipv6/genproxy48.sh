@@ -8,7 +8,7 @@ pass=passw
 config="/etc/3proxy/conf/3proxy.cfg"
 
 ### clean cfg ###
-echo -ne > $config
+echo -ne > /etc/3proxy/conf/3proxy.cfg
 echo -ne > /app/proxy/ipv6-socks5-proxy/proxylist.txt
 echo -ne > /app/proxy/ipv6-socks5-proxy/proxylist_key_collector.txt
 echo -ne > /app/proxy/ipv6-socks5-proxy/xproxy.txt
@@ -28,7 +28,7 @@ echo "nscache6 65536" >> $config
 echo "timeouts 1 5 30 60 180 1800 15 60" >> $config
 #echo "setgid 65535" >> $config
 #echo "setuid 65535" >> $config
-echo "monitor $config" >> $config
+#echo "monitor $config" >> $config
 echo "flush" >> $config
 echo "auth strong" >> $config
 echo  "users $user:CL:$pass" >> $config
