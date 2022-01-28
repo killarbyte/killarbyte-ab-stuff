@@ -28,6 +28,7 @@ echo "nscache6 65536" >> $config
 echo "timeouts 1 5 30 60 180 1800 15 60" >> $config
 echo "setgid 65535" >> $config
 echo "setuid 65535" >> $config
+echo "monitor $config" >> $config
 echo "flush" >> $config
 echo "auth strong" >> $config
 echo  "users $user:CL:$pass" >> $config
