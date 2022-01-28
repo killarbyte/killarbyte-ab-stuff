@@ -16,7 +16,7 @@ echo -ne > /app/proxy/ipv6-socks5-proxy/xevil.txt
 
 ### cfg start ###
 echo "daemon" >> $config
-echo "maxconn 3000" >> $config
+echo "maxconn 1000" >> $config
 echo "monitor /etc/3proxy/3proxy.cfg" >> $config
 echo "nserver [2606:4700:4700::1111]" >> $config
 echo "nserver [2606:4700:4700::1001]" >> $config
