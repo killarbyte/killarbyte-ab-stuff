@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ### main settings ###
-ipv4='$(hostname --ip-address)'
+ipv4=$(hostname --ip-address)
 portproxy=20000
 user=login
 pass=passw
@@ -28,7 +28,7 @@ echo "nscache6 65536" >> $config
 echo "timeouts 1 5 30 60 180 1800 15 60" >> $config
 #echo "setgid 65535" >> $config
 #echo "setuid 65535" >> $config
-#echo "monitor $config" >> $config
+echo "monitor $config" >> $config
 echo "flush" >> $config
 echo "auth strong" >> $config
 echo  "users $user:CL:$pass" >> $config
