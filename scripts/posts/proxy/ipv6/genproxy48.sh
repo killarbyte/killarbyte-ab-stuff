@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ### main settings ###
-ipv4="hostname -I | cut -d' ' -f1"
+ipv4='hostname --ip-address'
 portproxy=20000
 user=login
 pass=passw
