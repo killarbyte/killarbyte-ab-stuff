@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+### main settings ###
 ipv4=ip
 portproxy=20000
 user=login
