@@ -7,11 +7,14 @@ user=login
 pass=passw
 config="/etc/3proxy/3proxy.cfg"
 
+### clean cfg ###
 echo -ne > /etc/3proxy/3proxy.cfg
 echo -ne > /root/proxylist.txt
 echo -ne > /root/proxylist_key_collector.txt
 echo -ne > /root/xproxy.txt
 echo -ne > /root/xevil.txt
+
+### cfg start ###
 echo "daemon" >> $config
 echo "maxconn 3000" >> $config
 echo "nserver [2606:4700:4700::1111]" >> $config
@@ -34,6 +37,7 @@ for i in `cat ip.list`; do
     echo "proxy -6 -s0 -n -a -olSO_REUSEADDR,SO_REUSEPORT -ocTCP_TIMESTAMPS,TCP_NODELAY -osTCP_NODELAY,SO_KEEPALIVE -p$portproxy -i$ipv4 -e$i" >> $config
     ((inc+=1))
     ((portproxy+=1))
+  ### other software proxylist creation ###
 	echo "$ipv4:$portproxy:$user:$pass" >> proxylist.txt
 	echo "$ipv4:$portproxy@$user:$pass;v6" >> proxylist_key_collector.txt
 	echo "$user:$pass@$ipv4:$portproxy" >> xproxy.txt
