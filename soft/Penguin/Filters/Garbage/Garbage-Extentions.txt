@@ -1,0 +1,7 @@
+\.pdf$:=Garbage-Extentions.txt
+\.doc$:=Garbage-Extentions.txt
+\.txt$:=Garbage-Extentions.txt
+\.csv$:=Garbage-Extentions.txt
+\.xlsx$:=Garbage-Extentions.txt
+\.zip$:=Garbage-Extentions.txt
+\.rar$:=Garbage-Extentions.txt

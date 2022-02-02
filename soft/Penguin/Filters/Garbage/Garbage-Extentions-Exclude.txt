@@ -1,0 +1,7 @@
+\.pdf$
+\.doc$
+\.txt$
+\.csv$
+\.xlsx$
+\.zip$
+\.rar$
