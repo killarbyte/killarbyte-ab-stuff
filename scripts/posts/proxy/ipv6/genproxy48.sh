@@ -26,8 +26,8 @@ echo "nserver [2a02:6b8:0:1::feed:0ff]" >> $config
 echo "nscache 65536" >> $config
 echo "nscache6 65536" >> $config
 echo "timeouts 1 5 30 60 180 1800 15 60" >> $config
-#echo "setgid 65535" >> $config
-#echo "setuid 65535" >> $config
+echo "setgid 65535" >> $config
+echo "setuid 65535" >> $config
 echo "flush" >> $config
 echo "auth strong" >> $config
 echo  "users $user:CL:$pass" >> $config
