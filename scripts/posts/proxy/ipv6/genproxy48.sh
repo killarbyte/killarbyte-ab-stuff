@@ -5,7 +5,7 @@ ipv4=$(hostname --ip-address)
 portproxy=20000
 user=login
 pass=passw
-config="/etc/3proxy/conf/3proxy.cfg"
+config="/etc/3proxy/3proxy.cfg"
 
 ### clean cfg ###
 echo -ne > /etc/3proxy/conf/3proxy.cfg
@@ -16,7 +16,7 @@ echo -ne > /app/proxy/ipv6-socks5-proxy/xevil.txt
 ### cfg start ###
 echo "daemon" >> $config
 echo "maxconn 300" >> $config
-echo "monitor /etc/3proxy/3proxy.cfg" >> $config
+#echo "monitor /etc/3proxy/3proxy.cfg" >> $config
 echo "nserver [2606:4700:4700::1111]" >> $config
 echo "nserver [2606:4700:4700::1001]" >> $config
 echo "nserver [2001:4860:4860::8888]" >> $config
