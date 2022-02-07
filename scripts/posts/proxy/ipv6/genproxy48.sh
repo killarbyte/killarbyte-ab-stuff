@@ -15,7 +15,7 @@ echo -ne > /app/proxy/ipv6-socks5-proxy/xevil.txt
 
 ### cfg start ###
 echo "daemon" >> $config
-echo "maxconn 1000" >> $config
+echo "maxconn 300" >> $config
 echo "monitor /etc/3proxy/3proxy.cfg" >> $config
 echo "nserver [2606:4700:4700::1111]" >> $config
 echo "nserver [2606:4700:4700::1001]" >> $config
@@ -34,7 +34,7 @@ echo  "users $user:CL:$pass" >> $config
 echo "allow $user" >> $config
 
 for i in `cat ip.list`; do
-    echo "socks -6 -s0 -n -a -olSO_REUSEADDR,SO_REUSEPORT -ocTCP_TIMESTAMPS,TCP_NODELAY -osTCP_NODELAY,SO_KEEPALIVE -p$portproxy -i$ipv4 -e$i" >> $config
+    echo "proxy -6 -s0 -n -a -olSO_REUSEADDR,SO_REUSEPORT -ocTCP_TIMESTAMPS,TCP_NODELAY -osTCP_NODELAY,SO_KEEPALIVE -p$portproxy -i$ipv4 -e$i" >> $config
     ((inc+=1))
     ((portproxy+=1))
   ### other software proxylist creation ###
