@@ -38,6 +38,6 @@ for i in `cat ip.list`; do
     ((portproxy+=1))
 
 ### other software proxylist creation ###
-echo "$ipv4:$portproxy@$user:$pass;v6" >> proxylist_key_collector.txt
+echo "$ipv4:$portproxy@$user:$pass;v6;http" >> proxylist_key_collector.txt
 echo "http://$user:$pass@$ipv4:$portproxy" >> xevil.txt
 done
