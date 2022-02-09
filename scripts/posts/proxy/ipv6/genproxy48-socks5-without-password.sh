@@ -34,11 +34,11 @@ echo "flush" >> $config
 #echo "allow $user" >> $config
 
 for i in `cat ip.list`; do
-    echo "proxy -6 -s0 -n -a -olSO_REUSEADDR,SO_REUSEPORT -ocTCP_TIMESTAMPS,TCP_NODELAY -osTCP_NODELAY,SO_KEEPALIVE -p$portproxy -i$ipv4 -e$i" >> $config
+    echo "socks -6 -s0 -n -a -olSO_REUSEADDR,SO_REUSEPORT -ocTCP_TIMESTAMPS,TCP_NODELAY -osTCP_NODELAY,SO_KEEPALIVE -p$portproxy -i$ipv4 -e$i" >> $config
     ((inc+=1))
     ((portproxy+=1))
 
 ### other software proxylist creation ###
-echo "$ipv4:$portproxy;v6;http" >> proxylist_key_collector.txt
-echo "http://$ipv4:$portproxy" >> xevil.txt
+echo "$ipv4:$portproxy;v6;socks5" >> proxylist_key_collector.txt
+echo "socks5://$ipv4:$portproxy" >> xevil.txt
 done
