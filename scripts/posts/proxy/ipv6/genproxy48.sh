@@ -3,14 +3,13 @@
 ### main settings ###
 ipv4=$(hostname --ip-address)
 portproxy=20000
-user=login
-pass=passw
+user=login ### Proxy Login
+pass=passw ### Proxy Password
 config="/etc/3proxy/3proxy.cfg"
 
 ### clean cfg ###
 echo -ne > /etc/3proxy/3proxy.cfg
 echo -ne > /app/proxy/ipv6-socks5-proxy/proxylist_key_collector.txt
-echo -ne > /app/proxy/ipv6-socks5-proxy/xproxy.txt
 echo -ne > /app/proxy/ipv6-socks5-proxy/xevil.txt
 
 ### cfg start ###
@@ -37,8 +36,8 @@ for i in `cat ip.list`; do
     echo "proxy -6 -s0 -n -a -olSO_REUSEADDR,SO_REUSEPORT -ocTCP_TIMESTAMPS,TCP_NODELAY -osTCP_NODELAY,SO_KEEPALIVE -p$portproxy -i$ipv4 -e$i" >> $config
     ((inc+=1))
     ((portproxy+=1))
-  ### other software proxylist creation ###
-	echo "$ipv4:$portproxy@$user:$pass;v6" >> proxylist_key_collector.txt
-	echo "$user:$pass@$ipv4:$portproxy" >> xproxy.txt
-	echo "http://$ipv4:$portproxy:$user:$pass" >> xevil.txt
+
+### other software proxylist creation ###
+echo "$ipv4:$portproxy@$user:$pass;v6" >> proxylist_key_collector.txt
+echo "http://$ipv4:$portproxy:$user:$pass" >> xevil.txt
 done
