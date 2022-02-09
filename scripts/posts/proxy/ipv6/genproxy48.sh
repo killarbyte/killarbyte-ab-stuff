@@ -15,7 +15,6 @@ echo -ne > /app/proxy/ipv6-socks5-proxy/xevil.txt
 ### cfg start ###
 echo "daemon" >> $config
 echo "maxconn 300" >> $config
-#echo "monitor /etc/3proxy/3proxy.cfg" >> $config
 echo "nserver [2606:4700:4700::1111]" >> $config
 echo "nserver [2606:4700:4700::1001]" >> $config
 echo "nserver [2001:4860:4860::8888]" >> $config
@@ -27,6 +26,8 @@ echo "nscache6 65536" >> $config
 echo "timeouts 1 5 30 60 180 1800 15 60" >> $config
 #echo "setgid 65535" >> $config
 #echo "setuid 65535" >> $config
+#echo "monitor /etc/3proxy/3proxy.cfg" >> $config
+echo "stacksize 6000" >> $config
 echo "flush" >> $config
 echo "auth strong" >> $config
 echo  "users $user:CL:$pass" >> $config
