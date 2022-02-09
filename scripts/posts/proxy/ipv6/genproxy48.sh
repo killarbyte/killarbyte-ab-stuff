@@ -2,7 +2,7 @@
 
 ### main settings ###
 ipv4=$(hostname --ip-address)
-portproxy=20000
+portproxy=20000 # Proxy staart port
 user=login ### Proxy Login
 pass=passw ### Proxy Password
 config="/etc/3proxy/3proxy.cfg"
