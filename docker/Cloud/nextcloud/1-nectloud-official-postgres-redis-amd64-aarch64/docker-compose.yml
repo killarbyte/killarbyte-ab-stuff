@@ -2,7 +2,7 @@ version: "2.1"
 
 services:
   nextcloud:
-    image: nextcloud:23.0-apache
+    image: nextcloud:23.0.1-apache
     container_name: nextcloud-23
     environment:
       # - PUID=1000
