@@ -83,7 +83,7 @@ services:
       - POLYWORK=https://www.polywork.com/
       - SIGNAL=https://signal.org/
     ports:
-      - 8080:3000
+      - 39390:3000
     restart: unless-stopped
     security_opt:
       - no-new-privileges:true
