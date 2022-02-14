@@ -65,7 +65,7 @@ sudo iptables -A OUTPUT -p icmp -j ACCEPT
 # sudo iptables -A INPUT -p udp -m udp --dport 53 -j ACCEPT
 # sudo iptables -A INPUT -p udp -m udp --sport 53 --dport 1024:65535 -j ACCEPT
 # Разрешаем ИСХОДЯЩИЙ DNS трафик. Чтобы можно было пинговать и т.д. другие сайты
-sudo iptables -A OUTPUT -p udp --dport 53 -j ACCEPT
+sudo iptables -A OUTPUT -p udp -m udp --dport 53 -j ACCEPT
 
 
 ###########
