@@ -4,7 +4,7 @@
 
 # Смотрим правила по умолчинию
 # sudo iptables -L -n -v
-# sudo iptables -L -n
+# sudo iptables -L -n --line-numbers
 
 # Проверка правила iptables.
 # Проверяем открытость / закрытость портов:
