@@ -6,7 +6,7 @@
 # sudo iptables -nvL
 # sudo iptables -L -n --line-numbers
 
-# мониторинг iptables (обязательно 5 пробелов между нулями)
+# мониторинг iptables покажет активные в данный момент правила (обязательно 5 пробелов между нулями)
 # watch -n 1 'sudo iptables -nvL | grep -v "0     0"'
 
 # Проверка правила iptables.
