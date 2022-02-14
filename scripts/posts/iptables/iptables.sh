@@ -46,7 +46,15 @@ sudo iptables -A INPUT -m conntrack --ctstate INVALID -j DROP
 # Разрешаем ВХОДЯЩИЙ ICMP трафик
 sudo iptables -A INPUT -p icmp -j ACCEPT
 # Разрешаем ИСХОДЯЩИЙ ICMP трафик
-sudo iptables -A OUTPUT -p icmp -j ACCEPT
+1 -A OUTPUT -p icmp -j ACCEPT
+
+
+############
+### DHCP ###
+############
+
+# Allow outbound DHCP request
+# sudo iptables -A OUTPUT -o eth0 -p udp --dport 67:68 --sport 67:68 -j ACCEPT
 
 
 ###########
