@@ -33,7 +33,7 @@ sudo iptables -A OUTPUT -o lo -j ACCEPT
 # Разрешаем ВХОДЯЩИЙ траффик который инициирован самим сервером. т.е. для уже установленных соединений
 sudo iptables -A INPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
 # Разрешаем ИСХОДЯЩИЙ трафик для всех установленных соединений, которые обычно являются ответом на законные входящие соединения.
-sudo iptables -A OUTPUT -m conntrack --ctstate ESTABLISHED -j ACCEPT
+sudo iptables -A OUTPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
 
 # Запрещяем ВХОДЯЩИЕ невалидные пакеты
 sudo iptables -A INPUT -m conntrack --ctstate INVALID -j DROP
