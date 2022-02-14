@@ -46,7 +46,7 @@ sudo iptables -A INPUT -m conntrack --ctstate INVALID -j DROP
 # Разрешаем ВХОДЯЩИЙ ICMP трафик
 sudo iptables -A INPUT -p icmp -j ACCEPT
 # Разрешаем ИСХОДЯЩИЙ ICMP трафик
-1 -A OUTPUT -p icmp -j ACCEPT
+sudo iptables -A OUTPUT -p icmp -j ACCEPT
 
 
 ############
