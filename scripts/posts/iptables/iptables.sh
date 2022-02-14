@@ -3,7 +3,7 @@
 # https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands
 
 # Смотрим правила по умолчинию
-# sudo iptables -L -n -v
+# sudo iptables -nvL
 # sudo iptables -L -n --line-numbers
 
 # Проверка правила iptables.
@@ -152,6 +152,14 @@ sudo iptables -A INPUT -i eth0 -s xxx.xxx.xxx.xxx/32 -m multiport -p tcp --dport
 # sudo iptables -A INPUT -p tcp -s xxx.xxx.xxx.0/24 --dport 5432 -m conntrack --ctstate NEW,ESTABLISHED -j ACCEPT
 # # Разрешаем ИСХОДЯЩИЙ траффик PostgreSQL
 # sudo iptables -A OUTPUT -p tcp --sport 5432 -m conntrack --ctstate ESTABLISHED -j ACCEPT
+
+
+###########
+### NTP ###
+###########
+
+# Разрешаем Network Time Protocol наружу
+sudo iptables -A OUTPUT -o eth0 -p udp --dport 123 --sport 123 -j ACCEPT
 
 
 ############
