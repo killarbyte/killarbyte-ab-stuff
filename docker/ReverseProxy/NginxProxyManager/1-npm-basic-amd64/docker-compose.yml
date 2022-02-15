@@ -17,8 +17,7 @@ services:
     volumes:
       - ./data:/data
       - ./letsencrypt:/etc/letsencrypt
-    # networks:
-    #   - npmnet
+
   db:
     image: 'jc21/mariadb-aria:latest'
     restart: unless-stopped
@@ -29,9 +28,3 @@ services:
       MYSQL_PASSWORD: 'npm'
     volumes:
       - ./data/mysql:/var/lib/mysql
-    # networks:
-    #   - npmnet
-
-# networks:
-#   npmnet:
-#    driver: bridge
