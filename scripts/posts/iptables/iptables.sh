@@ -2,6 +2,7 @@
 
 # https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands
 # https://www.youtube.com/watch?v=D7LgjSOWCxg
+# https://www.youtube.com/watch?v=qruazgOjMMY
 
 # Смотрим правила по умолчинию
 # sudo iptables -nvL
