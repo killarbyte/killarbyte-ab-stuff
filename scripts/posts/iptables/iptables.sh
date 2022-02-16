@@ -225,6 +225,9 @@ sudo iptables -A INPUT -p tcp -m tcp --dport 39080 -j ACCEPT
 # Добавляем правило для NPM(Nginx Proxy Manager)
 sudo iptables -A INPUT -p tcp -m tcp --dport 43013 -j ACCEPT
 
+# Добавляем правило для NPM(Nginx Proxy Manager) только для определённого ip
+sudo iptables -A INPUT -p tcp -s xxx.xxx.xxx.xxx/16 --dport 43013 -m conntrack --ctstate NEW,ESTABLISHED -j ACCEPT
+
 # Добавляем правило для mariadb
 #sudo iptables -A INPUT -p tcp -m tcp --dport 10000 -j ACCEPT
 
