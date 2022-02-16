@@ -231,5 +231,5 @@ sudo iptables -A INPUT -p tcp -m tcp --dport 10000 -j ACCEPT
 
 # Чтобы сбрасывать весь трафик:
 sudo iptables -P INPUT DROP
-# sudo iptables -P OUTPUT DROP
-# sudo iptables -P FORWARD DROP
+sudo iptables -P OUTPUT ACCEPT
+sudo iptables -P FORWARD ACCEPT
