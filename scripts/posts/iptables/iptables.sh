@@ -222,8 +222,11 @@ sudo iptables -A OUTPUT -o docker0 -j ACCEPT
 # Добавляем правило для nginx
 sudo iptables -A INPUT -p tcp -m tcp --dport 39080 -j ACCEPT
 
+# Добавляем правило для NPM(Nginx Proxy Manager)
+sudo iptables -A INPUT -p tcp -m tcp --dport 43013 -j ACCEPT
+
 # Добавляем правило для mariadb
-sudo iptables -A INPUT -p tcp -m tcp --dport 10000 -j ACCEPT
+#sudo iptables -A INPUT -p tcp -m tcp --dport 10000 -j ACCEPT
 
 ##############
 ### POLICY ###
