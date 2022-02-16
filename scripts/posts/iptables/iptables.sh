@@ -212,6 +212,20 @@ sudo iptables -A OUTPUT -o eth0 -p udp --dport 123 --sport 123 -j ACCEPT
 
 
 ##############
+### DOCKER ###
+##############
+
+# Используем мост Ethernet, созданный docker и названный docker0, чтобы установить правила для пересылки
+sudo iptables -A INPUT -i docker0 -j ACCEPT
+sudo iptables -A OUTPUT -o docker0 -j ACCEPT
+
+# Добавляем правило для nginx
+sudo iptables -A INPUT -p tcp -m tcp --dport 39080 -j ACCEPT
+
+# Добавляем правило для mariadb
+sudo iptables -A INPUT -p tcp -m tcp --dport 10000 -j ACCEPT
+
+##############
 ### POLICY ###
 ##############
 
