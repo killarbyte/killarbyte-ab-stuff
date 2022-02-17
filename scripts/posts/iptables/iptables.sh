@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands
+# https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules-ru
 # https://www.youtube.com/watch?v=D7LgjSOWCxg
 # https://www.youtube.com/watch?v=qruazgOjMMY
 
