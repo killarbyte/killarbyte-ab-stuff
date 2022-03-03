@@ -1,7 +1,7 @@
 version: "2.1"
 services:
   freshrss:
-    image: freshrss/freshrss:1.19.1
+    image: freshrss/freshrss:1.19.2
     container_name: freshrss
     environment:
       # - PUID=1000
