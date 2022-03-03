@@ -1,0 +1,37 @@
+version: "2.1"
+services:
+  freshrss:
+    image: freshrss/freshrss:1.19.1
+    container_name: freshrss
+    environment:
+      # - PUID=1000
+      # - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ./data:/var/www/FreshRSS/data
+      - ./extensions:/var/www/FreshRSS/extensions
+    # ports:
+    #   - 13380:80
+    restart: unless-stopped
+    depends_on:
+      - postgres-freshrss
+    networks:
+      - default
+
+  postgres-freshrss:
+    image: postgres:14.1-alpine
+    container_name: postgres-freshrss
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=freshrss
+      - POSTGRES_USER=freshrss
+      - POSTGRES_PASSWORD=YOURPASSWORD
+    volumes:
+      - ./DB:/var/lib/postgresql/data
+    networks:
+      - default
+
+networks:
+  default:
+    external: true
+    name: evilcorp
