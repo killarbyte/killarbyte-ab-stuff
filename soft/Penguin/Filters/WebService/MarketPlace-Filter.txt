@@ -1,4 +1,4 @@
-.all.biz:=MarketPlace.txt
-.bigcartel.com:=MarketPlace.txt
-.ec21.com:=MarketPlace.txt
-.gidm.ru:=MarketPlace.txt
+[\./]all\.biz:=MarketPlace.txt
+[\./]bigcartel\.com:=MarketPlace.txt
+[\./]ec21\.com:=MarketPlace.txt
+[\./]gidm\.ru:=MarketPlace.txt

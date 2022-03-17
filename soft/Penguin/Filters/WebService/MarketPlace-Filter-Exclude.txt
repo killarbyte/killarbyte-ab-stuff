@@ -1,4 +1,4 @@
-.all.biz
-.bigcartel.com
-.ec21.com
-.gidm.ru
+[\./]all\.biz
+[\./]bigcartel\.com
+[\./]ec21\.com
+[\./]gidm\.ru
