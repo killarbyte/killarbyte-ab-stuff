@@ -1,7 +1,7 @@
-.1gb.ru
-.16mb.com
-.125mb.com
-.000webhost.com
-.110mb.com
-.webs.com
-.cba.pl
+[\./]1gb\.ru
+[\./]16mb\.com
+[\./]125mb\.com
+[\./]000webhost\.com
+[\./]110mb\.com
+[\./]webs\.com
+[\./]cba\.pl

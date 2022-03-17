@@ -1,7 +1,7 @@
-.1gb.ru:=FreeHosting.txt
-.16mb.com:=FreeHosting.txt
-.125mb.com:=FreeHosting.txt
-.000webhost.com:=FreeHosting.txt
-.110mb.com:=FreeHosting.txt
-.webs.com:=FreeHosting.txt
-.cba.pl:=FreeHosting.txt
+[\./]1gb\.ru:=FreeHosting.txt
+[\./]16mb\.com:=FreeHosting.txt
+[\./]125mb\.com:=FreeHosting.txt
+[\./]000webhost\.com:=FreeHosting.txt
+[\./]110mb\.com:=FreeHosting.txt
+[\./]webs\.com:=FreeHosting.txt
+[\./]cba\.pl:=FreeHosting.txt
