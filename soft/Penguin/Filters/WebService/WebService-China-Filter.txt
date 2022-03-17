@@ -10,4 +10,3 @@
 [\./]sina\.com\.cn:=WebService-China.txt
 [\./]pcgames\.com\.cn:=WebService-China.txt
 [\./]sblo\.jp:=WebService-China.txt
-ц
