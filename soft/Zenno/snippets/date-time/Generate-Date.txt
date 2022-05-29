@@ -1,7 +1,7 @@
 /*
 //Генерация Даты в диапозоне 
 https://zennolab.com/discussion/threads/kak-sgenerirovat-random-datu-v-predelax.32872/#post-237591
-//+
++
 //https://zennolab.com/discussion/threads/kak-sgenerirovat-random-datu-v-predelax.32872/#post-237817
 */
 
