@@ -14,3 +14,4 @@ services:
       - 10000:3306
     volumes:
       - ./DB:/var/lib/mysql
+      #- ./app.cnf:/etc/mysql/conf.d/app.cnf
