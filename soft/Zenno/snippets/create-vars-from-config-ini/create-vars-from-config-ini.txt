@@ -3,7 +3,7 @@
 //берем имя проекта и заменяем расширение на ini
 //string config_file = project.Name.Replace("xmlz","ini");
 //если несколько проектов юзают один и тот же конфиг
-string config_file = "../config.ini";
+string config_file = "config.ini";
 string config_path = Path.Combine(project.Directory,config_file);
 //проверяем существование конфига
 if (File.Exists(config_path)) {
