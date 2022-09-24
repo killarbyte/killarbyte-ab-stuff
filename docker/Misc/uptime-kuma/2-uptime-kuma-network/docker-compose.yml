@@ -9,6 +9,7 @@ services:
     #   - 3001:3001
     volumes:
       - ./data:/app/data
+      - /var/run/docker.sock:/var/run/docker.sock
     security_opt:
       - no-new-privileges:true
     networks:
