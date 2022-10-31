@@ -6,3 +6,4 @@
 0.0.0.0 timeweb.com
 0.0.0.0 rf.ru
 0.0.0.0 axelname.ru
+0.0.0.0 beget.com
