@@ -1,1 +1,2 @@
 ||kremlin.ru^
+||.gov.ru^
