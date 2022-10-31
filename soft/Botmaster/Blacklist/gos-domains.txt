@@ -1,2 +1,3 @@
 0.0.0.0 kremlin.ru
+0.0.0.0 kremlin2.ru
 0.0.0.0 council.gov.ru
