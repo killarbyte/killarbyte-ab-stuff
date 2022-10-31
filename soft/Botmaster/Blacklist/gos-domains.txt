@@ -1,2 +1,2 @@
-||kremlin.ru^
-||council.gov.ru^
+0.0.0.0 kremlin.ru
+0.0.0.0 council.gov.ru
