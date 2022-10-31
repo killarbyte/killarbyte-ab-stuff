@@ -1,2 +1,2 @@
-||kremlin.ru/
-|http://council.gov.ru/
+||kremlin.ru^
+||council.gov.ru^
