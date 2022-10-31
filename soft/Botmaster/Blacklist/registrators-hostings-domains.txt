@@ -1,0 +1,6 @@
+!#
+!#
+0.0.0.0 reg.ru
+0.0.0.0 nic.ru
+0.0.0.0 beget.com
+0.0.0.0 timeweb.com
