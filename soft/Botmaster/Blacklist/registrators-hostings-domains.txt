@@ -1,7 +1,11 @@
 !#
 !#
+0.0.0.0 axelname.ru
+0.0.0.0 beget.com
+0.0.0.0 rf.ru
 0.0.0.0 reg.ru
 0.0.0.0 nic.ru
+0.0.0.0 www.nic.ru
 0.0.0.0 timeweb.com
 0.0.0.0 vh330.timeweb.ru
 0.0.0.0 vh320.timeweb.ru
@@ -21,6 +25,4 @@
 0.0.0.0 vh358.timeweb.ru
 0.0.0.0 vh386.timeweb.ru
 0.0.0.0 vh388.timeweb.ru
-0.0.0.0 rf.ru
-0.0.0.0 axelname.ru
-0.0.0.0 beget.com
+0.0.0.0 www.domainoo.com
