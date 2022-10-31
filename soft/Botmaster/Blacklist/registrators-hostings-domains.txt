@@ -25,4 +25,6 @@
 0.0.0.0 vh358.timeweb.ru
 0.0.0.0 vh386.timeweb.ru
 0.0.0.0 vh388.timeweb.ru
+0.0.0.0 vh338.timeweb.ru
+0.0.0.0 bitrix396.timeweb.ru
 0.0.0.0 www.domainoo.com
