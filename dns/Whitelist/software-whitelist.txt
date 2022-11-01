@@ -1,3 +1,1 @@
-# @@|api.rewards.brave.com^$important (disabled)
-@@|*timeweb.ru^$important
-@|timeweb.ru^$important
+timeweb.ru
