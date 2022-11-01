@@ -32,6 +32,10 @@
 0.0.0.0 sdz08.timeweb.ru
 0.0.0.0 shirley.timeweb.ru
 0.0.0.0 wilma.timeweb.ru
+0.0.0.0 premium52.timeweb.ru
+0.0.0.0 sincerus.timeweb.ru
+0.0.0.0 premium42.timeweb.ru
+0.0.0.0 sdv05.timeweb.ru
 0.0.0.0 bitrix1.timeweb.ru
 0.0.0.0 bitrix2.timeweb.ru
 0.0.0.0 bitrix3.timeweb.ru
