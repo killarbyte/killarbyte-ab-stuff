@@ -1,1 +1,7 @@
-@@||timeweb.com^$important
+@@||botmasterru.com^$important
+@@||adminapi.ru^$important
+@@||zennolab.com^$important
+@@||userarea.zennolab.com^$important
+@@||chek.zennolab.com^$important
+@@||contentdownloader.ru^$important
+@@||linksspider.com^$important
