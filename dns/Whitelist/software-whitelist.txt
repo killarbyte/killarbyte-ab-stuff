@@ -1,6 +1,4 @@
 # @@|api.rewards.brave.com^$important (disabled)
 # @@|laptop-updates.brave.com^$important (disabled)
-# @@|rewards.brave.com^$important (disabled)
-# @@|variations.brave.com^$important (disabled)
 @@|*timeweb.ru^$important
 @|timeweb.ru^$important
