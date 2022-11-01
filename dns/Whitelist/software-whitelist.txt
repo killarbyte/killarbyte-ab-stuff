@@ -1,4 +1,5 @@
 @@||botmasterru.com^$important
+@@||botmasterlabs.org^$important
 @@||adminapi.ru^$important
 @@||zennolab.com^$important
 @@||userarea.zennolab.com^$important
