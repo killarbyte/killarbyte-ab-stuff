@@ -3,6 +3,8 @@
 !#
 0.0.0.0 coe.int
 0.0.0.0 loc.gov
+!#
+!#
 0.0.0.0 kremlin.ru
 0.0.0.0 council.gov.ru
 0.0.0.0 duma.gov.ru
@@ -231,6 +233,7 @@
 0.0.0.0 vrn.ru
 0.0.0.0 yanao.ru
 0.0.0.0 yar.ru
+0.0.0.0 www.cbr.ru
 0.0.0.0 xn------5cdbboj4bakbdihujgdibtbe5cicuo4b7a9qua.xn--p1ai
 0.0.0.0 xn------5cdcmila4aldhhdoljbhbilbe7c4bzb7d0i3d.xn--p1ai
 0.0.0.0 xn------6cdabjofbebfbx9aftq7ahiqkunhc8fra8ska5a.xn--p1ai
