@@ -7,6 +7,7 @@
 0.0.0.0 nic.ru
 0.0.0.0 www.nic.ru
 0.0.0.0 timeweb.com
+0.0.0.0 wwwtimeweb.ru
 0.0.0.0 timeweb.name
 0.0.0.0 aurum.timeweb.ru
 0.0.0.0 ava.timeweb.ru
