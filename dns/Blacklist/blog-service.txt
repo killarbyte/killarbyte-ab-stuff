@@ -1,7 +1,5 @@
 !#
 !#
-!# Blogs
-!#
 ||blogspot.com^
 ||blogspot.ru^
 ||blogspot.se^
@@ -44,3 +42,5 @@
 ||livejournal.com^
 ||wordpress.com^
 ||tumblr.com^
+||pinterest.com^
+||reddit.com^
