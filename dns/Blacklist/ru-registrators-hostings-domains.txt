@@ -2,6 +2,7 @@
 !#
 ||axelname.ru^
 ||beget.com^
+||beget.tech^
 ||rf.ru^
 ||reg.ru^
 ||nic.ru^
