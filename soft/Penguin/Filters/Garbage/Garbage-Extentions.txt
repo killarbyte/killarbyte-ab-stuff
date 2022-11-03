@@ -1,4 +1,9 @@
 \.pdf$:=Garbage-Extentions.txt
+\.png$:=Garbage-Extentions.txt
+\.jpg$:=Garbage-Extentions.txt
+\.jpeg$:=Garbage-Extentions.txt
+\.gif$:=Garbage-Extentions.txt
+\.webp$:=Garbage-Extentions.txt
 \.doc$:=Garbage-Extentions.txt
 \.txt$:=Garbage-Extentions.txt
 \.csv$:=Garbage-Extentions.txt

@@ -1,4 +1,9 @@
 \.pdf$
+\.png$
+\.jpg$
+\.jpeg$
+\.gif$
+\.webp$
 \.doc$
 \.txt$
 \.csv$
