@@ -15,3 +15,5 @@
 ||jino.ru^
 ||domainname.ru^
 ||webnames.ru^
+||ru-tld.ru^
+||matraskin.ru^
