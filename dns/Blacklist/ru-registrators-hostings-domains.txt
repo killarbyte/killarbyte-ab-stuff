@@ -12,3 +12,4 @@
 ||timeweb.name^
 ||domainoo.com^
 ||nichost.ru^
+||jino.ru^
