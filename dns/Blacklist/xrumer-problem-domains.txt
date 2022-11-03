@@ -1,4 +1,4 @@
 !#
 !#
-0.0.0.0 firstopt.ru
-0.0.0.0 parkimperial.ru
+||firstopt.ru^
+||parkimperial.ru^
