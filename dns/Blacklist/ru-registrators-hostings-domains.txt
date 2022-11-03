@@ -13,3 +13,4 @@
 ||domainoo.com^
 ||nichost.ru^
 ||jino.ru^
+||domainname.ru^
