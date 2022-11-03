@@ -6,7 +6,6 @@
 !#
 !#
 ||gov.ru^
-||gov.spb.ru^
 ||kremlin.ru^
 ||ksrf.ru^
 ||vsrf.ru^
