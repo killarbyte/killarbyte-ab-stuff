@@ -4,3 +4,7 @@
 ||facebook.com^
 ||vk.com^
 ||ok.ru^
+||twitter.com^
+||tiktok.com^
+||pinterest.com^
+||reddit.com^
