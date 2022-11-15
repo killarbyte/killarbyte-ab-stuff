@@ -3,6 +3,8 @@
 !#
 !#hz test!
 ||parkingcrew.net^
+||dynadot.com^
+||domainprofi.com^
 !#
 !#
 ||premiumdomains.me^
