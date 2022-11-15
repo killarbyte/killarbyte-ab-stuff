@@ -21,3 +21,4 @@
 ||name.com^
 ||park.io^
 ||dan.com^
+||premiumdomains.me^
