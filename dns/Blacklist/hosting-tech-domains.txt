@@ -3,10 +3,10 @@
 !#
 !#hz test!
 ||ovh.co.uk^
+!#
+!#
 ||ovh.com^
 ||ovh.net^
-!#
-!#
 ||beget.com^
 ||beget.tech^
 ||timeweb.ru^
