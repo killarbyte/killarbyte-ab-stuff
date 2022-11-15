@@ -1,5 +1,14 @@
 !#
 !#
+||axelname.ru^
+||rf.ru^
+||reg.ru^
+||nic.ru^
+||nichost.ru^
+||domainname.ru^
+||webnames.ru^
+||ru-tld.ru^
+||matraskin.ru^
 ||domainoo.com^
 ||godaddy.com^
 ||afternic.com^
@@ -10,3 +19,5 @@
 ||checkdomain.de^
 ||domain.com^
 ||name.com^
+||park.io^
+||dan.com^
