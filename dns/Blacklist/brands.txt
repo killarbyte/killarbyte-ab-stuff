@@ -5,3 +5,4 @@
 !#
 !#
 ||samsung.com^
+||apple.com^

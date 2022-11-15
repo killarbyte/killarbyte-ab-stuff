@@ -3,6 +3,7 @@
 !#
 !#hz test!
 ||squarespace.com^
+||squarespace-cdn.com^
 !#
 !#
 ||125mb.com^
