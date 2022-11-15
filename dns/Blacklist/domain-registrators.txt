@@ -3,11 +3,11 @@
 !#
 !#hz test!
 ||parkingcrew.net^
-||dynadot.com^
-||domainprofi.com^
 ||dotname.co.kr^
 !#
 !#
+||domainprofi.com^
+||dynadot.com^
 ||premiumdomains.me^
 ||axelname.ru^
 ||rf.ru^
