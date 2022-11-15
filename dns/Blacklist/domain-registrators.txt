@@ -1,5 +1,10 @@
 !#
 !#
+!#
+!#hz test!
+||premiumdomains.me^
+!#
+!#
 ||axelname.ru^
 ||rf.ru^
 ||reg.ru^
