@@ -4,6 +4,7 @@
 !#hz test!
 ||parkingcrew.net^
 ||dotname.co.kr^
+||dnspod.qcloud.com^
 !#
 !#
 ||domainprofi.com^
