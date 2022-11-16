@@ -4,5 +4,6 @@
 !#hz test!
 !#
 !#
-||etsy.com^
+||amazon.com^
 ||avito.ru^
+||etsy.com^
