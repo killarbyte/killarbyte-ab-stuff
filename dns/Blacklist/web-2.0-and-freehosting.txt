@@ -4,6 +4,7 @@
 !#hz test!
 ||squarespace.com^
 ||squarespace-cdn.com^
+||weebly.com^
 !#
 !#
 ||125mb.com^
