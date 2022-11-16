@@ -13,3 +13,5 @@
 ||behance.net^
 ||soundcloud.com^
 ||mailchimp.com^
+||t.me^
+||telegram.org^
