@@ -10,3 +10,4 @@
 ||ok.ru^
 ||twitter.com^
 ||tiktok.com^
+||reddit.com^
