@@ -6,3 +6,4 @@
 !#
 ||samsung.com^
 ||apple.com^
+||disney.com^
