@@ -3,6 +3,8 @@
 !#
 !#hz test!
 ||iwelt.de^
+||markmonitor.com^
+||adomino.net^
 !#
 !#
 ||parkingcrew.net^

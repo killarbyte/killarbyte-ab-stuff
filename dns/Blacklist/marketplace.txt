@@ -3,6 +3,8 @@
 !#
 !#hz test!
 !#
+||target.com^
+||dreams.co.uk^
 !#
 ||amazon.com^
 ||ebay.com^
