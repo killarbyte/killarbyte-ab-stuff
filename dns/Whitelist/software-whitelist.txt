@@ -1,6 +1,7 @@
 @@||botmasterru.com^$important
 @@||botmasterlabs.org^$important
 @@||adminapi.ru^$important
+@@||adminapi.org^$important
 @@||zennolab.com^$important
 @@||contentdownloader.ru^$important
 @@||linksspider.com^$important

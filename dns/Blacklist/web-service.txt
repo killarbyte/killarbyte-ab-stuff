@@ -4,6 +4,7 @@
 !#hz test!
 !#
 !#
+||wikipedia.org^
 ||baidu.com^
 ||flickr.com^
 ||linktr.ee^
@@ -17,3 +18,4 @@
 ||t.me^
 ||telegram.org^
 ||discord.com^
+||discord.gg^
