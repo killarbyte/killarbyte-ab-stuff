@@ -7,3 +7,4 @@
 ||coe.int^
 ||loc.gov^
 ||texas.gov^
+||usgs.gov^
