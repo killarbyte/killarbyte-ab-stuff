@@ -5,6 +5,9 @@
 ||iwelt.de^
 ||markmonitor.com^
 ||adomino.net^
+||efty.com^
+||netim.com^
+||nametrader.com^
 !#
 !#
 ||parkingcrew.net^
