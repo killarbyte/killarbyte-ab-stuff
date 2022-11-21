@@ -6,6 +6,7 @@
 ||markmonitor.com^
 ||adomino.net^
 ||sav.com^
+||namecape.com^
 !#
 !#
 ||daaz.com^
