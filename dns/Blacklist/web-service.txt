@@ -2,9 +2,10 @@
 !#
 !#
 !#hz test!
+||hatena.ne.jp^
+!#
+!#
 ||archive.org^
-!#
-!#
 ||wikipedia.org^
 ||baidu.com^
 ||flickr.com^
