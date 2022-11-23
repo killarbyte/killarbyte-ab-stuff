@@ -2,6 +2,7 @@
 !#
 !#
 !#hz test!
+||share12.com^
 !#
 !#
 ||reward-recipient.com^
