@@ -18,6 +18,8 @@
 ||soundcloud.com^
 ||mailchimp.com^
 ||zoom.us^
+||wa.me^
+||whatsapp.com^
 ||t.me^
 ||telegram.org^
 ||discord.com^
