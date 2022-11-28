@@ -6,6 +6,12 @@
 ||sav.com^
 ||sprinthost.ru^
 ||webhouse.sk^
+||epik.com^
+||hugedomains.com^
+||xel.nl^
+||hostingdiscounter.nl^
+||webreus.nl^
+||alphamega.nl^
 !#
 !#
 ||webhuset.no^
