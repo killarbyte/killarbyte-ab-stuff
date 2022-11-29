@@ -5,6 +5,7 @@
 ||hatena.ne.jp^
 !#
 !#
+||herokuapp.com^
 ||heroku.com^
 ||archive.org^
 ||wikipedia.org^
