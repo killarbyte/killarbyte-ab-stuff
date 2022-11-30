@@ -13,10 +13,12 @@
 ||webreus.nl^
 ||alphamega.nl^
 ||hemsida24.se^
-||domainmarket.com^
+||onamae.com^
+||domaincost.club^
+!#
+!#
 ||domaincostclub.com^
-!#
-!#
+||domainmarket.com^
 ||webhuset.no^
 ||sedo.de^
 ||domain24.de^
