@@ -7,8 +7,8 @@ services:
       - NET_ADMIN
       - SYS_MODULE
     environment:
-      - PUID=1001
-      - PGID=1001
+      - PUID=1000
+      - PGID=1000
       - TZ=Europe/Netherlands
       - SERVERURL=auto #optional
       - SERVERPORT=51820 #optional
