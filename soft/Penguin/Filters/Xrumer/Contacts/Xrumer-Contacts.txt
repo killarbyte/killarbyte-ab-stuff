@@ -18,6 +18,9 @@
 /ask.htm:=Contacts.txt
 /ask.html:=Contacts.txt
 /ask.php:=Contacts.txt
+/ask-question:=Contacts.txt
+/ask-question.html:=Contacts.txt
+/ask-question.php:=Contacts.txt
 /call.html:=Contacts.txt
 /call.php:=Contacts.txt
 /call.shtml:=Contacts.txt
@@ -28,7 +31,9 @@
 /callbacks:=Contacts.txt
 /chastyye-voprosy:=Contacts.txt
 /class_contact.cfm:=Contacts.txt
+/connect.htm:=Contacts.txt
 /connect.html:=Contacts.txt
+/connect.php:=Contacts.txt
 /cont.asp:=Contacts.txt
 /cont.htm:=Contacts.txt
 /cont.html:=Contacts.txt
@@ -116,6 +121,8 @@
 /message.php:=Contacts.txt
 /modules.php?name=:=Contacts.txt
 /n_contactus.aspx:=Contacts.txt
+/napisat.html:=Contacts.txt
+/napisat.php:=Contacts.txt
 /napisat-nam:=Contacts.txt
 /napisat-pismo:=Contacts.txt
 /napishite_nam:=Contacts.txt
@@ -141,6 +148,10 @@
 /online.htm:=Contacts.txt
 /online.html:=Contacts.txt
 /online.php:=Contacts.txt
+/online-zakaz:=Contacts.txt
+/online-zakaz.htm:=Contacts.txt
+/online-zakaz.html:=Contacts.txt
+/online-zakaz.php:=Contacts.txt
 /order.htm:=Contacts.txt
 /order.html:=Contacts.txt
 /order.php:=Contacts.txt

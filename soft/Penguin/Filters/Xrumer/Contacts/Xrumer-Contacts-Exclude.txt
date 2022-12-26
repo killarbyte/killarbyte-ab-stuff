@@ -18,6 +18,9 @@
 /ask.htm
 /ask.html
 /ask.php
+/ask-question
+/ask-question.html
+/ask-question.php
 /call.html
 /call.php
 /call.shtml
@@ -28,7 +31,9 @@
 /callbacks
 /chastyye-voprosy
 /class_contact.cfm
+/connect.htm
 /connect.html
+/connect.php
 /cont.asp
 /cont.htm
 /cont.html
@@ -116,6 +121,8 @@
 /message.php
 /modules.php?name=
 /n_contactus.aspx
+/napisat.html
+/napisat.php
 /napisat-nam
 /napisat-pismo
 /napishite_nam
@@ -141,6 +148,10 @@
 /online.htm
 /online.html
 /online.php
+/online-zakaz
+/online-zakaz.htm
+/online-zakaz.html
+/online-zakaz.php
 /order.htm
 /order.html
 /order.php
