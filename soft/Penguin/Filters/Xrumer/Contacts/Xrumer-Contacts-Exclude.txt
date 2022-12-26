@@ -152,10 +152,14 @@
 /online-zakaz.htm
 /online-zakaz.html
 /online-zakaz.php
+/order.asp
+/order.aspx
+/order.cgi
 /order.htm
 /order.html
 /order.php
 /order.phtml
+/order.shtml
 /order/
 /osnovsv.html
 /ostavit-otzyv

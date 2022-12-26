@@ -152,10 +152,14 @@
 /online-zakaz.htm:=Contacts.txt
 /online-zakaz.html:=Contacts.txt
 /online-zakaz.php:=Contacts.txt
+/order.asp:=Contacts.txt
+/order.aspx:=Contacts.txt
+/order.cgi:=Contacts.txt
 /order.htm:=Contacts.txt
 /order.html:=Contacts.txt
 /order.php:=Contacts.txt
 /order.phtml:=Contacts.txt
+/order.shtml:=Contacts.txt
 /order/:=Contacts.txt
 /osnovsv.html:=Contacts.txt
 /ostavit-otzyv:=Contacts.txt
