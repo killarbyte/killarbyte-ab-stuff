@@ -1,0 +1,7 @@
+Engine (site) name: Forms-type-submit
+Engine type (Optional): Forms-type-submit
+
+Must Have lines:
+type="submit"|type='submit'
+
+Url must have:
