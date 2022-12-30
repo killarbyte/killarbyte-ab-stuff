@@ -1,3 +1,4 @@
+#contact
 /#contact
 /#contact-form
 /#contacts
@@ -10,9 +11,16 @@
 /?module=feedback
 /?module=os
 /?module=sendmail
+/?option=com_contact
+/?view=contacts
+/?view=feedback
+/?view=message
+/?wpcallback_action=form
 /_contact.html
+/about/connect
 /aboutcontact.aspx
 /about--contact.html
+/about-us/
 /add.html
 /add.php
 /address
@@ -39,9 +47,14 @@
 /callbacks
 /chastyye-voprosy
 /class_contact.cfm
+/connect
 /connect.htm
 /connect.html
 /connect.php
+/connection.aspx
+/connect-us
+/connect-with-me
+/connect-with-us
 /cont.asp
 /cont.htm
 /cont.html
@@ -77,6 +90,7 @@
 /email.shtml
 /en_contact.html
 /en-contact.html
+/entry/add
 /eventcontact.aspx
 /faleconosco
 /faq/?send=
@@ -142,6 +156,7 @@
 /napishite-nam
 /nashi-kontakty
 /new.html
+/node/create
 /nous_contacter.html
 /nous_contacter.php
 /nous-contacter
@@ -197,6 +212,7 @@
 /page-contact
 /page-contact.html
 /page-contact.php
+/pages/about-us
 /p-contact.html
 /pismo
 /pismo.htm
@@ -251,9 +267,11 @@
 /send-request.php
 /shop_contact.php
 /shop_content.php?coid=
+/shopcomment/create
 /shopcustcontact.asp
 /single-contact
 /special_contact
+/spip.php?page=contact
 /store-contact.php
 /submitticket.php?step=
 /suggest.php?enttype=
@@ -295,6 +313,12 @@
 /wcontact.php
 /website.contactus
 /wfcontactme.aspx
+/write.php
+/write_to_me.php
+/write_us
+/write-me.html
+/writeme.php
+/write-us
 /wxcontact.php
 /zadat_vopros
 /zadat_vopros.htm

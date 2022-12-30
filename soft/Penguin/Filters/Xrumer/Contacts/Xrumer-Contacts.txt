@@ -1,3 +1,4 @@
+#contact
 /#contact:=Contacts.txt
 /#contact-form:=Contacts.txt
 /#contacts:=Contacts.txt
@@ -10,9 +11,16 @@
 /?module=feedback:=Contacts.txt
 /?module=os:=Contacts.txt
 /?module=sendmail:=Contacts.txt
+/?option=com_contact:=Contacts.txt
+/?view=contacts:=Contacts.txt
+/?view=feedback:=Contacts.txt
+/?view=message:=Contacts.txt
+/?wpcallback_action=form:=Contacts.txt
 /_contact.html:=Contacts.txt
+/about/connect:=Contacts.txt
 /aboutcontact.aspx:=Contacts.txt
 /about--contact.html:=Contacts.txt
+/about-us/:=Contacts.txt
 /add.html:=Contacts.txt
 /add.php:=Contacts.txt
 /address:=Contacts.txt
@@ -39,9 +47,14 @@
 /callbacks:=Contacts.txt
 /chastyye-voprosy:=Contacts.txt
 /class_contact.cfm:=Contacts.txt
+/connect:=Contacts.txt
 /connect.htm:=Contacts.txt
 /connect.html:=Contacts.txt
 /connect.php:=Contacts.txt
+/connection.aspx:=Contacts.txt
+/connect-us:=Contacts.txt
+/connect-with-me:=Contacts.txt
+/connect-with-us:=Contacts.txt
 /cont.asp:=Contacts.txt
 /cont.htm:=Contacts.txt
 /cont.html:=Contacts.txt
@@ -77,6 +90,7 @@
 /email.shtml:=Contacts.txt
 /en_contact.html:=Contacts.txt
 /en-contact.html:=Contacts.txt
+/entry/add:=Contacts.txt
 /eventcontact.aspx:=Contacts.txt
 /faleconosco:=Contacts.txt
 /faq/?send=:=Contacts.txt
@@ -142,6 +156,7 @@
 /napishite-nam:=Contacts.txt
 /nashi-kontakty:=Contacts.txt
 /new.html:=Contacts.txt
+/node/create:=Contacts.txt
 /nous_contacter.html:=Contacts.txt
 /nous_contacter.php:=Contacts.txt
 /nous-contacter:=Contacts.txt
@@ -197,6 +212,7 @@
 /page-contact:=Contacts.txt
 /page-contact.html:=Contacts.txt
 /page-contact.php:=Contacts.txt
+/pages/about-us:=Contacts.txt
 /p-contact.html:=Contacts.txt
 /pismo:=Contacts.txt
 /pismo.htm:=Contacts.txt
@@ -251,9 +267,11 @@
 /send-request.php:=Contacts.txt
 /shop_contact.php:=Contacts.txt
 /shop_content.php?coid=:=Contacts.txt
+/shopcomment/create:=Contacts.txt
 /shopcustcontact.asp:=Contacts.txt
 /single-contact:=Contacts.txt
 /special_contact:=Contacts.txt
+/spip.php?page=contact:=Contacts.txt
 /store-contact.php:=Contacts.txt
 /submitticket.php?step=:=Contacts.txt
 /suggest.php?enttype=:=Contacts.txt
@@ -295,6 +313,12 @@
 /wcontact.php:=Contacts.txt
 /website.contactus:=Contacts.txt
 /wfcontactme.aspx:=Contacts.txt
+/write.php:=Contacts.txt
+/write_to_me.php:=Contacts.txt
+/write_us:=Contacts.txt
+/write-me.html:=Contacts.txt
+/writeme.php:=Contacts.txt
+/write-us:=Contacts.txt
 /wxcontact.php:=Contacts.txt
 /zadat_vopros:=Contacts.txt
 /zadat_vopros.htm:=Contacts.txt
