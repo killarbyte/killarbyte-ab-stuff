@@ -1,0 +1,19 @@
+version: '3'
+services:
+  portainer:
+    image: portainer/portainer-ce:2.16.2-alpine
+    container_name: portainer
+    environment:
+      - TZ=Europe/Moscow
+    ports:
+#      - "8000:8000"
+      - "9443:9443"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./portainer_data:/data
+    restart: always
+
+# networks:
+#   default:
+#     external: true
+#     name: evilcorp
