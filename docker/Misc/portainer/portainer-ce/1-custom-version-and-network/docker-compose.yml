@@ -5,7 +5,7 @@ services:
     container_name: portainer
     environment:
       - TZ=Europe/Moscow
-    ports:
+#    ports:
 #      - "8000:8000"
 #      - "9443:9443"
     volumes:
