@@ -1,4 +1,11 @@
-﻿var htmlDOM = project.Variables["html_Dom"].Value;
+﻿//Берём какую то переменную, например html_Dom и делаем несколько проверок за раз.
+//Проверки делаются за счёт того что мы парсим переменную html_Dom регулярками.
+//Перед использованием все регулярки обнуляются
+//Если получилось спарсить по регулярке то она попадает в переменную регулярки.
+//Если не получилось, то в переменную регулярки попадает empty
+
+
+var htmlDOM = project.Variables["html_Dom"].Value;
 
 project.Variables["antibot_check_1"].Value = "";
 project.Variables["antibot_check_2"].Value = "";
