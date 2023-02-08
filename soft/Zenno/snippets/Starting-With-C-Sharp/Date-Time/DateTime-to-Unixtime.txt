@@ -1,0 +1,6 @@
+﻿//Перевести дату в UNIXTIME
+
+var datestr = project.Variables["TMP"].Value; /// переменная с вашей датой
+DateTime date = Convert.ToDateTime(datestr);
+int unix = (Int32)(date.Subtract(new DateTime(1970, 1, 1))).TotalSeconds;
+return unix;

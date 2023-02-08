@@ -1,0 +1,47 @@
+﻿//Заменить аббревиатуру и умножить числа
+
+//Если переменная user_count_likes содержит только число, то ничего не делает.
+//Если в этой переменной есть число с буквой k или K то удаляет эту букву, а само число умножает на 1000
+//Если в этой переменной есть число с буквой m или M то удаляет эту букву, а само число умножает на 1000000
+//string likes = "31.5k";
+//string likes = "32000";
+
+//define variable
+string likes = project.Variables["user_count_likes"].Value;
+
+if (likes.EndsWith("k"))
+{
+    likes = likes.TrimEnd('k');
+    int multipliedValue = (int)(decimal.Parse(likes) * 1000);
+    project.Variables["user_count_likes"].Value = multipliedValue.ToString();
+}
+else if (likes.EndsWith("K"))
+{
+    likes = likes.TrimEnd('K');
+    int multipliedValue = (int)(decimal.Parse(likes) * 1000);
+    project.Variables["user_count_likes"].Value = multipliedValue.ToString();
+}
+else if (likes.EndsWith("m"))
+{
+    likes = likes.TrimEnd('m');
+    int multipliedValue = (int)(decimal.Parse(likes) * 1000000);
+    project.Variables["user_count_likes"].Value = multipliedValue.ToString();
+}
+else if (likes.EndsWith("M"))
+{
+    likes = likes.TrimEnd('M');
+    int multipliedValue = (int)(decimal.Parse(likes) * 1000000);
+    project.Variables["user_count_likes"].Value = multipliedValue.ToString();
+}
+else
+{
+    int likesValue;
+    if (int.TryParse(likes, out likesValue))
+    {
+        project.Variables["user_count_likes"].Value = likesValue.ToString();
+    }
+    else
+    {
+        project.SendErrorToLog("Invalid likes input");
+    }
+}

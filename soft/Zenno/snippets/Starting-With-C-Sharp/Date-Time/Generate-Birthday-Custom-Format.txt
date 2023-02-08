@@ -1,0 +1,8 @@
+﻿//Генерация даты дня рождения в определённом формате
+
+DateTime start = DateTime.Parse("1980-01-02");
+DateTime finish = DateTime.Parse("2010-10-02");
+
+Random gen = new Random();
+int range = (finish - start).Days;
+return start.AddDays(gen.Next(range)).ToString("dd-MM-yyyy");

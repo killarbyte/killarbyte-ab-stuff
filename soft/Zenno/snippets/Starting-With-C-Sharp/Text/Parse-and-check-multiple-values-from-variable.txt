@@ -1,0 +1,162 @@
+﻿//Парсинг и проверка нескольких значений из переменной
+
+//Берём какую то переменную, например html_Dom и делаем несколько проверок за раз.
+//Проверки делаются за счёт того что мы парсим переменную html_Dom регулярками.
+//Перед использованием все регулярки обнуляются
+//Если получилось спарсить по регулярке то она попадает в переменную регулярки.
+//Если не получилось, то в переменную регулярки попадает empty
+
+//переменная которую парсим
+var htmlDOM = project.Variables["html_Dom"].Value;
+
+//обнуляем значения переменных, в которые парсим регулярками
+//в регулярках чтобы правильно работало необходимо заменить единичные двойные кавычки " на ""
+project.Variables["antibot_check_1"].Value = "";
+project.Variables["antibot_check_2"].Value = "";
+project.Variables["antibot_check_3"].Value = "";
+project.Variables["antibot_check_4"].Value = "";
+project.Variables["antibot_check_5"].Value = "";
+project.Variables["antibot_check_6"].Value = "";
+project.Variables["antibot_check_7"].Value = "";
+project.Variables["antibot_check_8"].Value = "";
+
+
+// Проверка слова регистрация на странице
+var check1 = @"(?<=<h2>)[\w\W]*?(?=</h2>)";
+var check1Result = System.Text.RegularExpressions.Regex.Match(htmlDOM, check1).Value;
+
+if(string.IsNullOrEmpty(check1Result))
+{
+	project.Variables["antibot_check_1"].Value = "empty";
+	
+}
+else
+{
+    project.Variables["antibot_check_1"].Value = check1Result;
+}
+
+
+
+
+
+// проверка что просят ввести капчу
+var check2 = @"(?<=<h1\ align=""center"">).*(?=</h1>)";
+var check2Result = System.Text.RegularExpressions.Regex.Match(htmlDOM, check2).Value;
+
+if(string.IsNullOrEmpty(check2Result))
+{
+	project.Variables["antibot_check_2"].Value = "empty";
+	
+}
+else
+{
+    project.Variables["antibot_check_2"].Value = check2Result;
+}
+
+
+
+
+
+// проверка текста страница не найдена
+var check3 = @"(?<=<h4>)[\w\W]*?(?=</h4>)";
+var check3Result = System.Text.RegularExpressions.Regex.Match(htmlDOM, check3).Value;
+
+if(string.IsNullOrEmpty(check3Result))
+{
+	project.Variables["antibot_check_3"].Value = "empty";
+	
+}
+else
+{
+    project.Variables["antibot_check_3"].Value = check3Result;
+}
+
+
+
+
+
+// проверка текста (пользователь) уже существует
+var check4 = @"(?<=<label\ for=""user_login""\ class=""message"">).*?(?=</label>)";
+var check4Result = System.Text.RegularExpressions.Regex.Match(htmlDOM, check4).Value;
+
+if(string.IsNullOrEmpty(check4Result))
+{
+	project.Variables["antibot_check_4"].Value = "empty";
+	
+}
+else
+{
+    project.Variables["antibot_check_4"].Value = check4Result;
+}
+
+
+
+
+
+// проверка текста (email) уже существует
+var check5 = @"(?<=<label\ for=""user_email""\ class=""message"">).*?(?=</label>)";
+var check5Result = System.Text.RegularExpressions.Regex.Match(htmlDOM, check5).Value;
+
+if(string.IsNullOrEmpty(check5Result))
+{
+	project.Variables["antibot_check_5"].Value = "empty";
+	
+}
+else
+{
+    project.Variables["antibot_check_5"].Value = check5Result;
+}
+
+
+
+
+
+// проверка текста (ник нашего аккаунта)
+var check6 = @"(?<=<h2\ class=""user-login""><span>0\.1</span>).*?(?=</h2>)";
+var check6Result = System.Text.RegularExpressions.Regex.Match(htmlDOM, check6).Value;
+
+if(string.IsNullOrEmpty(check6Result))
+{
+	project.Variables["antibot_check_6"].Value = "empty";
+	
+}
+else
+{
+    project.Variables["antibot_check_6"].Value = check6Result;
+}
+
+
+
+
+
+// проверка текста Ваша учётная запись подтверждена. Теперь вы вошли в систему.
+var check7 = @"(?<=text:\ 'Ваша\ учётная\ запись\ подтверждена\.\ ).*?(?=')";
+var check7Result = System.Text.RegularExpressions.Regex.Match(htmlDOM, check7).Value;
+
+if(string.IsNullOrEmpty(check7Result))
+{
+	project.Variables["antibot_check_7"].Value = "empty";
+	
+}
+else
+{
+    project.Variables["antibot_check_7"].Value = check7Result;
+}
+
+
+
+
+
+// проверка текста reCAPTCHA отклонила вашу регистрации!
+var check8 = @"(?<=if\ \(')reCAPTCHA\ отклонила\ вашу\ регистрации!.*?(?='\))";
+var check8Result = System.Text.RegularExpressions.Regex.Match(htmlDOM, check8).Value;
+
+if(string.IsNullOrEmpty(check8Result))
+{
+	project.Variables["antibot_check_8"].Value = "empty";
+	
+}
+else
+{
+    project.Variables["antibot_check_8"].Value = check8Result;
+}

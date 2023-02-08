@@ -1,0 +1,4 @@
+﻿//Генерация UNIXTIME
+
+int unixTime = (int)(DateTime.UtcNow - new DateTime(1970, 1, 1)).TotalSeconds;
+return unixTime;

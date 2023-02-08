@@ -1,0 +1,4 @@
+﻿//Очистка переменных
+project.Variables["var1"].Value = "";
+project.Variables["var2"].Value = "";
+project.Variables["var3"].Value = "";
