@@ -1,2 +1,2 @@
 ﻿//Очистка Списка
-project.Lists["testdel"].Clear();
+project.Lists["testlist"].Clear();
