@@ -1,4 +1,0 @@
-﻿//URL Encode
-
-var urlString = HttpUtility.UrlEncode(project.Variables["slova"].Value);
-return urlString;

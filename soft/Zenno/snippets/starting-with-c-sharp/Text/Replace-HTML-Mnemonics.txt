@@ -1,5 +1,0 @@
-﻿//Замена HTML Мнемоников
-
-string y = project.Variables ["vk_text"]. Value;
-string result = System.Net.WebUtility.HtmlDecode (y);
-return result;

@@ -1,2 +1,0 @@
-﻿//Очистка Списка
-project.Lists["testlist"].Clear();

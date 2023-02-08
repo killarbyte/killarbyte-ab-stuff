@@ -1,7 +1,0 @@
-﻿//Массовое удаление / замена спецсимволов
-
-project.Variables["user_name"].Value = project.Variables["user_name"].Value.Replace("\\", "");
-
-project.Variables["user_name"].Value = project.Variables["user_name"].Value.Replace("*", "");
-
-project.Variables["user_name"].Value = project.Variables["user_name"].Value.Replace("\"", "");

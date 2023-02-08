@@ -1,6 +1,0 @@
-﻿//Удаление фаилов
-
-System.IO.File.Delete(project.Variables["Picture_1_Path"].Value);
-System.IO.File.Delete(project.Variables["Picture_2_Path"].Value);
-System.IO.File.Delete(project.Variables["Picture_3_Path"].Value);
-System.IO.File.Delete(project.Variables["Picture_4_Path"].Value);

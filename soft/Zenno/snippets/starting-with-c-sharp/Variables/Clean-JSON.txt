@@ -1,2 +1,0 @@
-﻿//Очистка JSON
-project.Json.FromString("[]");
