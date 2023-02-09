@@ -1,0 +1,18 @@
+﻿// Получаем токкен api.telegra.ph гет запросом
+var tgToken = project.Variables["tgToken"].Value;
+
+if (string.IsNullOrWhiteSpace(tgToken))
+{
+	var reqUrl = "https://api.telegra.ph/createAccount?" +
+	"short_name=rndName" +
+	"&author_name=ZennoCommunity";
+
+	var proxy = project.GetProxy();
+	var resp = ZennoPoster.HttpGet(reqUrl);
+	
+	if (!resp.Contains("ok\":true"))
+		throw new Exception($"Не удалось получить токен Telegraph\n{resp}");
+	project.Json.FromString(resp);
+	
+	project.Variables["tgToken"].Value = project.Json.result.access_token;
+}
