@@ -1,0 +1,29 @@
+﻿//Получаем Случайную Картинку
+var dirImg = $"{project.Directory}{project.Variables["dirImg"].Value}";
+var fileImg = ZennoLab.Macros.FileSystem.DirectoryRandomFile(dirImg);
+
+project.SendInfoToLog($"Картинка: {fileImg}");
+
+//Подготовка к запросу
+var reqUrl = "https://telegra.ph/upload";
+
+var rnd = new Random().Next(100000, 999999);
+var boundary = $"-----------------------------{rnd}{rnd}";
+
+var reqContent = $"{boundary}\r\n" +
+    $"Content-Disposition: form-data; name=\"file\"; filename=\"blob\"\r\n" +
+    $"Content-Type: image/jpeg\r\n" +
+    "\r\n" +
+    $"{fileImg}\r\n" +
+	$"{boundary}--";
+
+//Запрос
+var proxy = project.GetProxy();
+var resp = ZennoPoster.HttpPost(reqUrl, reqContent, "multipart/form-data");
+
+if (!resp.Contains("src"))
+	throw new Exception($"Не удалось загрузить картинку!\n{resp}");
+
+project.Json.FromString(resp);
+
+var urlImg = project.Variables["urlImg"].Value = $"https://telegra.ph{project.Json[0].src}";
