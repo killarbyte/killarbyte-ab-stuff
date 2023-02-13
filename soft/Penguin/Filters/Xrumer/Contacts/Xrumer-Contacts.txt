@@ -1,4 +1,4 @@
-#contact
+#contact:=Contacts.txt
 /#contact:=Contacts.txt
 /#contact-form:=Contacts.txt
 /#contacts:=Contacts.txt
@@ -316,8 +316,10 @@
 /write.php:=Contacts.txt
 /write_to_me.php:=Contacts.txt
 /write_us:=Contacts.txt
+/write-for-us:=Contacts.txt
 /write-me.html:=Contacts.txt
 /writeme.php:=Contacts.txt
+/write-to-us:=Contacts.txt
 /write-us:=Contacts.txt
 /wxcontact.php:=Contacts.txt
 /zadat_vopros:=Contacts.txt

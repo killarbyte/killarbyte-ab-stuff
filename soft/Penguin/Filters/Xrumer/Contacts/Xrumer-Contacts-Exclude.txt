@@ -316,8 +316,10 @@
 /write.php
 /write_to_me.php
 /write_us
+/write-for-us
 /write-me.html
 /writeme.php
+/write-to-us
 /write-us
 /wxcontact.php
 /zadat_vopros
