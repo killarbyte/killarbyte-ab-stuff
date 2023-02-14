@@ -1,2 +1,3 @@
 /address:=contacts.txt
 /address.html:=contacts.txt
+/address.php:=contacts.txt
