@@ -56,3 +56,6 @@
 /contattaci.html:=contacts.txt
 /contattaci.htm:=contacts.txt
 /contattaci:=contacts.txt
+/contato.php:=contacts.txt
+/contato.html:=contacts.txt
+/contato:=contacts.txt

@@ -13,9 +13,9 @@
 
 /contact:=contacts.txt
 /contakt:=contacts.txt
-/contato:=contacts.txt
-/contato.html:=contacts.txt
-/contato.php:=contacts.txt
+
+
+
 
 
 
