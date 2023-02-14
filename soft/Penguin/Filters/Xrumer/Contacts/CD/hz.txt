@@ -12,3 +12,9 @@
 /#contact:=contacts.txt
 #contact:=contacts.txt
 
+/connection.aspx:=contacts.txt
+/connect.php:=contacts.txt
+/connect.html:=contacts.txt
+/connect.htm:=contacts.txt
+/connect:=contacts.txt
+

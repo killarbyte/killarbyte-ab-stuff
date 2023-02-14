@@ -47,7 +47,7 @@
 
 
 
-/connect:=contacts.txt
+
 
 
 
