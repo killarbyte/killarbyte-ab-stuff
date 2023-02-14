@@ -10,7 +10,7 @@
 
 
 
-/?module=sendmail:=contacts.txt
+
 /?option=com_contact:=contacts.txt
 /?view=contacts:=contacts.txt
 /?view=feedback:=contacts.txt

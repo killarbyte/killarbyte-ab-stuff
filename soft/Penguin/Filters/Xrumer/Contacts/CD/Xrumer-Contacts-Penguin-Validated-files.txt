@@ -1,3 +1,4 @@
 /?module=contacts:=contacts.txt
 /?module=feedback:=contacts.txt
 /?module=os:=contacts.txt
+/?module=sendmail:=contacts.txt
