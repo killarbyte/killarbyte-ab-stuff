@@ -6,3 +6,4 @@
 /callback
 /callback.html
 /callback.php
+/callback.phtm

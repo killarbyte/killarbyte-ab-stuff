@@ -43,7 +43,7 @@
 
 
 
-/callback.phtm:=contacts.txt
+
 /callbacks:=contacts.txt
 /chastyye-voprosy:=contacts.txt
 /class_contact.cfm:=contacts.txt
