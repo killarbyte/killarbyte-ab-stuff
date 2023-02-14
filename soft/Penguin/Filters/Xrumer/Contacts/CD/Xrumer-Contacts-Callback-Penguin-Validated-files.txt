@@ -2,3 +2,4 @@
 /ajax_form.php?ajax_call=:=contacts-callback.txt
 /call.html:=contacts-callback.txt
 /call.php:=contacts-callback.txt
+/call.shtml:=contacts-callback.txt
