@@ -45,3 +45,9 @@
 /contatto.php:=contacts.txt
 /contatto.html:=contacts.txt
 /contatto:=contacts.txt
+/contatti_:=contacts.txt
+/contatti.php:=contacts.txt
+/contatti.html:=contacts.txt
+/contatti.htm:=contacts.txt
+/contatti.asp:=contacts.txt
+/contatti:=contacts.txt

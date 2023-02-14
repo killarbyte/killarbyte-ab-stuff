@@ -20,10 +20,10 @@
 /contattaci.html:=contacts.txt
 /contattaci.php:=contacts.txt
 /contattami.html:=contacts.txt
-/contatti:=contacts.txt
-/contatti.html:=contacts.txt
-/contatti.php:=contacts.txt
-/contatti_:=contacts.txt
+
+
+
+
 
 
 
