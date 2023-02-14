@@ -29,7 +29,7 @@
 /contatto.php:=contacts.txt
 /content_contact.html:=contacts.txt
 
-/email:=contacts.txt
+
 
 
 

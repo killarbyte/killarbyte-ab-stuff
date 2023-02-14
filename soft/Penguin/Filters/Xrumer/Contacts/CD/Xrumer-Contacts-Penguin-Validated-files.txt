@@ -39,3 +39,4 @@
 /email.htm:=contacts.txt
 /email.cfm:=contacts.txt
 /email.aspx:=contacts.txt
+/email:=contacts.txt

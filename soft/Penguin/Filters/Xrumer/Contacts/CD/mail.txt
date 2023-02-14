@@ -1,3 +1,7 @@
 /email.php:=contacts.txt
 http://borges.su/email.php?news.5
 http://borges.su/email.php?news.4
+
+
+
+https://condi-land.ru/include/popup/email2friend/?link=https://ya.ru
