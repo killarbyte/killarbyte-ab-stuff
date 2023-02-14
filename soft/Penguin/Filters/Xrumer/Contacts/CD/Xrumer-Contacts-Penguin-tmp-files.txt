@@ -16,7 +16,7 @@
 /?view=feedback:=contacts.txt
 /?view=message:=contacts.txt
 
-/_contact.html:=contacts.txt
+
 /about/connect:=contacts.txt
 /aboutcontact.aspx:=contacts.txt
 /about--contact.html:=contacts.txt

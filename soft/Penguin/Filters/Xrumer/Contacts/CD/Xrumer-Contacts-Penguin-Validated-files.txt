@@ -10,3 +10,4 @@
 /ajax_form.php?ajax_call=:=contacts.txt
 /add.php:=contacts.txt
 /add.html:=contacts.txt
+/_contact.html:=contacts.txt
