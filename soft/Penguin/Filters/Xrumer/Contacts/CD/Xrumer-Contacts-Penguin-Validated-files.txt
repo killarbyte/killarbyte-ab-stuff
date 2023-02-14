@@ -1,0 +1,2 @@
+/?module=contacts:=contacts.txt
+/?module=feedback:=contacts.txt

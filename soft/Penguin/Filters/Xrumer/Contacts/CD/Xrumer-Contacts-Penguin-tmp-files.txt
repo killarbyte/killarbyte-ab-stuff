@@ -7,7 +7,7 @@
 /?action=contact:=contacts.txt
 /?action=feedback:=contacts.txt
 /?action=question:=contacts.txt
-/?module=contacts:=contacts.txt
+
 /?module=feedback:=contacts.txt
 /?module=os:=contacts.txt
 /?module=sendmail:=contacts.txt
