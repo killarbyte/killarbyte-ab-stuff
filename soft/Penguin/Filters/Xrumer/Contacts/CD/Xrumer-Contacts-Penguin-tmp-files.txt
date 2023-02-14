@@ -48,10 +48,10 @@
 
 
 /connect:=contacts.txt
-/connect.htm:=contacts.txt
-/connect.html:=contacts.txt
-/connect.php:=contacts.txt
-/connection.aspx:=contacts.txt
+
+
+
+
 /connect-us:=contacts.txt
 /connect-with-me:=contacts.txt
 /connect-with-us:=contacts.txt

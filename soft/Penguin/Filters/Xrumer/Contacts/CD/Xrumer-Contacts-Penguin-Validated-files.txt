@@ -28,3 +28,7 @@
 /callbacks:=contacts.txt
 /chastyye-voprosy:=contacts.txt
 /class_contact.cfm:=contacts.txt
+/connection.aspx:=contacts.txt
+/connect.php:=contacts.txt
+/connect.html:=contacts.txt
+/connect.htm:=contacts.txt
