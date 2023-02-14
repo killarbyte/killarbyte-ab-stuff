@@ -51,3 +51,4 @@
 /contatti.htm:=contacts.txt
 /contatti.asp:=contacts.txt
 /contatti:=contacts.txt
+/contattami.html:=contacts.txt

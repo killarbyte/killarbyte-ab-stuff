@@ -19,7 +19,7 @@
 /contattaci:=contacts.txt
 /contattaci.html:=contacts.txt
 /contattaci.php:=contacts.txt
-/contattami.html:=contacts.txt
+
 
 
 
