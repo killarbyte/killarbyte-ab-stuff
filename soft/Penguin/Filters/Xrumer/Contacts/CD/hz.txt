@@ -26,3 +26,5 @@
 
 /cont_kontakt.php:=contacts.txt
 /-contact-.html:=contacts.txt
+
+/content_contact.html:=contacts.txt
