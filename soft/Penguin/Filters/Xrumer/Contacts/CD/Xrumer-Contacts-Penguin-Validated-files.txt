@@ -11,3 +11,4 @@
 /add.php:=contacts.txt
 /add.html:=contacts.txt
 /_contact.html:=contacts.txt
+/?&mailform:=contacts.txt

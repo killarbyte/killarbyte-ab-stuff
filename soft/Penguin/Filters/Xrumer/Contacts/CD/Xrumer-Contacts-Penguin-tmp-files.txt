@@ -2,7 +2,7 @@
 /#contact:=contacts.txt
 /#contact-form:=contacts.txt
 /#contacts:=contacts.txt
-/?&mailform:=contacts.txt
+
 
 
 
