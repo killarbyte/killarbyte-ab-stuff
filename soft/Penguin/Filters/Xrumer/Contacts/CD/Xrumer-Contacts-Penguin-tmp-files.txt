@@ -21,7 +21,7 @@
 /aboutcontact.aspx:=contacts.txt
 /about--contact.html:=contacts.txt
 /about-us/:=contacts.txt
-/add.html:=contacts.txt
+
 
 /address:=contacts.txt
 /address.html:=contacts.txt
