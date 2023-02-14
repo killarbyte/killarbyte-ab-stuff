@@ -53,3 +53,6 @@
 /contatti:=contacts.txt
 /contattami.html:=contacts.txt
 /contattaci.php:=contacts.txt
+/contattaci.html:=contacts.txt
+/contattaci.htm:=contacts.txt
+/contattaci:=contacts.txt
