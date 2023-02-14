@@ -4,3 +4,4 @@
 
 /application:=contacts.txt
 /application.aspx:=contacts.txt
+/application.html:=contacts.txt

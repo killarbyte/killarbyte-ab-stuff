@@ -29,7 +29,7 @@
 
 
 
-/application.html:=contacts.txt
+
 /application.php:=contacts.txt
 /ask.htm:=contacts.txt
 /ask.html:=contacts.txt
