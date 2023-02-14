@@ -28,3 +28,6 @@
 /callbacks:=contacts.txt
 /chastyye-voprosy:=contacts.txt
 /class_contact.cfm:=contacts.txt
+/connect-us:=contacts.txt
+/connect-with-me:=contacts.txt
+/connect-with-us:=contacts.txt

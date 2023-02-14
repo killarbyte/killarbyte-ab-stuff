@@ -52,9 +52,9 @@
 
 
 
-/connect-us:=contacts.txt
-/connect-with-me:=contacts.txt
-/connect-with-us:=contacts.txt
+
+
+
 /cont.asp:=contacts.txt
 /cont.htm:=contacts.txt
 /cont.html:=contacts.txt
