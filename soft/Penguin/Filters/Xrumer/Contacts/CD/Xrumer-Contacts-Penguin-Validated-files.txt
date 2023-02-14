@@ -8,3 +8,4 @@
 /?action=question:=contacts.txt
 /?wpcallback_action=form:=contacts.txt
 /ajax_form.php?ajax_call=:=contacts.txt
+/add.php:=contacts.txt

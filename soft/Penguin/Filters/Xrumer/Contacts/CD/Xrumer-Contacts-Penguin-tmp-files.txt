@@ -22,7 +22,7 @@
 /about--contact.html:=contacts.txt
 /about-us/:=contacts.txt
 /add.html:=contacts.txt
-/add.php:=contacts.txt
+
 /address:=contacts.txt
 /address.html:=contacts.txt
 /address.php:=contacts.txt
