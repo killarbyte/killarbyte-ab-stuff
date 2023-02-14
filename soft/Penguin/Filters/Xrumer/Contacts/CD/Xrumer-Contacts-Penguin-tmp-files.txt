@@ -30,8 +30,8 @@
 /content_contact.html:=contacts.txt
 
 /email:=contacts.txt
-/email.aspx:=contacts.txt
-/email.cfm:=contacts.txt
+
+
 
 
 
