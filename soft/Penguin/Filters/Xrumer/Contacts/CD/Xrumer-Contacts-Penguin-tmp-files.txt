@@ -10,7 +10,7 @@
 /about--contact.html:=contacts.txt
 /about-us/:=contacts.txt
 
-/cont_kontakt.php:=contacts.txt
+
 /contact:=contacts.txt
 
 /-contact-.html:=contacts.txt
