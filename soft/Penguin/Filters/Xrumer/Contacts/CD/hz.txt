@@ -18,3 +18,9 @@
 /connect.htm:=contacts.txt
 /connect:=contacts.txt
 
+/cont.asp:=contacts.txt
+/cont.htm:=contacts.txt
+/cont.html:=contacts.txt
+/cont.php:=contacts.txt
+/cont.phtml:=contacts.txt
+

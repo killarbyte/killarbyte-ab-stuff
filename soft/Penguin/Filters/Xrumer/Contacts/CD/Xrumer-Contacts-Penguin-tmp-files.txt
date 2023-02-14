@@ -55,11 +55,11 @@
 
 
 
-/cont.asp:=contacts.txt
-/cont.htm:=contacts.txt
-/cont.html:=contacts.txt
-/cont.php:=contacts.txt
-/cont.phtml:=contacts.txt
+
+
+
+
+
 /cont_kontakt.php:=contacts.txt
 /contact:=contacts.txt
 /contact.html:=contacts.txt
