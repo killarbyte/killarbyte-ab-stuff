@@ -1,3 +1,4 @@
 /?wpcallback_action=form:=contacts-callback.txt
 /ajax_form.php?ajax_call=:=contacts-callback.txt
-/call.html:=contacts.txt:=contacts-callback.txt
+/call.html:=contacts-callback.txt
+/call.php:=contacts-callback.txt
