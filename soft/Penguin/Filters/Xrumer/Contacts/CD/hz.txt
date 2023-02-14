@@ -7,3 +7,8 @@
 /application.html:=contacts.txt
 /application.php:=contacts.txt
 
+/#contacts:=contacts.txt
+/#contact-form:=contacts.txt
+/#contact:=contacts.txt
+#contact:=contacts.txt
+

@@ -12,3 +12,4 @@
 /add.html:=contacts.txt
 /_contact.html:=contacts.txt
 /?&mailform:=contacts.txt
+/ask.htm:=contacts.txt

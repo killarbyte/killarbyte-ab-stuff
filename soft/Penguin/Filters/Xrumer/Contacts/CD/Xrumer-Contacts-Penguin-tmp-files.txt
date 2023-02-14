@@ -1,7 +1,7 @@
-#contact:=contacts.txt
-/#contact:=contacts.txt
-/#contact-form:=contacts.txt
-/#contacts:=contacts.txt
+
+
+
+
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-/ask.htm:=contacts.txt
+
 /ask.html:=contacts.txt
 /ask.php:=contacts.txt
 /ask-question:=contacts.txt
