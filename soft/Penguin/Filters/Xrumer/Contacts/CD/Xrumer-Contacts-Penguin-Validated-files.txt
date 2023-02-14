@@ -6,3 +6,4 @@
 /?action=contact:=contacts.txt
 /?action=feedback:=contacts.txt
 /?action=question:=contacts.txt
+/?wpcallback_action=form:=contacts.txt

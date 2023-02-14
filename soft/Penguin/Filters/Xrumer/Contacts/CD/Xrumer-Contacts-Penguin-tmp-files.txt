@@ -15,7 +15,7 @@
 /?view=contacts:=contacts.txt
 /?view=feedback:=contacts.txt
 /?view=message:=contacts.txt
-/?wpcallback_action=form:=contacts.txt
+
 /_contact.html:=contacts.txt
 /about/connect:=contacts.txt
 /aboutcontact.aspx:=contacts.txt
