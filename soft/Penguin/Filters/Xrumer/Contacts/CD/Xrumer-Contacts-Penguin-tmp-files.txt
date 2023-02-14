@@ -40,7 +40,7 @@
 
 
 
-/callback:=contacts.txt
+
 /callback.html:=contacts.txt
 /callback.php:=contacts.txt
 /callback.phtm:=contacts.txt

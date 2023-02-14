@@ -3,3 +3,4 @@
 /call.html:=contacts-callback.txt
 /call.php:=contacts-callback.txt
 /call.shtml:=contacts-callback.txt
+/callback:=contacts-callback.txt
