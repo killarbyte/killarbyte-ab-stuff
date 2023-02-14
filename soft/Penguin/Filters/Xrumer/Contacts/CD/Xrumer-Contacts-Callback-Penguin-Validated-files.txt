@@ -5,3 +5,4 @@
 /call.shtml
 /callback
 /callback.html
+/callback.php
