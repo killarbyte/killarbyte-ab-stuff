@@ -12,8 +12,6 @@
 
 
 /contact:=contacts.txt
-
-/-contact-.html:=contacts.txt
 /contakt:=contacts.txt
 /contato:=contacts.txt
 /contato.html:=contacts.txt
@@ -30,7 +28,7 @@
 /contatto.html:=contacts.txt
 /contatto.php:=contacts.txt
 /content_contact.html:=contacts.txt
-/crm.asp?action=contactus:=contacts.txt
+
 /email:=contacts.txt
 /email.aspx:=contacts.txt
 /email.cfm:=contacts.txt

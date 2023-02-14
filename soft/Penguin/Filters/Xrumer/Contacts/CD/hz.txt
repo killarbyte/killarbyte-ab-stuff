@@ -25,4 +25,4 @@
 /cont.phtml:=contacts.txt
 
 /cont_kontakt.php:=contacts.txt
-
+/-contact-.html:=contacts.txt
