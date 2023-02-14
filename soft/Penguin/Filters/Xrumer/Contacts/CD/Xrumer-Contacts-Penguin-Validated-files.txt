@@ -22,3 +22,4 @@
 /call.php:=contacts.txt
 /call.shtml:=contacts.txt
 /callback:=contacts.txt
+/callback.html:=contacts.txt
