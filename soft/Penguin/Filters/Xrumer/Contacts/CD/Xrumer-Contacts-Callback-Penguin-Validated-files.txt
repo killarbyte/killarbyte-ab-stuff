@@ -1,0 +1,2 @@
+/?wpcallback_action=form:=contacts-callback.txt
+/ajax_form.php?ajax_call=:=contacts-callback.txt
