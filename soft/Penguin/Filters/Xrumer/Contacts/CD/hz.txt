@@ -3,3 +3,4 @@
 /address.php:=contacts.txt
 
 /application:=contacts.txt
+/application.aspx:=contacts.txt

@@ -28,7 +28,7 @@
 
 
 
-/application.aspx:=contacts.txt
+
 /application.html:=contacts.txt
 /application.php:=contacts.txt
 /ask.htm:=contacts.txt
