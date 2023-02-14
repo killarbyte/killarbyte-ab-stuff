@@ -36,8 +36,8 @@
 
 
 
-/en_contact.html:=contacts.txt
-/en-contact.html:=contacts.txt
+
+
 /entry/add:=contacts.txt
 /eventcontact.aspx:=contacts.txt
 /faleconosco:=contacts.txt
