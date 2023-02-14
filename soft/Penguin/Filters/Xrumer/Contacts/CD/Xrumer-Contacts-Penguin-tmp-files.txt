@@ -5,7 +5,7 @@
 /?&mailform:=contacts.txt
 
 
-/?action=feedback:=contacts.txt
+
 /?action=question:=contacts.txt
 
 

@@ -4,3 +4,4 @@
 /?module=sendmail:=contacts.txt
 /?action=add_article:=contacts.txt
 /?action=contact:=contacts.txt
+/?action=feedback:=contacts.txt
