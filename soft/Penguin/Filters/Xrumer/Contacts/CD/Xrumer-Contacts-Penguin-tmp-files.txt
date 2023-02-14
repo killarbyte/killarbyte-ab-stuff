@@ -23,8 +23,8 @@
 /about-us/:=contacts.txt
 
 
-/address:=contacts.txt
-/address.html:=contacts.txt
+
+
 /address.php:=contacts.txt
 
 /application:=contacts.txt
