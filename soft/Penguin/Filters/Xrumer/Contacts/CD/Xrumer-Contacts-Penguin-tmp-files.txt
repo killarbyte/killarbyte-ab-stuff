@@ -8,8 +8,8 @@
 /?action=feedback:=contacts.txt
 /?action=question:=contacts.txt
 
-/?module=feedback:=contacts.txt
-/?module=os:=contacts.txt
+
+
 /?module=sendmail:=contacts.txt
 /?option=com_contact:=contacts.txt
 /?view=contacts:=contacts.txt
