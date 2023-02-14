@@ -46,7 +46,7 @@
 
 
 
-/class_contact.cfm:=contacts.txt
+
 /connect:=contacts.txt
 /connect.htm:=contacts.txt
 /connect.html:=contacts.txt
