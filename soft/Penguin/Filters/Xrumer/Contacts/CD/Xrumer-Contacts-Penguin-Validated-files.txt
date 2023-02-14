@@ -33,3 +33,5 @@
 /connect-with-us:=contacts.txt
 /contact.html:=contacts.txt
 /crm.asp?action=contactus:=contacts.txt
+/email.shtml:=contacts.txt
+/email.php:=contacts.txt

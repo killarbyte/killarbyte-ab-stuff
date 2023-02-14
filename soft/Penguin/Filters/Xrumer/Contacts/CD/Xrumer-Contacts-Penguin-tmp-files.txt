@@ -34,8 +34,8 @@
 /email.cfm:=contacts.txt
 /email.htm:=contacts.txt
 /email.html:=contacts.txt
-/email.php:=contacts.txt
-/email.shtml:=contacts.txt
+
+
 /en_contact.html:=contacts.txt
 /en-contact.html:=contacts.txt
 /entry/add:=contacts.txt
