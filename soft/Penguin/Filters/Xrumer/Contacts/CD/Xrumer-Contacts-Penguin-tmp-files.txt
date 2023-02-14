@@ -25,8 +25,8 @@
 /contatti.php:=contacts.txt
 /contatti_:=contacts.txt
 /contatto:=contacts.txt
-/contatto.html:=contacts.txt
-/contatto.php:=contacts.txt
+
+
 
 
 
@@ -39,7 +39,7 @@
 
 
 /entry/add:=contacts.txt
-/eventcontact.aspx:=contacts.txt
+
 /faleconosco:=contacts.txt
 /faq/?send=:=contacts.txt
 /feedback:=contacts.txt

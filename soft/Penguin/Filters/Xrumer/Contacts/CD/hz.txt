@@ -28,3 +28,4 @@
 /-contact-.html:=contacts.txt
 
 /content_contact.html:=contacts.txt
+/eventcontact.aspx:=contacts.txt

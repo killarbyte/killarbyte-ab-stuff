@@ -42,3 +42,5 @@
 /email:=contacts.txt
 /en_contact.html:=contacts.txt
 /en-contact.html:=contacts.txt
+/contatto.php:=contacts.txt
+/contatto.html:=contacts.txt
