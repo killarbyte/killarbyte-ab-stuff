@@ -31,3 +31,4 @@
 /connect-us:=contacts.txt
 /connect-with-me:=contacts.txt
 /connect-with-us:=contacts.txt
+/contact.html:=contacts.txt

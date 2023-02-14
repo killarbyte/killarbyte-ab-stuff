@@ -62,7 +62,7 @@
 
 /cont_kontakt.php:=contacts.txt
 /contact:=contacts.txt
-/contact.html:=contacts.txt
+
 /-contact-.html:=contacts.txt
 /contakt:=contacts.txt
 /contato:=contacts.txt
