@@ -32,8 +32,8 @@
 /email:=contacts.txt
 /email.aspx:=contacts.txt
 /email.cfm:=contacts.txt
-/email.htm:=contacts.txt
-/email.html:=contacts.txt
+
+
 
 
 /en_contact.html:=contacts.txt

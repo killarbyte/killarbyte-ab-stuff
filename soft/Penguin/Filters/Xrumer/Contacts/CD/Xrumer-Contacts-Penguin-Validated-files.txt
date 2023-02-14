@@ -35,3 +35,5 @@
 /crm.asp?action=contactus:=contacts.txt
 /email.shtml:=contacts.txt
 /email.php:=contacts.txt
+/email.html:=contacts.txt
+/email.htm:=contacts.txt
