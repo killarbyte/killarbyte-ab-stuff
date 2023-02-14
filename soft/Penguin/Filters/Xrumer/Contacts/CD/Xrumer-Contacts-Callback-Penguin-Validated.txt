@@ -1,0 +1,10 @@
+/?wpcallback_action=form
+/ajax_form.php?ajax_call=
+/call.html
+/call.php
+/call.shtml
+/callback
+/callback.html
+/callback.php
+/callback.phtm
+/callbacks
