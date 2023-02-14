@@ -34,9 +34,9 @@
 
 
 
-/ask-question:=contacts.txt
-/ask-question.html:=contacts.txt
-/ask-question.php:=contacts.txt
+
+
+
 /call.html:=contacts.txt
 /call.php:=contacts.txt
 /call.shtml:=contacts.txt

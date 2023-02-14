@@ -15,3 +15,6 @@
 /ask.htm:=contacts.txt
 /ask.html:=contacts.txt
 /ask.php:=contacts.txt
+/ask-question:=contacts.txt
+/ask-question.html:=contacts.txt
+/ask-question.php:=contacts.txt
