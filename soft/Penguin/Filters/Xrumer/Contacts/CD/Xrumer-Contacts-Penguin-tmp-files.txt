@@ -3,7 +3,7 @@
 /#contact-form:=contacts.txt
 /#contacts:=contacts.txt
 /?&mailform:=contacts.txt
-/?action=add_article:=contacts.txt
+
 /?action=contact:=contacts.txt
 /?action=feedback:=contacts.txt
 /?action=question:=contacts.txt

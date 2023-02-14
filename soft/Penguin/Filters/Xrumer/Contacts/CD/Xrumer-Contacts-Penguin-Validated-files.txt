@@ -2,3 +2,4 @@
 /?module=feedback:=contacts.txt
 /?module=os:=contacts.txt
 /?module=sendmail:=contacts.txt
+/?action=add_article:=contacts.txt
