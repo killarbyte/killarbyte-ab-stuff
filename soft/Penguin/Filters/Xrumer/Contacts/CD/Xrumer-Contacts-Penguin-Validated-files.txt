@@ -13,3 +13,5 @@
 /_contact.html:=contacts.txt
 /?&mailform:=contacts.txt
 /ask.htm:=contacts.txt
+/ask.html:=contacts.txt
+/ask.php:=contacts.txt
