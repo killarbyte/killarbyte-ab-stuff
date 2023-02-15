@@ -59,3 +59,13 @@
 /contato.php:=contacts.txt
 /contato.html:=contacts.txt
 /contato:=contacts.txt
+
+/contakts.php:=contacts.txt
+/contakts.html:=contacts.txt
+/contakts.htm:=contacts.txt
+/contakts:=contacts.txt
+
+/contakt.php:=contacts.txt
+/contakt.html:=contacts.txt
+/contakt.shtml:=contacts.txt
+/contakt:=contacts.txt

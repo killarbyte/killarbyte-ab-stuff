@@ -12,7 +12,7 @@
 
 
 /contact:=contacts.txt
-/contakt:=contacts.txt
+
 
 
 
