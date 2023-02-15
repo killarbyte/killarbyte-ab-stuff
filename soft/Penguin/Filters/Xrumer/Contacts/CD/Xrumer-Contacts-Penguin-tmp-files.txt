@@ -1,6 +1,6 @@
 
 
-/kontacty.htm:=contacts.txt
+
 /kontak:=contacts.txt
 /kontak.html:=contacts.txt
 /kontak.php:=contacts.txt

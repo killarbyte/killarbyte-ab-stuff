@@ -151,3 +151,7 @@
 /kontact.aspx:=contacts.txt
 /kontact.php:=contacts.txt
 /kontact:=contacts.txt
+
+/kontacty.html:=contacts.txt
+/kontacty.htm:=contacts.txt
+/kontacty:=contacts.txt
