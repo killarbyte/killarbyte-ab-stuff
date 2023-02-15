@@ -61,6 +61,7 @@
 ||fss.ru^
 ||fssprus.ru^
 ||fsvps.ru^
+||fsknvrn.ru^
 ||garant.ru^
 ||gfs.ru^
 ||gibdd.ru^
