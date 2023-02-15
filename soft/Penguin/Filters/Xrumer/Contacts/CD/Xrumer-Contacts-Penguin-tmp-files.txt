@@ -17,9 +17,9 @@
 
 
 
-/inquiry.htm:=contacts.txt
-/inquiry.html:=contacts.txt
-/inquiry.php:=contacts.txt
+
+
+
 /kont.htm:=contacts.txt
 /kont.html:=contacts.txt
 /kont.php:=contacts.txt
