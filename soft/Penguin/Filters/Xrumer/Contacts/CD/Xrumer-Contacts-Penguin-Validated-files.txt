@@ -144,3 +144,6 @@
 /forma.htm:=contacts.txt
 /forma.php:=contacts.txt
 /forma:=contacts.txt
+
+/kontact.html:=contacts.txt
+/kontact.htm:=contacts.txt
