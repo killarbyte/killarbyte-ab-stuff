@@ -83,3 +83,8 @@
 /?option=com_sendpost:=contacts.txt
 /?option=com_ntsupport:=contacts.txt
 /?option=com_rsform:=contacts.txt
+
+/?view=contacts:=contacts.txt
+/?view=feedback:=contacts.txt
+/?view=message:=contacts.txt
+/component/aicontactsafe/:=contacts.txt

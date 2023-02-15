@@ -1,13 +1,4 @@
 
-
-/?view=contacts:=contacts.txt
-/?view=feedback:=contacts.txt
-/?view=message:=contacts.txt
-
-
-
-
-
 /feedback:=contacts.txt
 /form.html:=contacts.txt
 /form.php:=contacts.txt
