@@ -126,3 +126,4 @@
 
 /form_contact.html:=contacts.txt
 /form_contact.php:=contacts.txt
+/form_email:=contacts.txt
