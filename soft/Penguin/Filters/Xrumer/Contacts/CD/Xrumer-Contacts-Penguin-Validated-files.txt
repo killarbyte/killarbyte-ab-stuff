@@ -164,6 +164,10 @@
 /kontakt.htm:=contacts.txt
 /kontakt.shtml:=contacts.txt
 /kontakt.xhtml:=contacts.txt
+/kontakt.phtml:=contacts.txt
 /kontakt.php:=contacts.txt
 /kontakt.aspx:=contacts.txt
+/kontakt.asp:=contacts.txt
+/kontakt.jsp:=contacts.txt
+/kontakt.cfm:=contacts.txt
 /kontakt:=contacts.txt
