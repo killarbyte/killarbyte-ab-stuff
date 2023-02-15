@@ -9,7 +9,7 @@
 
 
 
-/formularz-kontaktowy.html:=contacts.txt
+
 
 
 
