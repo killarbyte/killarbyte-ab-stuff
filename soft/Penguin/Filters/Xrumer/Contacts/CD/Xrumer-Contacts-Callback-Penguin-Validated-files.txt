@@ -9,3 +9,4 @@
 /callback.phtm
 /callbacks
 /index.php?route=module/callme/open
+/message.php?mode=call_request

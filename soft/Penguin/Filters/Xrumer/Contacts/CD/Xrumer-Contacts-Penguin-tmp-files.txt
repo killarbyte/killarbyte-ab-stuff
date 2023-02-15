@@ -1,7 +1,7 @@
 
 /message:=contacts.txt
-/message.html:=contacts.txt
-/message.php:=contacts.txt
+
+
 /modules.php?name=:=contacts.txt
 /n_contactus.aspx:=contacts.txt
 /napisat.html:=contacts.txt
