@@ -104,3 +104,5 @@
 /inquiry.htm:=contacts.txt
 /inquiry.html:=contacts.txt
 /inquiry.php:=contacts.txt
+
+/kont.htm:=contacts.txt

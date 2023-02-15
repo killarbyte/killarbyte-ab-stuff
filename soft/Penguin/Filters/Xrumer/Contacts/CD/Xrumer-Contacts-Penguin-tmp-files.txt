@@ -20,7 +20,7 @@
 
 
 
-/kont.htm:=contacts.txt
+
 /kont.html:=contacts.txt
 /kont.php:=contacts.txt
 /kontact:=contacts.txt
