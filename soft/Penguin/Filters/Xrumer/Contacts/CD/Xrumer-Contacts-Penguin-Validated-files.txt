@@ -120,3 +120,9 @@
 /feedback.cgi:=contacts.txt
 /feedback.jsp:=contacts.txt
 /feedback:=contacts.txt
+
+/form.html:=contacts.txt
+/form.php:=contacts.txt
+
+/form_contact.html:=contacts.txt
+/form_contact.php:=contacts.txt
