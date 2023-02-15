@@ -1,12 +1,6 @@
 
 
 
-/napisat.html:=contacts.txt
-/napisat.php:=contacts.txt
-/napisat-nam:=contacts.txt
-/napisat-pismo:=contacts.txt
-/napishite_nam:=contacts.txt
-/napishite-nam:=contacts.txt
 /nashi-kontakty:=contacts.txt
 /new.html:=contacts.txt
 /node/create:=contacts.txt
