@@ -8,7 +8,7 @@
 /forma:=contacts.txt
 
 
-/formulaire-de-contact.html:=contacts.txt
+
 /formularz-kontaktowy.html:=contacts.txt
 
 
