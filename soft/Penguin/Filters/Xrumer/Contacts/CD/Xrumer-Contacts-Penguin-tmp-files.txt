@@ -1,5 +1,5 @@
-/kontakt:=contacts.txt
-/kontakt.html:=contacts.txt
+
+
 /letter:=contacts.txt
 /letter.htm:=contacts.txt
 /letter.html:=contacts.txt
