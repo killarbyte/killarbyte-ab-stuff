@@ -78,3 +78,8 @@
 /entry/add:=contacts.txt
 
 /?option=com_contact:=contacts.txt
+/?option=com_chronoforms:=contacts.txt
+/?option=com_phocaguestbook:=contacts.txt
+/?option=com_sendpost:=contacts.txt
+/?option=com_ntsupport:=contacts.txt
+/?option=com_rsform:=contacts.txt

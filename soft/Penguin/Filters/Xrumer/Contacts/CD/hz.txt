@@ -37,3 +37,6 @@
 /about-us/:=contacts.txt
 
 /faleconosco:=contacts.txt
+
+/?option=com_k2
+
