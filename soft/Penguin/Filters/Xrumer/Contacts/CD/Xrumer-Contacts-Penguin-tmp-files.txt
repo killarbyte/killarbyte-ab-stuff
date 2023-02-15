@@ -1,7 +1,6 @@
 
-/mail.htm:=contacts.txt
-/mail.html:=contacts.txt
-/mail.php:=contacts.txt
+
+
 /mailus:=contacts.txt
 /mein-kontakt.html:=contacts.txt
 /message:=contacts.txt

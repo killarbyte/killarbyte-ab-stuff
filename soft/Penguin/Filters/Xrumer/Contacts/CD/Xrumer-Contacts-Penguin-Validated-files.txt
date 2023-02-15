@@ -178,3 +178,8 @@
 /letter.shtml:=contacts.txt
 /letter.aspx:=contacts.txt
 /letter.asp:=contacts.txt
+
+/mail.htm:=contacts.txt
+/mail.html:=contacts.txt
+/mail.php:=contacts.txt
+/mail.cgi:=contacts.txt
