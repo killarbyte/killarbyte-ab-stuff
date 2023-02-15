@@ -191,3 +191,7 @@
 /napisat-pismo:=contacts.txt
 /napishite_nam:=contacts.txt
 /napishite-nam:=contacts.txt
+
+/nashi-kontakty.html:=contacts.txt
+/nashi-kontakty.php:=contacts.txt
+/nashi-kontakty:=contacts.txt

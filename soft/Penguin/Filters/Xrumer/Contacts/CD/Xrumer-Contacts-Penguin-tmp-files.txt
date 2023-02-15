@@ -1,7 +1,7 @@
 
 
 
-/nashi-kontakty:=contacts.txt
+
 /new.html:=contacts.txt
 /node/create:=contacts.txt
 /nous_contacter.html:=contacts.txt
