@@ -70,4 +70,6 @@
 /contakt.shtml:=contacts.txt
 /contakt:=contacts.txt
 
+/contact.html:=contacts.txt
+/contact.php:=contacts.txt
 /contact:=contacts.txt
