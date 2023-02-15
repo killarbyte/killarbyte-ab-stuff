@@ -134,4 +134,9 @@
 /formulaire-de-contact.html:=contacts.txt
 /formularz-kontaktowy.html:=contacts.txt
 
+
+/forma.shtml:=contacts.txt
+/forma.html:=contacts.txt
+/forma.htm:=contacts.txt
+/forma.php:=contacts.txt
 /forma:=contacts.txt
