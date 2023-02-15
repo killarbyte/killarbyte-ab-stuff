@@ -1,21 +1,5 @@
 
 
-
-
-/new.html:=contacts.txt
-/node/create:=contacts.txt
-/nous_contacter.html:=contacts.txt
-/nous_contacter.php:=contacts.txt
-/nous-contacter:=contacts.txt
-/nous-contacter.html:=contacts.txt
-/nous-contacter.php:=contacts.txt
-/obr.htm:=contacts.txt
-/obr.html:=contacts.txt
-/obr.php:=contacts.txt
-/obratnaja-svjaz:=contacts.txt
-/obratnaya_svyaz:=contacts.txt
-/obratnaya-svyaz:=contacts.txt
-/obratnyy-zvonok:=contacts.txt
 /oformit-zakaz:=contacts.txt
 /oformit-zakaz.html:=contacts.txt
 /oformit-zayavku:=contacts.txt

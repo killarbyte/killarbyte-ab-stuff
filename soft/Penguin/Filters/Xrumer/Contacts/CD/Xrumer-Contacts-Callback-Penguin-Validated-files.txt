@@ -10,3 +10,6 @@
 /callbacks
 /index.php?route=module/callme/open
 /message.php?mode=call_request
+/obratnyy-zvonok.html
+/obratnyy-zvonok.php
+/obratnyy-zvonok

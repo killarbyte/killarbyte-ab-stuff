@@ -49,5 +49,7 @@
 /06-18/js/callback/feedback.php
 
 
+/new.html:=contacts.txt
+
 
 
