@@ -108,3 +108,10 @@
 /kont.html:=contacts.txt
 /kont.htm:=contacts.txt
 /kont.php:=contacts.txt
+
+/feedback.php:=contacts.txt
+/feedback.html:=contacts.txt
+/feedback.htm:=contacts.txt
+/feedback.aspx:=contacts.txt
+/feedback.asp:=contacts.txt
+/feedback:=contacts.txt

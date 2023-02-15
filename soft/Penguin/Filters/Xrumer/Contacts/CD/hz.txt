@@ -44,3 +44,6 @@
 
 /info-kontakt.html:=contacts.txt
 
+
+
+/06-18/js/callback/feedback.php

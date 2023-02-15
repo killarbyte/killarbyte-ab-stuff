@@ -1,5 +1,5 @@
 
-/feedback:=contacts.txt
+
 /form.html:=contacts.txt
 /form.php:=contacts.txt
 /form_contact.html:=contacts.txt
