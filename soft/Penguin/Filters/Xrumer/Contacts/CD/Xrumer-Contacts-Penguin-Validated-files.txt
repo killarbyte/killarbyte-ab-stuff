@@ -76,3 +76,5 @@
 
 /faq/?send=:=contacts.txt
 /entry/add:=contacts.txt
+
+/?option=com_contact:=contacts.txt

@@ -1,5 +1,5 @@
 
-/?option=com_contact:=contacts.txt
+
 /?view=contacts:=contacts.txt
 /?view=feedback:=contacts.txt
 /?view=message:=contacts.txt
