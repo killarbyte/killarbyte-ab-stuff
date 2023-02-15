@@ -110,8 +110,13 @@
 /kont.php:=contacts.txt
 
 /feedback.php:=contacts.txt
+/feedback.shtml:=contacts.txt
+/feedback.phtml:=contacts.txt
+/feedback.xhtml:=contacts.txt
 /feedback.html:=contacts.txt
 /feedback.htm:=contacts.txt
 /feedback.aspx:=contacts.txt
 /feedback.asp:=contacts.txt
+/feedback.cgi:=contacts.txt
+/feedback.jsp:=contacts.txt
 /feedback:=contacts.txt
