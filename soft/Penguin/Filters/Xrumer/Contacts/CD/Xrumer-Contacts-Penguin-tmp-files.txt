@@ -1,7 +1,4 @@
 
-/kontact:=contacts.txt
-
-
 
 /kontacty.htm:=contacts.txt
 /kontak:=contacts.txt
