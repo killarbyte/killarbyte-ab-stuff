@@ -193,5 +193,7 @@
 /mein-kontakt:=contacts.txt
 
 /message.htm:=contacts.txt
-/message.html:=contacts.
+/message.html:=contacts.txt
 /message.php:=contacts.txt
+/message.cgi:=contacts.txt
+/message:=contacts.txt
