@@ -122,7 +122,11 @@
 /feedback:=contacts.txt
 
 /form.html:=contacts.txt
+/form.htm:=contacts.txt
 /form.php:=contacts.txt
+/form.aspx:=contacts.txt
+/form.cgi:=contacts.txt
+/form:=contacts.txt
 
 /form_contact.html:=contacts.txt
 /form_contact.php:=contacts.txt
