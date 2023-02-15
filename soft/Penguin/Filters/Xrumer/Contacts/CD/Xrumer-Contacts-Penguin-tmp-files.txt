@@ -2,7 +2,7 @@
 
 
 /kontak:=contacts.txt
-/kontak.html:=contacts.txt
+
 /kontak.php:=contacts.txt
 /kontakt:=contacts.txt
 /kontakt.html:=contacts.txt

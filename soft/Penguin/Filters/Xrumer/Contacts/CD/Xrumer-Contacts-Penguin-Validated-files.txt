@@ -155,3 +155,5 @@
 /kontacty.html:=contacts.txt
 /kontacty.htm:=contacts.txt
 /kontacty:=contacts.txt
+
+/kontak.html:=contacts.txt
