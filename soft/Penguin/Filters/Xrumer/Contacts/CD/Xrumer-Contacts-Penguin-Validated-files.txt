@@ -235,3 +235,15 @@
 /obratnyy-zvonok.html:=contacts.txt
 /obratnyy-zvonok.php:=contacts.txt
 /obratnyy-zvonok:=contacts.txt
+
+/oformit-zakaz.html:=contacts.txt
+/oformit-zakaz.php:=contacts.txt
+/oformit-zakaz:=contacts.txt
+
+/oformit-zayavku.html:=contacts.txt
+/oformit-zayavku.php:=contacts.txt
+/oformit-zayavku:=contacts.txt
+
+/online.html:=contacts.txt
+/online.htm:=contacts.txt
+/online.php:=contacts.txt

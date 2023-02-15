@@ -1,13 +1,4 @@
 
-
-/oformit-zakaz:=contacts.txt
-/oformit-zakaz.html:=contacts.txt
-/oformit-zayavku:=contacts.txt
-/oformit-zayavku.html:=contacts.txt
-/oformit-zayavku.php:=contacts.txt
-/online.htm:=contacts.txt
-/online.html:=contacts.txt
-/online.php:=contacts.txt
 /online-zakaz:=contacts.txt
 /online-zakaz.htm:=contacts.txt
 /online-zakaz.html:=contacts.txt
