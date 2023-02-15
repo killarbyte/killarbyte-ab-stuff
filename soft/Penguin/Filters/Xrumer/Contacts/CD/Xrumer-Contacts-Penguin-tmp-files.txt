@@ -10,7 +10,7 @@
 /formulaire-contact.html:=contacts.txt
 /formulaire-de-contact.html:=contacts.txt
 /formularz-kontaktowy.html:=contacts.txt
-/get-in-touch:=contacts.txt
+
 /help_contact.php:=contacts.txt
 /h-module-feedback.html:=contacts.txt
 /iletisim:=contacts.txt

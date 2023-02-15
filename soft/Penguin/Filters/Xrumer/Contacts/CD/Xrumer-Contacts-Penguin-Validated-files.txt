@@ -88,3 +88,5 @@
 /?view=feedback:=contacts.txt
 /?view=message:=contacts.txt
 /component/aicontactsafe/:=contacts.txt
+
+/get-in-touch:=contacts.txt
