@@ -12,32 +12,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /entry/add:=contacts.txt
 
 /faleconosco:=contacts.txt
