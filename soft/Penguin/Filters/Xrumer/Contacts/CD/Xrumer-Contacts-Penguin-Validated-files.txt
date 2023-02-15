@@ -194,6 +194,7 @@
 
 /message.htm:=contacts.txt
 /message.html:=contacts.txt
+/message.phtml:=contacts.txt
 /message.php:=contacts.txt
 /message.cgi:=contacts.txt
 /message:=contacts.txt
