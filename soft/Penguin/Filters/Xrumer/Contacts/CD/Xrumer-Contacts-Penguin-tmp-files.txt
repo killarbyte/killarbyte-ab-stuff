@@ -14,11 +14,6 @@
 
 
 
-
-
-
-/index.php?route=information_contact:=contacts.txt
-/index.php?route=module/callme/open:=contacts.txt
 /index.php?route=product/isitestimonial/success:=contacts.txt
 /info-kontakt.html:=contacts.txt
 /information-contact:=contacts.txt

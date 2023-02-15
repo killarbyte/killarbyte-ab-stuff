@@ -96,3 +96,6 @@
 /iletisim.aspx:=contacts.txt
 /iletisim.html:=contacts.txt
 /iletisim.php:=contacts.txt
+
+/index.php?route=information_contact:=contacts.txt
+/index.php?route=module/callme/open:=contacts.txt
