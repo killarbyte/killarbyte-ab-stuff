@@ -41,3 +41,6 @@
 /?option=com_k2
 
 /index.php?route=product/isitestimonial/success:=contacts.txt
+
+/info-kontakt.html:=contacts.txt
+
