@@ -171,3 +171,10 @@
 /kontakt.jsp:=contacts.txt
 /kontakt.cfm:=contacts.txt
 /kontakt:=contacts.txt
+
+/letter.htm:=contacts.txt
+/letter.html:=contacts.txt
+/letter.php:=contacts.txt
+/letter.shtml:=contacts.txt
+/letter.aspx:=contacts.txt
+/letter.asp:=contacts.txt

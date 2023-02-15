@@ -1,10 +1,4 @@
 
-
-/letter:=contacts.txt
-/letter.htm:=contacts.txt
-/letter.html:=contacts.txt
-/letter.php:=contacts.txt
-/letter.shtml:=contacts.txt
 /mail.htm:=contacts.txt
 /mail.html:=contacts.txt
 /mail.php:=contacts.txt
