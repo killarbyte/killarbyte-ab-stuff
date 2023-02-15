@@ -1,9 +1,3 @@
-
-
-
-
-
-
 /kontakt:=contacts.txt
 /kontakt.html:=contacts.txt
 /letter:=contacts.txt
