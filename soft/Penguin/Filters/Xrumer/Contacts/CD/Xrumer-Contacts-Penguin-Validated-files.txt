@@ -157,3 +157,5 @@
 /kontacty:=contacts.txt
 
 /kontak.html:=contacts.txt
+/kontak.php:=contacts.txt
+/kontak:=contacts.txt
