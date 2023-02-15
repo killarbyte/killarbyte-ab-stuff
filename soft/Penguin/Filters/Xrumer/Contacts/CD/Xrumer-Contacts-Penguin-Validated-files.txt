@@ -69,3 +69,5 @@
 /contakt.html:=contacts.txt
 /contakt.shtml:=contacts.txt
 /contakt:=contacts.txt
+
+/contact:=contacts.txt
