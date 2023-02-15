@@ -14,7 +14,7 @@
 
 
 
-/index.php?route=product/isitestimonial/success:=contacts.txt
+
 /info-kontakt.html:=contacts.txt
 /information-contact:=contacts.txt
 /inquiry.htm:=contacts.txt
