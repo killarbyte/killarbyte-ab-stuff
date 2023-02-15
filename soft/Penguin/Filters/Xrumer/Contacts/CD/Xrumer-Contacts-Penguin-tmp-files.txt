@@ -1,6 +1,6 @@
 
-/modules.php?name=:=contacts.txt
-/n_contactus.aspx:=contacts.txt
+
+
 /napisat.html:=contacts.txt
 /napisat.php:=contacts.txt
 /napisat-nam:=contacts.txt

@@ -198,3 +198,11 @@
 /message.php:=contacts.txt
 /message.cgi:=contacts.txt
 /message:=contacts.txt
+
+/modules.php?name=Feedback:=contacts.txt
+/modules.php?name=Guestbook:=contacts.txt
+/modules.php?name=Order:=contacts.txt
+/modules.php?name=Contact:=contacts.txt
+/modules.php?name=Submit_News:=contacts.txt
+
+/n_contactus.aspx:=contacts.txt
