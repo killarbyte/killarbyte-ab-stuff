@@ -73,3 +73,6 @@
 /contact.html:=contacts.txt
 /contact.php:=contacts.txt
 /contact:=contacts.txt
+
+/faq/?send=:=contacts.txt
+/entry/add:=contacts.txt

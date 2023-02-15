@@ -4,10 +4,10 @@
 /?view=feedback:=contacts.txt
 /?view=message:=contacts.txt
 
-/entry/add:=contacts.txt
 
-/faleconosco:=contacts.txt
-/faq/?send=:=contacts.txt
+
+
+
 /feedback:=contacts.txt
 /form.html:=contacts.txt
 /form.php:=contacts.txt

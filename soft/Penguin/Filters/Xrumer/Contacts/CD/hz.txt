@@ -36,3 +36,4 @@
 
 /about-us/:=contacts.txt
 
+/faleconosco:=contacts.txt
