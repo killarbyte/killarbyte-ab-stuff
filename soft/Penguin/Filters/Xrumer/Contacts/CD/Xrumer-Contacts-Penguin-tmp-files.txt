@@ -11,12 +11,12 @@
 /formulaire-de-contact.html:=contacts.txt
 /formularz-kontaktowy.html:=contacts.txt
 
-/help_contact.php:=contacts.txt
-/h-module-feedback.html:=contacts.txt
-/iletisim:=contacts.txt
-/iletisim.aspx:=contacts.txt
-/iletisim.html:=contacts.txt
-/iletisim.php:=contacts.txt
+
+
+
+
+
+
 /index.php?route=information_contact:=contacts.txt
 /index.php?route=module/callme/open:=contacts.txt
 /index.php?route=product/isitestimonial/success:=contacts.txt
