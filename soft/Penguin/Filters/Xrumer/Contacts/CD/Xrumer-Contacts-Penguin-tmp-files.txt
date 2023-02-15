@@ -4,14 +4,6 @@
 /?view=feedback:=contacts.txt
 /?view=message:=contacts.txt
 
-
-/about/connect:=contacts.txt
-/aboutcontact.aspx:=contacts.txt
-/about--contact.html:=contacts.txt
-/about-us/:=contacts.txt
-
-
-
 /entry/add:=contacts.txt
 
 /faleconosco:=contacts.txt
