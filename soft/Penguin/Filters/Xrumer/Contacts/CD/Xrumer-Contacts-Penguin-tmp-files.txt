@@ -21,8 +21,8 @@
 
 
 
-/kont.html:=contacts.txt
-/kont.php:=contacts.txt
+
+
 /kontact:=contacts.txt
 /kontact.htm:=contacts.txt
 /kontact.html:=contacts.txt
