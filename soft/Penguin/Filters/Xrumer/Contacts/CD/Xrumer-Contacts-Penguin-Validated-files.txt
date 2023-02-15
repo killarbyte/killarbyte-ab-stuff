@@ -189,3 +189,5 @@
 /mailus.aspx:=contacts.txt
 /mailus:=contacts.txt
 
+/mein-kontakt.html:=contacts.txt
+/mein-kontakt:=contacts.txt

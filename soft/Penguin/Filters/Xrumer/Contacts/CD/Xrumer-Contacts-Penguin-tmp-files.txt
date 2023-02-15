@@ -1,8 +1,4 @@
 
-
-
-
-/mein-kontakt.html:=contacts.txt
 /message:=contacts.txt
 /message.html:=contacts.txt
 /message.php:=contacts.txt
