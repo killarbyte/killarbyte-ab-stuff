@@ -183,3 +183,9 @@
 /mail.html:=contacts.txt
 /mail.php:=contacts.txt
 /mail.cgi:=contacts.txt
+
+/mailus.html:=contacts.txt
+/mailus.php:=contacts.txt
+/mailus.aspx:=contacts.txt
+/mailus:=contacts.txt
+

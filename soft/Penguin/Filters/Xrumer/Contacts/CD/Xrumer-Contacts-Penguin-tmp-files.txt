@@ -1,7 +1,7 @@
 
 
 
-/mailus:=contacts.txt
+
 /mein-kontakt.html:=contacts.txt
 /message:=contacts.txt
 /message.html:=contacts.txt
