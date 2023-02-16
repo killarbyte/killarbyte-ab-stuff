@@ -1,7 +1,3 @@
-
-
-
-/orderform.php:=contacts.txt
 /orders.htm:=contacts.txt
 /orders.html:=contacts.txt
 /orders.php:=contacts.txt

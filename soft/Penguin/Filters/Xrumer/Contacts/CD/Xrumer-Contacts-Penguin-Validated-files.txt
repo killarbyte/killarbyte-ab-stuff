@@ -262,3 +262,8 @@
 /order.phtml:=contacts.txt
 /order.shtml:=contacts.txt
 /order/:=contacts.txt
+
+/orderform.html:=contacts.txt
+/orderform.php:=contacts.txt
+/orderform.aspx:=contacts.txt
+/orderform:=contacts.txt
