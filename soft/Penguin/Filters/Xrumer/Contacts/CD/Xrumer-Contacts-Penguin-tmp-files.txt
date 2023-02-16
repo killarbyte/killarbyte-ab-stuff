@@ -1,5 +1,3 @@
-
-/osnovsv.html:=contacts.txt
 /ostavit-otzyv:=contacts.txt
 /ostavit-otzyv.html:=contacts.txt
 /ostavit-otzyv.php:=contacts.txt

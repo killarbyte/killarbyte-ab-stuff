@@ -268,3 +268,7 @@
 /orderform.aspx:=contacts.txt
 /orderform:=contacts.txt
 
+/osnovsv.html:=contacts.txt
+/osnovsv.php:=contacts.txt
+/osnovsv:=contacts.txt
+
