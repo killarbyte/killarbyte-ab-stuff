@@ -247,3 +247,8 @@
 /online.html:=contacts.txt
 /online.htm:=contacts.txt
 /online.php:=contacts.txt
+
+/online-zakaz.html:=contacts.txt
+/online-zakaz.htm:=contacts.txt
+/online-zakaz.php:=contacts.txt
+/online-zakaz:=contacts.txt

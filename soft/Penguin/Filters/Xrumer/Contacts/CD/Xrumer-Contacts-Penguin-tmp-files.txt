@@ -1,8 +1,5 @@
 
-/online-zakaz:=contacts.txt
-/online-zakaz.htm:=contacts.txt
-/online-zakaz.html:=contacts.txt
-/online-zakaz.php:=contacts.txt
+
 /order.asp:=contacts.txt
 /order.aspx:=contacts.txt
 /order.cgi:=contacts.txt
