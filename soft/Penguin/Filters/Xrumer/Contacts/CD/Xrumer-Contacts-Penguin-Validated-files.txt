@@ -252,3 +252,13 @@
 /online-zakaz.htm:=contacts.txt
 /online-zakaz.php:=contacts.txt
 /online-zakaz:=contacts.txt
+
+/order.asp:=contacts.txt
+/order.aspx:=contacts.txt
+/order.cgi:=contacts.txt
+/order.htm:=contacts.txt
+/order.html:=contacts.txt
+/order.php:=contacts.txt
+/order.phtml:=contacts.txt
+/order.shtml:=contacts.txt
+/order/:=contacts.txt

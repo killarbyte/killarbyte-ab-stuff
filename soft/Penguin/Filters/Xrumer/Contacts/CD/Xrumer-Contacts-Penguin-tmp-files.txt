@@ -1,14 +1,6 @@
 
 
-/order.asp:=contacts.txt
-/order.aspx:=contacts.txt
-/order.cgi:=contacts.txt
-/order.htm:=contacts.txt
-/order.html:=contacts.txt
-/order.php:=contacts.txt
-/order.phtml:=contacts.txt
-/order.shtml:=contacts.txt
-/order/:=contacts.txt
+
 /orderform.php:=contacts.txt
 /orders.htm:=contacts.txt
 /orders.html:=contacts.txt
