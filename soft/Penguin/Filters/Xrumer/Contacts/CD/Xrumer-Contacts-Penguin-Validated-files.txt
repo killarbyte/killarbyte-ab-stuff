@@ -287,3 +287,17 @@
 /otpravit-zayavku.htm:=contacts.txt
 /otpravit-zayavku.php:=contacts.txt
 /otpravit-zayavku:=contacts.txt
+
+/otzyv.html:=contacts.txt
+/otzyv.php:=contacts.txt
+/otzyv.aspx:=contacts.txt
+/otzyv:=contacts.txt
+
+/otzyvy.html:=contacts.txt
+/otzyvy.htm:=contacts.txt
+/otzyvy.php:=contacts.txt
+/otzyvy.phtml:=contacts.txt
+/otzyvy.shtml:=contacts.txt
+/otzyvy.aspx:=contacts.txt
+/otzyvy.asp:=contacts.txt
+/otzyvy:=contacts.txt
