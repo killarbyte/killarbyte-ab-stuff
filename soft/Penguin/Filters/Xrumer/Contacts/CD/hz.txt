@@ -51,5 +51,10 @@
 
 /new.html:=contacts.txt
 
+/orders.html:=contacts.txt
+/orders.htm:=contacts.txt
+/orders.htm:=contacts.txt
+/orders.php:=contacts.txt
+
 
 

@@ -1,6 +1,4 @@
-/orders.htm:=contacts.txt
-/orders.html:=contacts.txt
-/orders.php:=contacts.txt
+
 /osnovsv.html:=contacts.txt
 /ostavit-otzyv:=contacts.txt
 /ostavit-otzyv.html:=contacts.txt
