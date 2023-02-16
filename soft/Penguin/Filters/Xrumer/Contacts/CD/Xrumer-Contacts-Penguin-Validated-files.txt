@@ -272,3 +272,18 @@
 /osnovsv.php:=contacts.txt
 /osnovsv:=contacts.txt
 
+/ostavit-otzyv.html:=contacts.txt
+/ostavit-otzyv.php:=contacts.txt
+/ostavit-otzyv.shtml:=contacts.txt
+/ostavit-otzyv:=contacts.txt
+
+/ostavit-zayavku.html:=contacts.txt
+/ostavit-zayavku.htm:=contacts.txt
+/ostavit-zayavku.php:=contacts.txt
+/ostavit-zayavku.aspx:=contacts.txt
+/ostavit-zayavku:=contacts.txt
+
+/otpravit-zayavku.html:=contacts.txt
+/otpravit-zayavku.htm:=contacts.txt
+/otpravit-zayavku.php:=contacts.txt
+/otpravit-zayavku:=contacts.txt

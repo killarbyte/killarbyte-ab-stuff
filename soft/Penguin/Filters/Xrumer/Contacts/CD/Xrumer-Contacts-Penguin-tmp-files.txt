@@ -1,11 +1,3 @@
-/ostavit-otzyv:=contacts.txt
-/ostavit-otzyv.html:=contacts.txt
-/ostavit-otzyv.php:=contacts.txt
-/ostavit-otzyv.shtml:=contacts.txt
-/ostavit-zayavku:=contacts.txt
-/otpravit-zayavku:=contacts.txt
-/otpravit-zayavku.html:=contacts.txt
-/otpravit-zayavku.php:=contacts.txt
 /otzyv.html:=contacts.txt
 /otzyvy:=contacts.txt
 /otzyvy.html:=contacts.txt
