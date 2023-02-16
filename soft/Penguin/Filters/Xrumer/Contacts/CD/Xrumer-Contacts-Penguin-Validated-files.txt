@@ -301,3 +301,14 @@
 /otzyvy.aspx:=contacts.txt
 /otzyvy.asp:=contacts.txt
 /otzyvy:=contacts.txt
+
+/page_contact.html:=contacts.txt
+/page_contact.php:=contacts.txt
+/page_contact:=contacts.txt
+
+/page_contact_us.cfm:=contacts.txt
+
+/page-contact.html:=contacts.txt
+/page-contact.htm:=contacts.txt
+/page-contact.php:=contacts.txt
+/page-contact:=contacts.txt

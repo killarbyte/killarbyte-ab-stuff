@@ -1,8 +1,3 @@
-/page_contact.html:=contacts.txt
-/page_contact.php:=contacts.txt
-/page-contact:=contacts.txt
-/page-contact.html:=contacts.txt
-/page-contact.php:=contacts.txt
 /pages/about-us:=contacts.txt
 /p-contact.html:=contacts.txt
 /pismo:=contacts.txt
