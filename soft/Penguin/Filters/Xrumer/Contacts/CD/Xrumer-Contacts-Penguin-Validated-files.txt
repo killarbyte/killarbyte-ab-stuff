@@ -330,4 +330,14 @@
 /questions.php:=contacts.txt
 /questions:=contacts.txt
 
+/recall/?ajax_call=:=contacts.txt
 
+/request.html:=contacts.txt
+/request.htm:=contacts.txt
+/request.php:=contacts.txt
+/request.phtml:=contacts.txt
+/request.shtml:=contacts.txt
+/request.aspx:=contacts.txt
+/request.asp:=contacts.txt
+/request.jsp:=contacts.txt
+/request:=contacts.txt

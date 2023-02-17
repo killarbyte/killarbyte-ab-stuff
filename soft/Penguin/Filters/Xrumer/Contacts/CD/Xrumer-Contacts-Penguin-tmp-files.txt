@@ -1,5 +1,5 @@
-/recall/?ajax_call=:=contacts.txt
-/request:=contacts.txt
+
+
 /reviews.htm:=contacts.txt
 /reviews.html:=contacts.txt
 /reviews.php:=contacts.txt

@@ -13,3 +13,4 @@
 /obratnyy-zvonok.html
 /obratnyy-zvonok.php
 /obratnyy-zvonok
+/recall/?ajax_call=
