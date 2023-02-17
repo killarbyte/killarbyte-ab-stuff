@@ -349,3 +349,9 @@
 /reviews/add.php:=contacts.txt
 
 /write-mail.html:=contacts.txt
+
+/sazinieties-ar-mums:=contacts.txt
+
+/sdelat-zakaz.html:=contacts.txt
+/sdelat-zakaz.php:=contacts.txt
+/sdelat-zakaz:=contacts.txt

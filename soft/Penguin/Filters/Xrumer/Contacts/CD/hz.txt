@@ -60,4 +60,7 @@
 
 /ps-contact.aspx:=contacts.txt
 
+/s_contact.asp:=contacts.txt
+
+
 

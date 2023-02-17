@@ -1,7 +1,6 @@
-/s_contact.asp:=contacts.txt
-/sazinieties-ar-mums:=contacts.txt
-/sdelat-zakaz:=contacts.txt
-/sdelat-zakaz.html:=contacts.txt
+
+
+
 /send.html:=contacts.txt
 /send.php:=contacts.txt
 /send_contact.php:=contacts.txt
