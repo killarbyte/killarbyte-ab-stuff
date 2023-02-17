@@ -441,3 +441,9 @@
 /svyazatsya-s-nami.html:=contacts.txt
 /svyazatsya-s-nami.php:=contacts.txt
 /svyazatsya-s-nami:=contacts.txt
+
+/svyazhites-s-nami.html:=contacts.txt
+/svyazhites-s-nami.php:=contacts.txt
+/svyazhites-s-nami:=contacts.txt
+
+/svyaz-s-administraciej:=contacts.txt

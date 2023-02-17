@@ -1,6 +1,4 @@
 
-/svyazhites-s-nami:=contacts.txt
-/svyaz-s-administraciej:=contacts.txt
 /svyaz-s-nami:=contacts.txt
 /svyaz-s-nami.html:=contacts.txt
 /t-contact.aspx:=contacts.txt
