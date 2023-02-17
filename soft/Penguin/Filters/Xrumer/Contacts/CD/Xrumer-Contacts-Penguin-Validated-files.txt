@@ -373,3 +373,5 @@
 /sendmail.html:=contacts.txt
 /sendmail.php:=contacts.txt
 /sendmail:=contacts.txt
+
+/sendmessage.php:=contacts.txt

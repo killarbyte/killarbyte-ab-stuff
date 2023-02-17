@@ -1,4 +1,4 @@
-/sendmessage.php:=contacts.txt
+
 /sendquest.html:=contacts.txt
 /sendquest.php:=contacts.txt
 /send-request:=contacts.txt
