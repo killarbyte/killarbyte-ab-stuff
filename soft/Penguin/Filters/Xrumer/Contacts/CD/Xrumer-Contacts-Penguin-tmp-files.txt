@@ -1,8 +1,4 @@
 
-
-
-/send.html:=contacts.txt
-/send.php:=contacts.txt
 /send_contact.php:=contacts.txt
 /sendmail:=contacts.txt
 /sendmail.asp:=contacts.txt

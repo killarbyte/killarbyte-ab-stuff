@@ -355,3 +355,11 @@
 /sdelat-zakaz.html:=contacts.txt
 /sdelat-zakaz.php:=contacts.txt
 /sdelat-zakaz:=contacts.txt
+
+/send.html:=contacts.txt
+/send.htm:=contacts.txt
+/send.phtml:=contacts.txt
+/send.shtml:=contacts.txt
+/send.php:=contacts.txt
+/send.cgi:=contacts.txt
+/send.aspx:=contacts.txt
