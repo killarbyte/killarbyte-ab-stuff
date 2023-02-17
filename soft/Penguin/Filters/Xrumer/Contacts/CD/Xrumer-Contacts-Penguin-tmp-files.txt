@@ -1,7 +1,3 @@
-
-/svyaz-s-nami:=contacts.txt
-/svyaz-s-nami.html:=contacts.txt
-/t-contact.aspx:=contacts.txt
 /tiki-contact.php:=contacts.txt
 /trang-contact.html:=contacts.txt
 /treatments:=contacts.txt

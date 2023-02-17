@@ -447,3 +447,11 @@
 /svyazhites-s-nami:=contacts.txt
 
 /svyaz-s-administraciej:=contacts.txt
+
+/svyaz-s-nami.html:=contacts.txt
+/svyaz-s-nami.aspx:=contacts.txt
+/svyaz-s-nami.php:=contacts.txt
+/svyaz-s-nami:=contacts.txt
+
+/t-contact.aspx:=contacts.txt
+/t-contact:=contacts.txt
