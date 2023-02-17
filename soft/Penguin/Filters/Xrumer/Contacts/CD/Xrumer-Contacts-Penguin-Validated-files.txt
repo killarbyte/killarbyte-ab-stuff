@@ -478,3 +478,9 @@
 /vopros_otvet.php:=contacts.txt
 /vopros-otvet.asp:=contacts.txt
 /vopros-otvet:=contacts.txt
+
+/voprosy.html:=contacts.txt
+/voprosy.htm:=contacts.txt
+/voprosy.php:=contacts.txt
+/voprosy.aspx:=contacts.txt
+/voprosy:=contacts.txt

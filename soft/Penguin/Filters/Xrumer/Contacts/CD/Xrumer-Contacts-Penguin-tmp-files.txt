@@ -1,5 +1,3 @@
-/voprosy:=contacts.txt
-/voprosy.html:=contacts.txt
 /voprosy_i_otvety:=contacts.txt
 /voprosy-i-otvety:=contacts.txt
 /voprosy-i-otvety.html:=contacts.txt
