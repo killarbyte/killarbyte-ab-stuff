@@ -455,3 +455,11 @@
 
 /t-contact.aspx:=contacts.txt
 /t-contact:=contacts.txt
+
+/tiki-contact.php:=contacts.txt
+
+/trang-contact.html:=contacts.txt
+/trang-contact:=contacts.txt
+
+/treatments.html:=contacts.txt
+/treatments:=contacts.txt
