@@ -384,3 +384,14 @@
 
 /sendquestion.php:=contacts.txt
 /sendquestion:=contacts.txt
+
+/send-request.htm:=contacts.txt
+/send-request.html:=contacts.txt
+/send-request.php:=contacts.txt
+/send-request:=contacts.txt
+
+/shop_contact.php:=contacts.txt
+/shop_contact:=contacts.txt
+
+
+/shop_content.php?coid=7:=contacts.txt
