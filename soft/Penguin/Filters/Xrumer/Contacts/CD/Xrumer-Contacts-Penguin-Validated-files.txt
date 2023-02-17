@@ -411,3 +411,6 @@
 
 /submitticket.php?step=:=contacts.txt
 /submitticket.php:=contacts.txt
+
+/suggest.php?enttype=:=contacts.txt
+/suggest.php:=contacts.txt

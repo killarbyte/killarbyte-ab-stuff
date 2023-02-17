@@ -1,4 +1,4 @@
-/suggest.php?enttype=:=contacts.txt
+
 /support.html:=contacts.txt
 /support.php:=contacts.txt
 /susisiekite:=contacts.txt
