@@ -56,5 +56,7 @@
 /orders.htm:=contacts.txt
 /orders.php:=contacts.txt
 
+/pages/about-us:=contacts.txt
+
 
 

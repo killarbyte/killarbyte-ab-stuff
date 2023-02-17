@@ -1,10 +1,4 @@
-/pages/about-us:=contacts.txt
-/p-contact.html:=contacts.txt
-/pismo:=contacts.txt
-/pismo.htm:=contacts.txt
-/pismo.html:=contacts.txt
-/pismo.php:=contacts.txt
-/plug.php?e=:=contacts.txt
+
 /podat-zayavku:=contacts.txt
 /podat-zayavku.html:=contacts.txt
 /popup-order.html:=contacts.txt

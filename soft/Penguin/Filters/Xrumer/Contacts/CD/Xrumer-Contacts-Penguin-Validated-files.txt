@@ -287,3 +287,16 @@
 /page-contact.html:=contacts.txt
 /page-contact.php:=contacts.txt
 /page-contact:=contacts.txt
+
+/p-contact.html:=contacts.txt
+/p-contact:=contacts.txt
+
+/pismo.htm:=contacts.txt
+/pismo.html:=contacts.txt
+/pismo.php:=contacts.txt
+/pismo.aspx:=contacts.txt
+/pismo:=contacts.txt
+
+/plug.php?e=guestbook:=contacts.txt
+/plug.php?e=contact:=contacts.txt
+
