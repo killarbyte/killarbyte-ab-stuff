@@ -375,3 +375,12 @@
 /sendmail:=contacts.txt
 
 /sendmessage.php:=contacts.txt
+/sendmessage.html:=contacts.txt
+/sendmessage:=contacts.txt
+
+/sendquest.html:=contacts.txt
+/sendquest.php:=contacts.txt
+/sendquest:=contacts.txt
+
+/sendquestion.php:=contacts.txt
+/sendquestion:=contacts.txt
