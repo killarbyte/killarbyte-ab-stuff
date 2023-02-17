@@ -1,5 +1,3 @@
-/wcontact.php:=contacts.txt
-/website.contactus:=contacts.txt
 /wfcontactme.aspx:=contacts.txt
 /write.php:=contacts.txt
 /write_to_me.php:=contacts.txt

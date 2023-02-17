@@ -502,3 +502,7 @@
 /voprosy-otvety.htm:=contacts.txt
 /voprosy-otvety.php:=contacts.txt
 /voprosy-otvety:=contacts.txt
+
+/wcontact.php:=contacts.txt
+
+/website.contactus:=contacts.txt
