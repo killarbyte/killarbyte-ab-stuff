@@ -1,6 +1,3 @@
-
-/support.html:=contacts.txt
-/support.php:=contacts.txt
 /susisiekite:=contacts.txt
 /susisiekite-su-mumis:=contacts.txt
 /svjazhites-s-nami.html:=contacts.txt

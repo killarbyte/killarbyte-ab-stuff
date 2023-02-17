@@ -414,3 +414,7 @@
 
 /suggest.php?enttype=:=contacts.txt
 /suggest.php:=contacts.txt
+
+/support.html:=contacts.txt
+/support.php:=contacts.txt
+/support/request/:=contacts.txt
