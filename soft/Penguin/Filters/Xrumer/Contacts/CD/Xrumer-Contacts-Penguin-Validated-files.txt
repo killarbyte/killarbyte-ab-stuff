@@ -399,3 +399,8 @@
 /shopcomment/create:=contacts.txt
 
 /shopcustcontact.asp:=contacts.txt
+
+/single-contact.html:=contacts.txt
+/single-contact:=contacts.txt
+
+/special_contact:=contacts.txt
