@@ -363,3 +363,13 @@
 /send.php:=contacts.txt
 /send.cgi:=contacts.txt
 /send.aspx:=contacts.txt
+
+/send_contact.php:=contacts.txt
+/send_contacts.cfm:=contacts.txt
+
+/sendmail.asp:=contacts.txt
+/sendmail.aspx:=contacts.txt
+/sendmail.htm:=contacts.txt
+/sendmail.html:=contacts.txt
+/sendmail.php:=contacts.txt
+/sendmail:=contacts.txt

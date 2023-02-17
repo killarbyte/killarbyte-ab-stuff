@@ -1,11 +1,3 @@
-
-/send_contact.php:=contacts.txt
-/sendmail:=contacts.txt
-/sendmail.asp:=contacts.txt
-/sendmail.aspx:=contacts.txt
-/sendmail.htm:=contacts.txt
-/sendmail.html:=contacts.txt
-/sendmail.php:=contacts.txt
 /sendmessage.php:=contacts.txt
 /sendquest.html:=contacts.txt
 /sendquest.php:=contacts.txt
