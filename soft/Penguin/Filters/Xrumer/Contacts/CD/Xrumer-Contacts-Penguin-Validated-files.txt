@@ -484,3 +484,15 @@
 /voprosy.php:=contacts.txt
 /voprosy.aspx:=contacts.txt
 /voprosy:=contacts.txt
+
+/voprosy_i_otvety.html:=contacts.txt
+/voprosy_i_otvety.htm:=contacts.txt
+/voprosy_i_otvety.shtml:=contacts.txt
+/voprosy_i_otvety.php:=contacts.txt
+/voprosy_i_otvety:=contacts.txt
+
+/voprosy-i-otvety.html:=contacts.txt
+/voprosy-i-otvety.htm:=contacts.txt
+/voprosy-i-otvety.php:=contacts.txt
+/voprosy-i-otvety.aspx:=contacts.txt
+/voprosy-i-otvety:=contacts.txt

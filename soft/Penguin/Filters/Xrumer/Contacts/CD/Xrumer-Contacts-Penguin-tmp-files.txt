@@ -1,6 +1,4 @@
-/voprosy_i_otvety:=contacts.txt
-/voprosy-i-otvety:=contacts.txt
-/voprosy-i-otvety.html:=contacts.txt
+
 /voprosy-otvety:=contacts.txt
 /voprosy-otvety.aspx:=contacts.txt
 /voprosy-otvety.html:=contacts.txt
