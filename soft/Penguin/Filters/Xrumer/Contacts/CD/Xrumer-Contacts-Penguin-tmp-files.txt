@@ -1,9 +1,3 @@
-
-
-/reviews.htm:=contacts.txt
-/reviews.html:=contacts.txt
-/reviews.php:=contacts.txt
-/reviews/add.php:=contacts.txt
 /s_contact.asp:=contacts.txt
 /sazinieties-ar-mums:=contacts.txt
 /sdelat-zakaz:=contacts.txt

@@ -341,3 +341,11 @@
 /request.asp:=contacts.txt
 /request.jsp:=contacts.txt
 /request:=contacts.txt
+
+/reviews.html:=contacts.txt
+/reviews.htm:=contacts.txt
+/reviews.php:=contacts.txt
+
+/reviews/add.php:=contacts.txt
+
+/write-mail.html:=contacts.txt
