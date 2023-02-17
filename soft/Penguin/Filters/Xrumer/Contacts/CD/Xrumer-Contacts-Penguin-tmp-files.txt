@@ -1,9 +1,4 @@
-/svjazhites-s-nami.html:=contacts.txt
-/svjazhites-s-nami.php:=contacts.txt
-/svyaz:=contacts.txt
-/svyaz.html:=contacts.txt
-/svyazatsya_s_nami:=contacts.txt
-/svyazatsya-s-nami:=contacts.txt
+
 /svyazhites-s-nami:=contacts.txt
 /svyaz-s-administraciej:=contacts.txt
 /svyaz-s-nami:=contacts.txt
