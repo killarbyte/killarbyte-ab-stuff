@@ -1,5 +1,3 @@
-/vopros_otvet.php:=contacts.txt
-/vopros-otvet:=contacts.txt
 /voprosy:=contacts.txt
 /voprosy.html:=contacts.txt
 /voprosy_i_otvety:=contacts.txt

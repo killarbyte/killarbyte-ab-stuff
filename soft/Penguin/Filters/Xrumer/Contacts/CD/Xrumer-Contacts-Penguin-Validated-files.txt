@@ -470,3 +470,11 @@
 /vopros.php:=contacts.txt
 /vopros.shtml:=contacts.txt
 /vopros:=contacts.txt
+
+/vopros-otvet.html:=contacts.txt
+/vopros-otvet.htm:=contacts.txt
+/vopros-otvet.phtml:=contacts.txt
+/vopros-otvet.shtml:=contacts.txt
+/vopros_otvet.php:=contacts.txt
+/vopros-otvet.asp:=contacts.txt
+/vopros-otvet:=contacts.txt
