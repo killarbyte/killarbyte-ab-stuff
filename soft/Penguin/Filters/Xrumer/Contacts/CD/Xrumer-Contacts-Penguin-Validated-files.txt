@@ -463,3 +463,10 @@
 
 /treatments.html:=contacts.txt
 /treatments:=contacts.txt
+
+/vopros.aspx:=contacts.txt
+/vopros.htm:=contacts.txt
+/vopros.html:=contacts.txt
+/vopros.php:=contacts.txt
+/vopros.shtml:=contacts.txt
+/vopros:=contacts.txt
