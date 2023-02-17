@@ -496,3 +496,9 @@
 /voprosy-i-otvety.php:=contacts.txt
 /voprosy-i-otvety.aspx:=contacts.txt
 /voprosy-i-otvety:=contacts.txt
+
+/voprosy-otvety.aspx:=contacts.txt
+/voprosy-otvety.html:=contacts.txt
+/voprosy-otvety.htm:=contacts.txt
+/voprosy-otvety.php:=contacts.txt
+/voprosy-otvety:=contacts.txt

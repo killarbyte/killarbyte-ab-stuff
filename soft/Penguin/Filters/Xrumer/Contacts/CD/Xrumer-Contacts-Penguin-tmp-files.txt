@@ -1,7 +1,3 @@
-
-/voprosy-otvety:=contacts.txt
-/voprosy-otvety.aspx:=contacts.txt
-/voprosy-otvety.html:=contacts.txt
 /wcontact.php:=contacts.txt
 /website.contactus:=contacts.txt
 /wfcontactme.aspx:=contacts.txt
