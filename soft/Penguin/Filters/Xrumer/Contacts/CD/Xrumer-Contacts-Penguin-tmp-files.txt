@@ -1,5 +1,3 @@
-/susisiekite:=contacts.txt
-/susisiekite-su-mumis:=contacts.txt
 /svjazhites-s-nami.html:=contacts.txt
 /svjazhites-s-nami.php:=contacts.txt
 /svyaz:=contacts.txt

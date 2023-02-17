@@ -418,3 +418,8 @@
 /support.html:=contacts.txt
 /support.php:=contacts.txt
 /support/request/:=contacts.txt
+
+/susisiekite-su-mumis.html:=contacts.txt
+/susisiekite-su-mumis:=contacts.txt
+
+/susisiekite:=contacts.txt
