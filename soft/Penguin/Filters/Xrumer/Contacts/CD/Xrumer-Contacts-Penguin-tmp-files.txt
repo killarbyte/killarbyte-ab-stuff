@@ -1,6 +1,6 @@
 
-/shopcomment/create:=contacts.txt
-/shopcustcontact.asp:=contacts.txt
+
+
 /single-contact:=contacts.txt
 /special_contact:=contacts.txt
 /spip.php?page=contact:=contacts.txt
