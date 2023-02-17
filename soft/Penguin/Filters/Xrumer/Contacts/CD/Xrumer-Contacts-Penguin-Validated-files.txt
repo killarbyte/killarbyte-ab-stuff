@@ -310,3 +310,24 @@
 
 /priemnaya.html:=contacts.txt
 
+
+/question.aspx:=contacts.txt
+/question.asp:=contacts.txt
+/question.htm:=contacts.txt
+/question.html:=contacts.txt
+/question.php:=contacts.txt
+/question.phtml:=contacts.txt
+/question.shtml:=contacts.txt
+/question:=contacts.txt
+
+
+/questions.aspx:=contacts.txt
+/questions.asp:=contacts.txt
+/questions.cgi:=contacts.txt
+/questions.htm:=contacts.txt
+/questions.html:=contacts.txt
+/questions.shtml:=contacts.txt
+/questions.php:=contacts.txt
+/questions:=contacts.txt
+
+
