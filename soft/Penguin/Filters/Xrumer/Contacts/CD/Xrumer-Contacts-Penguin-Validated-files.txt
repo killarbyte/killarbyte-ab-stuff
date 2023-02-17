@@ -300,3 +300,13 @@
 /plug.php?e=guestbook:=contacts.txt
 /plug.php?e=contact:=contacts.txt
 
+/podat-zayavku.html:=contacts.txt
+/podat-zayavku.htm:=contacts.txt
+/podat-zayavku.php:=contacts.txt
+/podat-zayavku:=contacts.txt
+
+/popup-order.html:=contacts.txt
+/popup-order:=contacts.txt
+
+/priemnaya.html:=contacts.txt
+

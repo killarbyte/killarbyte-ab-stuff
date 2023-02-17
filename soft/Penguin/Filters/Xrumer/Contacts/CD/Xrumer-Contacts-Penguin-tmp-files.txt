@@ -1,8 +1,7 @@
 
-/podat-zayavku:=contacts.txt
-/podat-zayavku.html:=contacts.txt
-/popup-order.html:=contacts.txt
-/priemnaya.html:=contacts.txt
+
+
+
 /ps-contact.aspx:=contacts.txt
 /question:=contacts.txt
 /question.asp:=contacts.txt
