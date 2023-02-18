@@ -14,3 +14,12 @@
 /obratnyy-zvonok.php
 /obratnyy-zvonok
 /recall/?ajax_call=
+/zakazat-zvonok.html
+/zakazat-zvonok.htm
+/zakazat-zvonok.php
+/zakazat-zvonok
+/zvonok.htm
+/zvonok.html
+/zvonok.php
+/zvonok.aspx
+/zvonok
