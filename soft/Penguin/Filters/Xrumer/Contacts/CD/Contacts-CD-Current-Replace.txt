@@ -1,0 +1,9 @@
+"|{br2}
+'|{br2}
+/sendmessage.php{skip}|/sendmessage.php
+/shop_contact.php{skip}|/shop_contact.php
+/spip.php?page=contact{skip}|/spip.php?page=contact
+/store-contact.php{skip}|/store-contact.php
+re:\/submitticket\.php.*|\/submitticket\.php
+re:\/suggest\.php.*|\/suggest\.php
+re:\/treatments\/.*|\/treatments
