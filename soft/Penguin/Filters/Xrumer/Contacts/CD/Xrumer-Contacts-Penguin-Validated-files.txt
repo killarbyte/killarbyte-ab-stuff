@@ -506,3 +506,9 @@
 /wcontact.php:=contacts.txt
 
 /website.contactus:=contacts.txt
+
+/wfcontactme.aspx:=contacts.txt
+
+/write.html:=contacts.txt
+/write.php:=contacts.txt
+/write:=contacts.txt
