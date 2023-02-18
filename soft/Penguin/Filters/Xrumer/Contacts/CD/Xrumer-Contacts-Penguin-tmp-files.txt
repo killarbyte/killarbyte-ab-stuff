@@ -1,14 +1,3 @@
-
-/write-me.html:=contacts.txt
-/writeme.php:=contacts.txt
-/write-to-us:=contacts.txt
-/write-us:=contacts.txt
-/wxcontact.php:=contacts.txt
-/zadat_vopros:=contacts.txt
-/zadat_vopros.htm:=contacts.txt
-/zadat_vopros.html:=contacts.txt
-/zadat_vopros.php:=contacts.txt
-/zadat-vopros:=contacts.txt
 /zakaz:=contacts.txt
 /zakaz.asp:=contacts.txt
 /zakaz.cgi:=contacts.txt
