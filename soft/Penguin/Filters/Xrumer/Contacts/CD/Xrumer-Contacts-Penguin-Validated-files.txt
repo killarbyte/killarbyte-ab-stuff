@@ -512,3 +512,10 @@
 /write.html:=contacts.txt
 /write.php:=contacts.txt
 /write:=contacts.txt
+
+/write_to_me.php:=contacts.txt
+
+/write_us.php:=contacts.txt
+/write_us:=contacts.txt
+
+/write-for-us:=contacts.txt

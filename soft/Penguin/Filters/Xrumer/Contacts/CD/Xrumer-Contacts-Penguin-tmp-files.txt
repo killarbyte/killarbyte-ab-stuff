@@ -1,8 +1,4 @@
 
-
-/write_to_me.php:=contacts.txt
-/write_us:=contacts.txt
-/write-for-us:=contacts.txt
 /write-me.html:=contacts.txt
 /writeme.php:=contacts.txt
 /write-to-us:=contacts.txt
