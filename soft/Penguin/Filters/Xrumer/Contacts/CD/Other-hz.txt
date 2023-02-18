@@ -2,67 +2,27 @@
 /address.html:=contacts.txt
 /address.php:=contacts.txt
 
-/application:=contacts.txt
-/application.aspx:=contacts.txt
-/application.html:=contacts.txt
-/application.php:=contacts.txt
-
 /#contacts:=contacts.txt
 /#contact-form:=contacts.txt
 /#contact:=contacts.txt
 #contact:=contacts.txt
 
 /connection.aspx:=contacts.txt
-/connect.php:=contacts.txt
-/connect.html:=contacts.txt
-/connect.htm:=contacts.txt
-/connect:=contacts.txt
-
-/cont.asp:=contacts.txt
-/cont.htm:=contacts.txt
-/cont.html:=contacts.txt
-/cont.php:=contacts.txt
-/cont.phtml:=contacts.txt
-
 /cont_kontakt.php:=contacts.txt
 /-contact-.html:=contacts.txt
-
 /content_contact.html:=contacts.txt
 /eventcontact.aspx:=contacts.txt
-
-/about/connect:=contacts.txt
 /aboutcontact.aspx:=contacts.txt
 /about--contact.html:=contacts.txt
-
-/about-us/:=contacts.txt
-
 /faleconosco:=contacts.txt
-
-/?option=com_k2
-
-/index.php?route=product/isitestimonial/success:=contacts.txt
-
 /info-kontakt.html:=contacts.txt
-
 
 
 /06-18/js/callback/feedback.php
 
-
-/new.html:=contacts.txt
-
-/orders.html:=contacts.txt
-/orders.htm:=contacts.txt
-/orders.htm:=contacts.txt
-/orders.php:=contacts.txt
-
-/pages/about-us:=contacts.txt
-
 /ps-contact.aspx:=contacts.txt
-
 /s_contact.asp:=contacts.txt
-
 /usercontacts.html:=contacts.txt
 
 
-
+/?option=com_k2:=contacts.txt
