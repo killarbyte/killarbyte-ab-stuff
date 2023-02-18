@@ -548,3 +548,14 @@
 /zadat-vopros.htm:=contacts.txt
 /zadat-vopros.php:=contacts.txt
 /zadat-vopros:=contacts.txt
+
+
+/zakaz.aspx:=contacts.txt
+/zakaz.asp:=contacts.txt
+/zakaz.cgi:=contacts.txt
+/zakaz.htm:=contacts.txt
+/zakaz.html:=contacts.txt
+/zakaz.php:=contacts.txt
+/zakaz.phtml:=contacts.txt
+/zakaz.shtml:=contacts.txt
+/zakaz:=contacts.txt

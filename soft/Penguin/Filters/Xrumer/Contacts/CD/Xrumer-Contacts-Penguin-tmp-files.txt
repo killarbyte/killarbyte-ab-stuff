@@ -1,12 +1,3 @@
-/zakaz:=contacts.txt
-/zakaz.asp:=contacts.txt
-/zakaz.cgi:=contacts.txt
-/zakaz.htm:=contacts.txt
-/zakaz.html:=contacts.txt
-/zakaz.php:=contacts.txt
-/zakaz.phtml:=contacts.txt
-/zakaz.shtml:=contacts.txt
-/zakaz/:=contacts.txt
 /zakazat:=contacts.txt
 /zakazat.html:=contacts.txt
 /zakazat.php:=contacts.txt
