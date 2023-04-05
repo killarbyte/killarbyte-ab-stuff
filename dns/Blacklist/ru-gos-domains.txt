@@ -68,7 +68,7 @@
 ||gks.ru^
 ||gosnadzor.ru^
 ||gost.ru^
-||gosuslugi.ru^
+!#||gosuslugi.ru^
 ||gov39.ru^
 ||gov-murman.ru^
 ||gsen.ru^
