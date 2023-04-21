@@ -1,4 +1,7 @@
-﻿//Генерация UNIXTIME
+﻿﻿//Генерация UNIXTIME
 
 int unixTime = (int)(DateTime.UtcNow - new DateTime(1970, 1, 1)).TotalSeconds;
 return unixTime;
+
+//либо вот так выводим сразу в переменную
+//project.Variables["reg_lastvisit"].Value = unixTime.ToString();
