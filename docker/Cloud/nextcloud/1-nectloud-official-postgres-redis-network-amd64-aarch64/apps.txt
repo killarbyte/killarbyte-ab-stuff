@@ -1,0 +1,124 @@
+Отобразить список плагинов
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:list
+
+
+
+
+##################################
+### ОТКЛЮЧАЕМ НЕНУЖНЫЕ ПЛАГИНЫ ###
+##################################
+
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable activity
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable support
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable federation
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable circles
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable nextcloud_announcements
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable weather_status
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable user_status
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable survey_client
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable updatenotification
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable sharebymail
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:disable notifications
+
+
+################################
+### УДАЛЯЕМ НЕНУЖНЫЕ ПЛАГИНЫ ###
+################################
+
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
+
+
+
+
+
+
+
+#############################
+### СТАВИМ НУЖНЫЕ ПЛАГИНЫ ###
+#############################
+
+
+100% stavim
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install unroundedcorners
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install checksum
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install groupfolders
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install metadata
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_mindmap
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install apporder
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install breezedark
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install calendar
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install event_update_notification
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install bookmarks
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install fulltextsearch
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_fulltextsearch
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install passwords
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install announcementcenter
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+
+
+
+
+inogda vse feilitsa esli postavit ego
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install previewgenerator
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install flowupload
+
+
+
+
+hz
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install analytics
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install webhooks
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install audioplayer
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install music
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install memories
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install news
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_reader
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_retention
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_lock
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install carnet
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install notes
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install quicknotes
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install deck
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install mail
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install snappymail
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install tables
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install tasks
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install cookbook
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install cospend
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install geoblocker
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install secrets
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install webapppassword
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install passman
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install riotchat
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install listman
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install maps
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install cfg_share_links
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install drawio
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install impersonate
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install ncdownloader
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install ocdownloader
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install money
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install sharerenamer
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+
+
+
+
+
