@@ -12,6 +12,7 @@ services:
       # - REDIS_HOST_PASSWORD=YOURREDISPASSWORD
     volumes:
       - ./nextcloud/apps:/var/www/html/apps
+      - ./nextcloud/custom_apps:/var/www/html/custom_apps
       - ./nextcloud/config:/var/www/html/config
       - ./nextcloud/data:/var/www/html/data
       - ./nextcloud.ini:/usr/local/etc/php/conf.d/nextcloud.ini
