@@ -46,7 +46,6 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 #############################
 
 
-100% stavim
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install unroundedcorners
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install checksum
@@ -71,14 +70,20 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 
 
 
-inogda vse feilitsa esli postavit ego
+####################################
+### СТАВИМ НЕ СТАБИЛЬНЫЕ ПЛАГИНЫ ###
+####################################
+
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install previewgenerator
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install flowupload
 
 
 
 
-hz
+################################
+### СТАВИМ ОСТАЛЬНЫЕ ПЛАГИНЫ ###
+################################
+
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install analytics
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install webhooks
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install audioplayer
