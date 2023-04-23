@@ -31,13 +31,6 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:remove contacts
 
 
 
@@ -63,6 +56,7 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install fulltextsearch
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_fulltextsearch
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install passwords
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install secrets
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install announcementcenter
 
 
@@ -98,7 +92,6 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install tasks
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install cospend
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install geoblocker
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install secrets
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install webapppassword
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install passman
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install riotchat
