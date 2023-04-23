@@ -56,7 +56,6 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install metadata
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_mindmap
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install apporder
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install breezedark
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install calendar
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install event_update_notification
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install bookmarks
@@ -64,11 +63,7 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_fulltextsearch
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install passwords
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install announcementcenter
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+
 
 
 
@@ -92,7 +87,6 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install audioplayer
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install music
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install memories
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install news
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_reader
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_retention
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_lock
@@ -120,11 +114,8 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install ocdownloader
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install money
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install sharerenamer
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install contacts
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install news
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install breezedark
 
 
 
