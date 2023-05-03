@@ -1,0 +1,8 @@
+https://stackoverflow.com/questions/5698981/insert-command-denied-in-mysql/5699061#5699061
+GRANT ALL PRIVILEGES ON database_name.* TO 'username'@'localhost';
+GRANT ALL PRIVILEGES ON zsrv-asterios.tm.* TO 'worker'@'localhost';
+
+
+https://chartio.com/resources/tutorials/how-to-grant-all-privileges-on-a-database-in-mysql/
+GRANT ALL PRIVILEGES ON *.* TO 'tolkien'@'%';
+GRANT ALL PRIVILEGES ON *.* TO 'worker'@'%';
