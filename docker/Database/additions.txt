@@ -5,4 +5,7 @@ GRANT ALL PRIVILEGES ON zsrv-asterios.tm.* TO 'worker'@'localhost';
 
 https://chartio.com/resources/tutorials/how-to-grant-all-privileges-on-a-database-in-mysql/
 GRANT ALL PRIVILEGES ON *.* TO 'tolkien'@'%';
+FLUSH PRIVILEGES;
+
 GRANT ALL PRIVILEGES ON *.* TO 'worker'@'%';
+FLUSH PRIVILEGES;
