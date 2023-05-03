@@ -57,7 +57,6 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_fulltextsearch
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install passwords
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install secrets
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install announcementcenter
 
 
 
@@ -77,6 +76,7 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 ### СТАВИМ ОСТАЛЬНЫЕ ПЛАГИНЫ ###
 ################################
 
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install announcementcenter
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install analytics
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install webhooks
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install files_reader
@@ -89,7 +89,6 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install mail
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install snappymail
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install tables
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install tasks
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install cospend
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install geoblocker
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install webapppassword
@@ -99,10 +98,9 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install cfg_share_links
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install drawio
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install impersonate
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install ncdownloader
-sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install ocdownloader
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install money
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install sharerenamer
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install tasks
 
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install memories
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install news
@@ -111,6 +109,8 @@ sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install music
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install maps
 sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install cookbook
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install ncdownloader
+sudo /usr/bin/docker exec -u www-data nextcloud-23 php -f /var/www/html/occ app:install ocdownloader
 
 
 
