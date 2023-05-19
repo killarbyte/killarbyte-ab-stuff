@@ -1,0 +1,1 @@
+https://challenges.cloudflare.com/[...]/api.js
