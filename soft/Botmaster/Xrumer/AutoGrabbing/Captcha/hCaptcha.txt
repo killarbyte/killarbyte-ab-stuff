@@ -1,0 +1,3 @@
+https://www.hCaptcha.com/[...]/api.js
+hcaptcha.com/[...]/api.js
+hCaptcha.com/[...]/api.js
