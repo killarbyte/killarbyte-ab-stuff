@@ -1,0 +1,2 @@
+projecthoneypot.org[...]serve.php
+dnsbl[...]httpbl.org
