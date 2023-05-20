@@ -1,0 +1,17 @@
+//загрузка рекламы
+instance.UseAdds = false;
+
+//загрузка картинок
+instance.LoadPictures = true;
+
+//загрузка медиа audio & video
+instance.UseMedia = false;
+
+//загрузка стилей css
+instance.UseCSS = true;
+
+//загрузка фреймов (iframe)
+instance.DownloadFrame = true;
+
+//блокировка всплывающих окон вкл
+instance.AllowPopUp = false;
