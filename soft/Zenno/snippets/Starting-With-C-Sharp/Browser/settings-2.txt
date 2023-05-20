@@ -1,0 +1,8 @@
+//javascript вкл
+instance.UseJavaScripts = true;
+
+//flash, java, silverlight плагины вкл
+instance.UsePlugins = true;
+
+//загрузка плагинов в том же окне
+instance.UsePluginsForceWmode = true;
