@@ -1,0 +1,11 @@
+//игнорировать Ajax запросы
+instance.IgnoreAjaxRequests = false;
+
+//игнорировать дополнительные get post запросы
+instance.IgnoreAdditionalRequests = false;
+
+//игнорировать Frame запросы
+instance.IgnoreFrameRequests = false;
+
+//игнорировать Flash запросы
+instance.IgnoreFlashRequests = true;
