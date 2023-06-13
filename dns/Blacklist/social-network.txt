@@ -11,4 +11,3 @@
 ||twitter.com^
 ||tiktok.com^
 ||reddit.com^
-||mradx.net^
