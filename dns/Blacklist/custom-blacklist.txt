@@ -5,4 +5,4 @@
 !#
 !#
 ||mradx.net^$important
-||https://r.mradx.net/^$important
+||r.mradx.net/^$important
