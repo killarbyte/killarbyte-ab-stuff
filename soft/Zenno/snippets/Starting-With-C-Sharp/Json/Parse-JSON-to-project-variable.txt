@@ -1,0 +1,21 @@
+﻿//парсим значение переменной Json.postcode почтовый индекс
+//если значение пустое или нет в самом json не содержится такой элемент то в переменную postcode записываем empty
+//если значение не пустое, то присваиваем его значение переменной postcode
+
+try
+{
+    var postcode = project.Json.postcode.ToString();
+
+    if (string.IsNullOrEmpty(postcode))
+    {
+        project.Variables["postcode"].Value = "empty";
+    }
+    else
+    {
+        project.Variables["postcode"].Value = postcode;
+    }
+}
+catch (Microsoft.CSharp.RuntimeBinder.RuntimeBinderException)
+{
+    project.Variables["postcode"].Value = "empty";
+}
