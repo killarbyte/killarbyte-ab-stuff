@@ -1,0 +1,26 @@
+﻿//очищаем переменную перед использованием
+project.Variables["now"].Value = "";
+
+//счётчик
+var counter = project.Variables["counter"].Value;
+
+// Преобразем значение счётчика в целое число (если необходимо)
+int index = int.Parse(counter);
+
+try
+{
+    var postcode = project.Json[0][0].contacts[index].type.ToString();
+
+    if (string.IsNullOrEmpty(postcode))
+    {
+        project.Variables["now"].Value = "empty";
+    }
+    else
+    {
+        project.Variables["now"].Value = postcode;
+    }
+}
+catch (Microsoft.CSharp.RuntimeBinder.RuntimeBinderException)
+{
+    project.Variables["now"].Value = "empty";
+}
