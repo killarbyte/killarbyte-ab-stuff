@@ -1,26 +1,33 @@
-version: "3.1"
+version: '3.1'
 
 services:
+
   wordpress:
-    image: wordpress
+    image: wordpress:6.2.2
+    container_name: wordpress-name
     restart: always
     ports:
-      - 12563:80
+      - 8080:80
     environment:
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_USER: exampleuser
       WORDPRESS_DB_PASSWORD: examplepass
       WORDPRESS_DB_NAME: exampledb
     volumes:
-      - ./wordpress/data:/var/www/html
+      - ./html:/var/www/html
 
   db:
-    image: mariadb:10.5.12-focal
+    image: mysql:5.7
+    container_name: wordpress-name-db
     restart: always
     environment:
       MYSQL_DATABASE: exampledb
       MYSQL_USER: exampleuser
       MYSQL_PASSWORD: examplepass
-      MYSQL_RANDOM_ROOT_PASSWORD: "1"
+      MYSQL_RANDOM_ROOT_PASSWORD: '1'
     volumes:
-      - ./db:/var/lib/mysql
+      - ./mysql:/var/lib/mysql
+
+volumes:
+  wordpress:
+  db:

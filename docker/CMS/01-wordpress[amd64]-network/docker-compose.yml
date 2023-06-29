@@ -1,0 +1,44 @@
+# docker-compose.yml
+# https://robgg.hashnode.dev/wordpress-docker-nginx-proxy-manager-cloudfare
+
+version: '3.1'
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: wordpress-name-db
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      MYSQL_DATABASE: awesomewp
+      MYSQL_USER: ${USER}
+      MYSQL_PASSWORD: ${PASS}
+      MYSQL_ROOT_PASSWORD: ${PASS}
+    volumes:
+      - ./mysql:/var/lib/mysql
+#    networks:
+#      - default
+
+  wordpress:
+    depends_on:
+      - db
+    ports:
+      - "5000:80"
+    image: wordpress
+    container_name: wordpress-name
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: ${USER}
+      WORDPRESS_DB_PASSWORD: ${PASS}
+      WORDPRESS_DB_NAME: awesomewp
+    volumes:
+      - ./html:/var/www/html
+#    networks:
+#      - default
+
+#networks:
+#  default:
+#    external: true
+#    name: evilcorp

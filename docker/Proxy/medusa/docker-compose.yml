@@ -1,0 +1,23 @@
+version: "3"
+
+services:
+  socks5_ipv4:
+    image: datawookie/medusa-proxy
+    container_name: medusa-proxy
+    restart: unless-stopped
+    ports:
+      - 8800:8800
+      - 2090:2090
+      - 8888:8888
+      - 1080:1080
+    environment:
+      - HEADS=4
+      - TORS=4
+      - IP_CHANGE_SECONDS=180
+      - HAPROXY_LOGIN=YOURUSER
+      - HAPROXY_PASSWORD=YOURPASSWORD
+#      - LOG_NOTICE_TARGET=
+#      - EXIT_NODE=
+#      - ExcludeExitNodes={ua}
+    security_opt:
+      - no-new-privileges:true
