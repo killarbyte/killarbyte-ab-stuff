@@ -43,13 +43,14 @@ proxies = [
 # Имя контейнера в docker-compose для перезагрузки
 container_name = "medusa-proxy"
 
-test_token = "YOUR_TEST_TOKEN"
-chat_id = "YOUR_CHAT_ID"
-topic_id = "YOUR_TOPIC_ID"
+bot_token = "YOUR_TOKEN"
+chat_id = "YOUR_CHATID"
+topic_id = "YOUR_TOPICID"
 
 if not check_urls(urls, proxies):
     print("Не удалось открыть несколько проверочных ссылок через несколько прокси, перезагрузка контейнера...")
-    url = f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&reply_to_message_id={topic_id}&text=test"
+    error_text = "Возникла ошибка при проверке ссылок через прокси."
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&reply_to_message_id={topic_id}&text={error_text}"
     requests.get(url)
     
     if restart_docker_container(container_name):
