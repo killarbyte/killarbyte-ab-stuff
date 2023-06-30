@@ -46,6 +46,7 @@ container_name = "medusa-proxy"
 bot_token = "YOUR_TOKEN"
 chat_id = "YOUR_CHATID"
 topic_id = "YOUR_TOPICID"
+myserver_id = "YOUR_SERVERID"
 
 error_check_urls = "Возникла ошибка при проверке ссылок через прокси."
 error_restart_container = "Ошибка при перезагрузке контейнера."
@@ -53,16 +54,16 @@ info_restart_container = "Контейнер успешно перезагруж
 
 if not check_urls(urls, proxies):
     print(error_check_urls)
-    url = f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&reply_to_message_id={topic_id}&text={error_check_urls}"
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&reply_to_message_id={topic_id}&text={error_check_urls} {myserver_id}"
     requests.get(url)
     
     if restart_docker_container(container_name):
         print("Контейнер успешно перезагружен.")
-        url = f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&reply_to_message_id={topic_id}&text={info_restart_container}"
+        url = f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&reply_to_message_id={topic_id}&text={info_restart_container} {myserver_id}"
         requests.get(url)
     else:
         print(error_restart_container)
-        url = f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&reply_to_message_id={topic_id}&text={error_restart_container}"
+        url = f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&reply_to_message_id={topic_id}&text={error_restart_container} {myserver_id}"
         requests.get(url)
 else:
     print("Все проверочные ссылки успешно открыты.")
