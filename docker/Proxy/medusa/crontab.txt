@@ -1,0 +1,2 @@
+# check medusa is running
+*/7 * * * * cd /app/proxy/medusa-proxy && python3 medusa-check.py
