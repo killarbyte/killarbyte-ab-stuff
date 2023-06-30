@@ -1,7 +1,7 @@
 version: "3"
 
 services:
-  socks5_ipv4:
+  medusa-proxy:
     image: datawookie/medusa-proxy
     container_name: medusa-proxy
     restart: unless-stopped
