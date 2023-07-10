@@ -4,5 +4,8 @@
 @@||adminapi.org^$important
 @@||dwld.org^$important
 @@||zennolab.com^$important
+@@||zenno.services^$important
+@@||zenno.io^$important
+@@||zenno.tips^$important
 @@||contentdownloader.ru^$important
 @@||linksspider.com^$important
