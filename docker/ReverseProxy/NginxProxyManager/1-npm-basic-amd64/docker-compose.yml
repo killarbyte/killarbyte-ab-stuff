@@ -22,7 +22,8 @@ services:
       - ./letsencrypt:/etc/letsencrypt
 
   db:
-    image: 'jc21/mariadb-aria:latest'
+    image: 'mariadb:latest'
+#    image: 'jc21/mariadb-aria:latest'
     container_name: nginx-proxy-manager-db
     restart: unless-stopped
     environment:
