@@ -19,6 +19,10 @@ services:
       - IP_CHANGE_SECONDS=180
       - HAPROXY_LOGIN=YOURUSER
       - HAPROXY_PASSWORD=YOURPASSWORD
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
 #      - LOG_NOTICE_TARGET=
 #      - EXIT_NODE=
 #      - ExcludeExitNodes={ua}
