@@ -1,0 +1,6 @@
+# show logs
+watch -n 60 'sudo docker logs containername >> logs.txt'
+
+
+# grab ips
+awk -F'"' '{print $(NF-1)}' logs.txt | cut -d "," -f1 | sort -u
