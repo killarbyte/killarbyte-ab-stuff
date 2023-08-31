@@ -1,0 +1,26 @@
+﻿//Генерация UNIXTIME из заданного времени
+
+// переменная со временем
+var datestr = project.Variables["tmp"].Value;
+
+// Исходное время в формате "часы:минуты:секунды"
+///string timeString = "12:17:50";
+string timeString = datestr;
+
+// Парсинг строки времени
+TimeSpan timeSpan = TimeSpan.Parse(timeString);
+
+// Эпоха Unix начинается 1 января 1970 года
+DateTime unixEpoch = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
+
+// Создаем полную дату, сочетая дату эпохи Unix и время из строки
+DateTime dateTime = unixEpoch.Add(timeSpan);
+
+// Вычисляем разницу между исходным временем и эпохой Unix в секундах
+long unixTime = (long)(dateTime - unixEpoch).TotalSeconds;
+
+// вывод unixtime
+//return unixTime;
+
+//либо вот так выводим сразу в переменную
+project.Variables["unixTimeNew"].Value = unixTime.ToString();

@@ -1,0 +1,5 @@
+﻿//Добавить значение UNIXTIME к другому UNIXTIME. Комбинируется со сниппетом генерации unixtime например когда нужно проголосовать где то, а там есть сообщение что голосование будет доступно через какое то время
+
+UPDATE `{-Variable.cfg_MainDB_tableName-}`.`registration`
+SET last_voted = last_voted + {-Variable.unixTimeNew-}
+WHERE nickname = "{-Variable.mmotop_nickname-}";
