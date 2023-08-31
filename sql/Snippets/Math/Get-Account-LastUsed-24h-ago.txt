@@ -1,0 +1,10 @@
+﻿//Взять 1 аккаунт на основе столбца last_voted, который не использовался более суток (86400 секунд) + дополнительные фильтры.
+
+SELECT *
+FROM `z-asterios.tm--phoenix`.`alldata`
+WHERE activated = 'yes'
+  AND status = 'ready'
+  AND profiled = 'yes'
+  AND banned != 'yes'
+  AND UNIX_TIMESTAMP() - last_voted >= 86400
+LIMIT 1;
