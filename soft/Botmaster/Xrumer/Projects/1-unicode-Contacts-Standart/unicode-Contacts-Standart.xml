@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XRumerProject>
+  <PrimarySection>
+    <ProjectName>unicode-Contacts-Standart</ProjectName>
+    <ProjectFormat>UNICODE</ProjectFormat>
+    <NickName>#file_links_a[projects\project-data\current\NickNames.txt,1,NP]</NickName>
+    <RealName>#file_links_a[projects\project-data\current\NickNames.txt,1,NP]SL</RealName>
+    <Password>PASsWORD123!</Password>
+    <EmailAddress>#file_links_a[projects\project-data\current\EmailAddress.txt,1,np]</EmailAddress>
+    <EmailPassword>#file_links_c[Projects\project-data\current\EmailPassword.txt,1,NP]</EmailPassword>
+    <EmailLogin>#file_links_d[Projects\project-data\current\EmailLogin.txt,1,NP]</EmailLogin>
+    <EmailPOP>#file_links_h[Projects\project-data\current\EmailPOP.txt,1,NP]</EmailPOP>
+    <Homepage>#file_links_e[Projects\project-data\current\UrlsList.txt,1,NP]</Homepage>
+    <ICQ>#file_links_f[Projects\project-data\current\Phones.txt,1,NP]</ICQ>
+    <City></City>
+    <Country></Country>
+    <Occupation></Occupation>
+    <Interests></Interests>
+    <Signature></Signature>
+    <Gender>0</Gender>
+    <UnknownFields></UnknownFields>
+    <PollTitle></PollTitle>
+    <PollOption1></PollOption1>
+    <PollOption2></PollOption2>
+    <PollOption3></PollOption3>
+    <PollOption4></PollOption4>
+    <PollOption5></PollOption5>
+  </PrimarySection>
+  <SecondarySection>
+    <Subject1>#file_links_g[Projects\project-data\current\Subject.txt,1,NP]</Subject1>
+    <Subject2></Subject2>
+    <PostText>#file="Projects\project-data\current\{m1|m2|m3|m4|m5|m6|m7|m8|m9|m10}.txt"
+</PostText>
+    <Prior>услуги
+разное
+другое
+прочее
+--новая категория--
+послуги
+різний
+інше</Prior>
+    <OnlyPriors>false</OnlyPriors>
+  </SecondarySection>
+</XRumerProject>

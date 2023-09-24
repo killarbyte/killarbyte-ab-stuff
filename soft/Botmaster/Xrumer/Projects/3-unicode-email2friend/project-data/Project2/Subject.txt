@@ -1,0 +1,1 @@
+{subject1|subject2|subject3|subject4|subject5|subject6}

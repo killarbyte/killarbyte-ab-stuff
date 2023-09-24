@@ -1,4 +1,0 @@
-https://google.com
-https://yandex.com
-https://microsoft.com
-https://oracle.com

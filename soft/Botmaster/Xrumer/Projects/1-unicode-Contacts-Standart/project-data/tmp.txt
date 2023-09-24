@@ -1,0 +1,17 @@
+#file_links_a[projects\project-data\current\NickNames.txt,1,NP]
+
+#file_links_a[projects\project-data\current\EmailAddress.txt,1,np]
+
+#file_links_c[Projects\project-data\current\EmailPassword.txt,1,NP]
+
+#file_links_d[Projects\project-data\current\EmailLogin.txt,1,NP]
+
+#file_links_h[Projects\project-data\current\EmailPOP.txt,1,NP]
+
+#file_links_e[Projects\project-data\current\UrlsList.txt,1,NP]
+
+#file_links_f[Projects\project-data\current\Phones.txt,1,NP]
+
+#file_links_g[Projects\project-data\current\Subject.txt,1,NP]
+
+#file="Projects\project-data\current\{m1|m2|m3|m4|m5|m6|m7|m8|m9|m10}.txt"
