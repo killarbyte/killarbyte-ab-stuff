@@ -1,0 +1,14 @@
+﻿//Парсим строку из фаила в переменную
+
+//Очистка переменных
+project.Variables["tmp"].Value = "";
+
+//Переменная с путём к фаилу
+var path = project.Variables["yourFilePath"].Value;
+
+
+//выводим значение в переменную
+project.Variables["tmp"].Value = Macros.FileSystem.FileGetLine(path,"0",false);
+
+//можно вывести не первую строку а случайную
+//project.Variables["tmp"].Value = Macros.FileSystem.FileGetLine(path,"random",false);

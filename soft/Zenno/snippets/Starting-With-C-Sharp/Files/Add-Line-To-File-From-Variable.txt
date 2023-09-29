@@ -1,0 +1,12 @@
+﻿//Добавляем строку в самое начало фаила
+
+//Переменная с путём к фаилу
+string filePath = project.Variables["yourFilePath"].Value;
+
+//Добавляемый текст
+string newLine = "URL;Company Name;poi_category;Country;City;Living Area;District;Address Name;Street;House;Address Comment;Postcode;City Alias;Phone;Website;Email;Whatsapp;Telegram;Viber;Vkontakte;Odnoklassniki;Youtube;Twitter;Pinterest";
+
+string fileContent = File.ReadAllText(filePath);
+string updatedContent = newLine + Environment.NewLine + fileContent;
+
+File.WriteAllText(filePath, updatedContent);
