@@ -5,5 +5,5 @@
     userip = ip;
   }
 </script>
-<script async src="https://api64.ipify.org?format=jsonp&callback=setUserIP" type="text/javascript"></script>
+<script async src="https://api64.ipify.org?format=jsonp&amp;callback=setUserIP" type="text/javascript"></script>
 <!-- /Detect IP -->
