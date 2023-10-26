@@ -1,0 +1,9 @@
+<!-- Получаем IP-адрес -->
+<script type='text/javascript'>
+  var userip;
+  function setUserIP(ip) {
+    userip = ip;
+    // Ваш код для отправки в Яндекс.Метрику с использованием userip
+  }
+</script>
+<script src='https://api64.ipify.org?format=jsonp&amp;callback=setUserIP' type='text/javascript'/>
