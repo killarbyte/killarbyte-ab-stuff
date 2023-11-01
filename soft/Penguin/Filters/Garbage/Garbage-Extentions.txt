@@ -3,10 +3,16 @@
 \.jpg$:=Garbage-Extentions.txt
 \.jpeg$:=Garbage-Extentions.txt
 \.gif$:=Garbage-Extentions.txt
+\.ico$:=Garbage-Extentions.txt
 \.webp$:=Garbage-Extentions.txt
+\.svg$:=Garbage-Extentions.txt
 \.doc$:=Garbage-Extentions.txt
 \.txt$:=Garbage-Extentions.txt
 \.csv$:=Garbage-Extentions.txt
 \.xlsx$:=Garbage-Extentions.txt
 \.zip$:=Garbage-Extentions.txt
 \.rar$:=Garbage-Extentions.txt
+\.js$:=Garbage-Extentions.txt
+\.css$:=Garbage-Extentions.txt
+\.ttf$:=Garbage-Extentions.txt
+\.woff$:=Garbage-Extentions.txt

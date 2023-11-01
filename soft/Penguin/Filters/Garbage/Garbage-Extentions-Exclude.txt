@@ -3,10 +3,16 @@
 \.jpg$
 \.jpeg$
 \.gif$
+\.ico$
 \.webp$
+\.svg$
 \.doc$
 \.txt$
 \.csv$
 \.xlsx$
 \.zip$
 \.rar$
+\.js$
+\.css$
+\.ttf$
+\.woff$
