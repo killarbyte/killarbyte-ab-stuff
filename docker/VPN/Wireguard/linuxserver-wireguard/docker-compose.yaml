@@ -10,13 +10,13 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/Netherlands
-      - SERVERURL=auto #optional wireguard.domain.com
-      - SERVERPORT=51820 #optional
+      - SERVERURL=auto # wireguard.domain.com
+      - SERVERPORT=51820
       - PEERS=1 #optional
-      - PEERDNS=auto #optional
+      - PEERDNS=auto # auto 
       - INTERNAL_SUBNET=10.13.13.0 #optional
       - ALLOWEDIPS=0.0.0.0/0 #optional
-      - PERSISTENTKEEPALIVE_PEERS=25 #optional
+      - PERSISTENTKEEPALIVE_PEERS=all #optional 1,4,laptop
       - LOG_CONFS=false #optional
     volumes:
       - /app/vpn/wireguard/config:/config
