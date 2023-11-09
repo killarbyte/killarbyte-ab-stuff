@@ -16,7 +16,7 @@ services:
       - PEERDNS=auto #optional
       - INTERNAL_SUBNET=10.13.13.0 #optional
       - ALLOWEDIPS=0.0.0.0/0 #optional
-      - PERSISTENTKEEPALIVE_PEERS= 25 #optional
+      - PERSISTENTKEEPALIVE_PEERS=25 #optional
       - LOG_CONFS=false #optional
     volumes:
       - /app/vpn/wireguard/config:/config
