@@ -12,8 +12,8 @@ services:
       - TZ=Europe/Netherlands
       - SERVERURL=auto # wireguard.domain.com
       - SERVERPORT=51820
-      - PEERS=1 #optional
-      - PEERDNS=auto # auto 
+      - PEERS=1 
+      - PEERDNS=auto # auto 1.1.1.1
       - INTERNAL_SUBNET=10.13.13.0 #optional
       - ALLOWEDIPS=0.0.0.0/0 #optional
       - PERSISTENTKEEPALIVE_PEERS=all #optional 1,4,laptop
