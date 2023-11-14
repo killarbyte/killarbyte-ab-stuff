@@ -13,6 +13,9 @@
 \.zip$
 \.rar$
 \.js$
+\.js\?
 \.css$
+\.css\?
 \.ttf$
 \.woff$
+\.cab$

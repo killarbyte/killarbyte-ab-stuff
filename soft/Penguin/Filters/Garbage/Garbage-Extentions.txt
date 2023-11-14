@@ -13,6 +13,9 @@
 \.zip$:=Garbage-Extentions.txt
 \.rar$:=Garbage-Extentions.txt
 \.js$:=Garbage-Extentions.txt
+\.js\?:=Garbage-Extentions.txt
 \.css$:=Garbage-Extentions.txt
+\.css\?:=Garbage-Extentions.txt
 \.ttf$:=Garbage-Extentions.txt
 \.woff$:=Garbage-Extentions.txt
+\.cab$:=Garbage-Extentions.txt
