@@ -1,3 +1,1 @@
-signature
-signature2
-signature3
+[url=#file_links[Projects\project-data\current\SignatureLink.txt,1,NP]]#file_links[Projects\project-data\current\SignatureKeywords.txt,1,NP][/url]
