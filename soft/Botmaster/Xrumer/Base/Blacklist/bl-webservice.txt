@@ -1,4 +1,7 @@
-vk\.com
+t\.me\/
+wa\.me\/
+vk\.com\/
+ok\.ru\/
 facebook\.com
 youtube\.com
 youtu\.be
@@ -15,3 +18,4 @@ steampowered\.com
 bing\.com
 mail\.ru
 etsy\.com
+stackoverflow\.com
