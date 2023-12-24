@@ -26,3 +26,4 @@
 ||telegram.org^
 ||discord.com^
 ||discord.gg^
+||icq.com^

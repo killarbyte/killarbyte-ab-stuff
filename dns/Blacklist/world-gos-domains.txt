@@ -10,3 +10,4 @@
 ||loc.gov^
 ||texas.gov^
 ||usgs.gov^
+||law.ch^
