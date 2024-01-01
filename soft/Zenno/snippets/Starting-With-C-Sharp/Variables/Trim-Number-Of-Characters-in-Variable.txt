@@ -1,0 +1,4 @@
+﻿//Обрезаем количество символов в переменной
+
+var yourText = project.Variables["tmp"].Value;
+return yourText.Substring(0,15);

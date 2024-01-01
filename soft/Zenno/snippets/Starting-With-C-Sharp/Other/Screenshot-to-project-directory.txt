@@ -1,0 +1,10 @@
+﻿//Скриншот экрана в директорию проекта
+
+string directory = project.Directory;
+string file =@directory+@"\screen.jpg"; //куда сохраняем
+Bitmap bitmap = new Bitmap(200, 200); //ширина и высота
+Graphics graphics = Graphics.FromImage(bitmap); //создали поверхность для рисования
+graphics.CopyFromScreen(0, 0, 0, 0, bitmap.Size); // создание скриншота
+bitmap.Save(file, System.Drawing.Imaging.ImageFormat.Jpeg); //формат файла можно изменить
+bitmap.Dispose();
+graphics.Dispose();
