@@ -1,0 +1,4 @@
+﻿//Скрыть и показать окно браузера (инстанс)
+
+ZennoPoster.HideInstance(instance.Url, instance.Port, instance.Address);
+ZennoPoster.ShowInstance(instance.Url, instance.Port, instance.Address);
