@@ -1,0 +1,11 @@
+﻿//Получаем значение "Сколько делать". Причём это число не может быть больше чем значение "Максимум потоков"
+
+var tasksList = new List<string>(ZennoPoster.TasksList);
+var id = new Guid(project.TaskId);
+for (int i=0; i<tasksList.Count; i++) {
+   if (tasksList[i].Contains("<Id>"+id +"</Id>")) {
+     int NumberOfTries = Convert.ToInt32(Regex.Match(tasksList[i], @"(?<=NumberOfTries>)\d+(?=</NumberOfTries>)").Value);
+     int LimitOfThreads = Convert.ToInt32(Regex.Match(tasksList[i], @"(?<=LimitOfThreads>)\d+(?=</LimitOfThreads>)").Value);
+     if (NumberOfTries>LimitOfThreads) {return LimitOfThreads.ToString();} else {return NumberOfTries.ToString();}
+   }
+}
