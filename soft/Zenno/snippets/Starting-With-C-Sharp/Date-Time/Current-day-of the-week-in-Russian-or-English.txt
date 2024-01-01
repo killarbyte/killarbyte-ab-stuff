@@ -1,0 +1,4 @@
+﻿//Сохраняем в переменную текущий день недели на русском и английском
+
+//return System.Globalization.CultureInfo.GetCultureInfo("en-EN").DateTimeFormat.GetDayName(DateTime.Now.DayOfWeek);
+return System.Globalization.CultureInfo.GetCultureInfo("ru-RU").DateTimeFormat.GetDayName(DateTime.Now.DayOfWeek);
