@@ -1,0 +1,7 @@
+﻿//Beep (сигнал-пищалка) и системные звуки
+
+Console.Beep(440, 500); //Бип. Первое число - высота звука в герцах, второе - длительность в миллисекундах.
+System.Threading.Thread.Sleep(500); //из-за корявости Зенки нужна пауза (мс), иначе сработает только Beep
+System.Media.SystemSounds.Exclamation.Play();
+System.Threading.Thread.Sleep(500);
+System.Media.SystemSounds.Hand.Play();
