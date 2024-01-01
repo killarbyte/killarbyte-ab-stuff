@@ -1,0 +1,6 @@
+﻿//Ставим 0 выполнений и нажимаем кнопку СТОП
+
+var id = Guid.Parse(project.TaskId);
+ZennoPoster.SetTries(id, 0);
+
+ZennoPoster.StopTask(Guid.Parse(project.TaskId));
