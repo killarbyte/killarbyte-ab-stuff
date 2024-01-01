@@ -1,0 +1,4 @@
+﻿//Случайная (рандомная) пауза от ... до ... миллисекунд
+
+Random rnd = new Random();
+System.Threading.Thread.Sleep(rnd.Next(1, 10));
