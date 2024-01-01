@@ -1,0 +1,30 @@
+﻿//Установить или увеличить кол-во потоков и выполнений. Love_vk заменить на имя своего шаблона.
+
+if (project.Variables["tmp"].Value == "True")
+	//установить кол-во потоков Threads
+        {
+            var zppath = Environment.ExpandEnvironmentVariables("%ZennoPosterCurrentPath%");
+            var p = System.Diagnostics.Process.Start(zppath+"\\TasksRunner.exe", "-o SetThreads 1 -names Love_vk");
+            p.WaitForExit();
+        }
+
+	//установить кол-во выполнений Tries
+		{
+            var zppath = Environment.ExpandEnvironmentVariables("%ZennoPosterCurrentPath%");
+            var p = System.Diagnostics.Process.Start(zppath+"\\TasksRunner.exe", "-o SetTries 1 -names Love_vk");
+            p.WaitForExit();
+        }
+	
+	//увеличить кол-во потоков
+		{
+            var zppath = Environment.ExpandEnvironmentVariables("%ZennoPosterCurrentPath%");
+            var p = System.Diagnostics.Process.Start(zppath+"\\TasksRunner.exe", "-o AddThreads 1 -names Love_vk");
+            p.WaitForExit();
+        }
+	
+	//увеличить кол-во выполнений
+		{
+            var zppath = Environment.ExpandEnvironmentVariables("%ZennoPosterCurrentPath%");
+            var p = System.Diagnostics.Process.Start(zppath+"\\TasksRunner.exe", "-o AddTries 1 -names Love_vk");
+            p.WaitForExit();
+        }
