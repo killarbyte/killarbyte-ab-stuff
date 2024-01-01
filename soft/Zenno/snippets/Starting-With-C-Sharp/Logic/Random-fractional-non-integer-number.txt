@@ -1,0 +1,5 @@
+﻿//Случайное дробное, нецелое число, random
+
+Random rnd = new Random();
+double tmp = rnd.NextDouble();
+return tmp;
