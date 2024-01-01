@@ -1,0 +1,3 @@
+﻿//Возврат на предыдущую страничку
+
+instance.ActiveTab.MainDocument.EvaluateScript("javascript:history.back()");
