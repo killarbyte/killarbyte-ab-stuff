@@ -1,0 +1,3 @@
+﻿//Узнаём количество вкладок
+
+return instance.AllTabs.Length;
