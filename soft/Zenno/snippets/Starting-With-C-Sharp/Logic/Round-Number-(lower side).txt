@@ -1,0 +1,3 @@
+﻿//Округление до целого числа в меньшую сторону
+
+return System.Math.Floor(Convert.ToDouble(project.Variables["tmp"].Value.Replace(".",","))); //округление всегда вниз (закомментить предыдущую строку)
