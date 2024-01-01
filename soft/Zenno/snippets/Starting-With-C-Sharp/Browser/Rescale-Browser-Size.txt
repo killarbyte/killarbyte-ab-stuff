@@ -1,0 +1,4 @@
+﻿//Изменить масштаб браузера
+
+Tab tab = instance.ActiveTab;
+tab.PageScale = 25;
