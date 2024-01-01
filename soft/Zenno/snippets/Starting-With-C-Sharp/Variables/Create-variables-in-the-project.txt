@@ -1,0 +1,13 @@
+﻿//Создаём переменные в проекте
+
+string Name = "abc";
+
+if (project.Variables.Keys.Contains(Name)) {
+	project.SendInfoToLog("Переменная "+Name+" уже существует");
+}
+
+else {
+	project.SendInfoToLog("Создаем переменную "+Name+"");
+	object obj = project.Variables;
+	obj.GetType().GetMethod("QuickCreateVariable").Invoke(obj,new Object[]{Name});
+}
