@@ -1,15 +1,23 @@
 ﻿var listFiles = project.Lists["input"]; // Имя списка в ZP
 string inputTmp = project.Directory + @"\files\input\"; // Путь к папке с файлами
 
+// Получаем список файлов в указанной папке
+string[] dirFiles = Directory.GetFiles(inputTmp);
+
+// Проверяем количество файлов
+if (dirFiles.Length == 0)
+{
+    throw new Exception($"Не найдено ни одного файла в папке: {inputTmp}");
+}
+
 // Очистка списка listFiles перед добавлением новых файлов
 lock (SyncObjects.ListSyncer)
 {
     listFiles.Clear(); // Очищаем список перед добавлением новых файлов
 
-    // Получаем список файлов в указанной папке и добавляем их в список listFiles
-    var dirFiles = Directory.GetFiles(inputTmp);
+    // Добавляем каждый найденный файл в список listFiles
     foreach (string file in dirFiles)
     {
-        listFiles.Add(file); // Добавляем каждый файл в список
+        listFiles.Add(file); // Добавляем файл в список
     }
 }
