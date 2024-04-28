@@ -1,0 +1,15 @@
+﻿var listFiles = project.Lists["input"]; // Имя списка в ZP
+string inputTmp = project.Directory + @"\files\input\"; // Путь к папке с файлами
+
+// Очистка списка listFiles перед добавлением новых файлов
+lock (SyncObjects.ListSyncer)
+{
+    listFiles.Clear(); // Очищаем список перед добавлением новых файлов
+
+    // Получаем список файлов в указанной папке и добавляем их в список listFiles
+    var dirFiles = Directory.GetFiles(inputTmp);
+    foreach (string file in dirFiles)
+    {
+        listFiles.Add(file); // Добавляем каждый файл в список
+    }
+}
