@@ -1,0 +1,13 @@
+﻿// Соберем в список все директории из папки ...\Files
+List<string> dirList = new List<string>(Directory.GetDirectories(string.Format(@"{0}\Files\", project.Directory)).ToList());
+if (dirList.Count == 0)
+{
+    throw new Exception("В указанной папке нет директорий, укажите верный путь");
+}
+
+// Выводим содержимое списка в лог Zennoposter
+foreach (var directory in dirList)
+{
+    // Используем метод для записи в лог Zennoposter
+    project.SendInfoToLog(directory.ToString(), true);
+}
