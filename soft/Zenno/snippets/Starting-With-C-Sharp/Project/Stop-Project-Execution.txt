@@ -1,0 +1,3 @@
+// https://zenno.club/discussion/threads/prervat-rabotu-proekta-c.36317/?roistat_visit=156880#post-402132
+// Останавливаем текущий проект
+ZennoPoster.StopTask(Guid.Parse(project.TaskId));
