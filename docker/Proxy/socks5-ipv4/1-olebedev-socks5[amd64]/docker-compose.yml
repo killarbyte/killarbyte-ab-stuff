@@ -15,3 +15,8 @@ services:
       - PROXY_PASSWORD=YOURPASSWORD
 #    security_opt:
 #      - no-new-privileges:true
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "2"
+        max-size: "50m"
