@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  3x-ui:
+    image: ghcr.io/mhsanaei/3x-ui:latest
+    container_name: 3x-ui
+    restart: unless-stopped
+    ports:
+      - "2053:2053"  # Веб-панель 3X-UI
+      - "443:443"    # VLESS с TLS
+    volumes:
+      - ./data/3x-ui:/etc/x-ui
+      - ./data/ssl:/etc/ssl/3x-ui:ro
+    environment:
+      - XRAY_VMESS_AEAD_FORCED=false
+    tty: true
