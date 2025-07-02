@@ -10,7 +10,8 @@ services:
 #       - 11000:80
     volumes:
       - ./data:/srv
-      - ./filebrowser.db:/database.db
+      - ./filebrowser.db:/filebrowser.db
+      - ./settings.json:/settings.json
     security_opt:
       - no-new-privileges:true
     networks:
