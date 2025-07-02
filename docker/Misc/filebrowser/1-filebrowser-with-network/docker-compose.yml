@@ -6,8 +6,8 @@ services:
     container_name: file-browser
     user: 1000:1000
     restart: unless-stopped
-#     ports:
-#       - 11000:80
+#    ports:
+#      - 11000:80
     volumes:
       - ./data:/srv
       - ./filebrowser.db:/filebrowser.db
