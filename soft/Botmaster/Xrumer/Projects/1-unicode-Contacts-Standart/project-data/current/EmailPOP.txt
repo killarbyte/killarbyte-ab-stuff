@@ -1,1 +1,2 @@
+imap.yandex.ru
 pop.gmail.com
