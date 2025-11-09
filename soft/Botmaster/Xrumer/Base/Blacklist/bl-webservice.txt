@@ -20,3 +20,4 @@ mail\.ru
 etsy\.com
 stackoverflow\.com
 googleusercontent\.com
+shopify\.com
